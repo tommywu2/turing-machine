@@ -1,7 +1,8 @@
-alphabet = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "A", "B", "C", "D", "E", "F"]
+alphabet = {"0": "⓪", "1": "①", "2": "②", "3": "③", "4": "④", "5": "⑤", "6": "⑥", "7": "⑦", "8": "⑧", "9": "⑨", "A": "a", "B": "b", "C": "c", "D": "d", "E": "e", "F": "f"}
+
 numbers = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
 letters = ["A", "B", "C", "D", "E", "F"]
-letters = {"A": "10", "B": "11", "C": "12", "D": "13", "E": "14", "F": "15"}
+
 states = {"PIVOT": "pivot"}
 
 file = open("machine_rules.tsv", "w", encoding="utf-8")
@@ -24,10 +25,15 @@ for n0 in numbers:
 for l0 in letters:
     write_rule(f"return", l0, "←", "", f"return")
 write_rule(f"return", ",", "←", "", f"return")
-write_rule(f"return", "[", "→", "", f"start")
+write_rule(f"return", "[", "→", "", f"compare")
 
-
-
+for s0 in alphabet:
+    write_rule(f"compare", s0, "→", alphabet[s0], f"compare_forward_{s0}")
+    write_rule(f"compare_forward_{s0}", s0, "→", "", f"compare_forward_{s0}")
+    write_rule(f"compare_forward_{s0}", ",", "→", "", f"compare_{s0}")
+    for s1 in alphabet:
+        #look at index and decide to replace or not
+        write_rule(f"compare_{s0}", s1, "→", "", f"compare_forward_{s0}")
 
 
 
