@@ -11,39 +11,45 @@ def write_rule(curr_state, curr_symbol, move, next_symbol, next_state):
     file.write(f"{curr_state}\t{curr_symbol}\t{move}\t{next_symbol}\t{next_state}\n")
 
 
-write_rule("⎆", "[", "→", "", "setup")
-
-for n0 in numbers:
-    write_rule(f"setup", n0, "→", "", f"setup")
-for l0 in letters:
-    write_rule(f"setup", l0, "→", "", f"setup")
-write_rule(f"setup", ",", "→", "", f"setup")
-write_rule(f"setup", "]", "←", "|", f"return")
-
-for n0 in numbers:
-    write_rule(f"return", n0, "←", "", f"return")
-for l0 in letters:
-    write_rule(f"return", l0, "←", "", f"return")
-write_rule(f"return", ",", "←", "", f"return")
-write_rule(f"return", "[", "→", "", f"compare")
+write_rule("⎆", "[", "→", "", "start")
 
 for s0 in alphabet:
-    write_rule(f"compare", s0, "→", alphabet[s0], f"compare_forward_{s0}")
-    write_rule(f"compare_forward_{s0}", s0, "→", "", f"compare_forward_{s0}")
-    write_rule(f"compare_forward_{s0}", ",", "→", "", f"compare_{s0}")
+    write_rule(f"start", s0, "→", "", f"start_{s0}")
+    #write_rule(f"start", alphabet[s0], "→", "", f"start")
     for s1 in alphabet:
-        #look at index and decide to replace or not
-        write_rule(f"compare_{s0}", s1, "→", "", f"compare_forward_{s0}")
+        write_rule(f"start_{s0}", s1, "→", "", f"start_{s0}")
+    write_rule(f"start_{s0}", ",", "→", "", f"compare_{s0}")
+    write_rule(f"compare_{s0}", s0, "←", alphabet[s0], f"goto_A")
+    for s1 in alphabet:
+        write_rule(f"compare_{s0}", alphabet[s1], "→", "", f"compare_{s0}")
+        if s1 != s0:
+            write_rule(f"compare_{s0}", s1, "←", alphabet[s0], f"replace_A_start_with_{s1}")
+        write_rule(f"replace_A_start_with_{s1}", s0, "←", "", f"replace_A_start_with_{s1}")
+        write_rule(f"replace_A_start_with_{s1}", alphabet[s0], "←", "", f"replace_A_start_with_{s1}")
+for s1 in alphabet:
+    write_rule(f"replace_A_start_with_{s1}", ",", "←", "", f"replace_start_with_{s1}")
+    for s0 in alphabet:
+        write_rule(f"replace_start_with_{s1}", s0, "←", "", f"replace_start_with_{s1}")
+        write_rule(f"replace_start_with_{s1}", alphabet[s0], "→", "", f"replace_with_{s1}")
+for s1 in alphabet:
+    write_rule(f"replace_start_with_{s1}", "[", "→", "", f"replace_with_{s1}")
+    write_rule(f"replace_start_with_{s1}", ",", "→", "", f"replace_with_{s1}")
+    for s0 in alphabet:
+        write_rule(f"replace_with_{s1}", s0, "→", alphabet[s1], f"start")
+for s0 in alphabet:
+    write_rule(f"goto_A", s0, "←", "", f"goto_A")
+    write_rule(f"goto_A", alphabet[s0], "←", "", f"goto_A")
+write_rule(f"goto_A", ",", "←", "", f"goto_string_start")
+for s0 in alphabet:
+    write_rule(f"goto_string_start", s0, "←", "", f"goto_string_start")
+    write_rule(f"goto_string_start", alphabet[s0], "→", "", f"mark")
+write_rule(f"goto_string_start", "[", "→", "", f"mark")
+write_rule(f"goto_string_start", ",", "→", "", f"mark")
+for s0 in alphabet:
+    write_rule(f"mark", s0, "→", alphabet[s0], f"start")
 
-
+write_rule(f"start", ",", "→", "", f"clean_string_clean_string")
 
 for s0 in alphabet:
-    write_rule(f"read_", s0, "→", "", f"next_{s0}")
-    write_rule(f"next_{s0}", ",", "→", "", f"compare_{s0}")
-    write_rule(f"compare_{s0}", "s0", "→", "", f"compare_{s0}")
-    for s1 in alphabet:
-        write_rule(f"go_swap_{s0}", s1, "→", "", f"go_swap_{s0}")
-    for s1 in alphabet:
-        write_rule(f"pivot_{s0}", s1, "→", "", f"next_word_{s0}{s1}")
-
-write_rule(f"read_word", ",", "→", "", f"next_word_{s0}")
+    write_rule(f"clean_string__clean_string", alphabet[s0], "→", s0, f"clean_string__clean_string")
+write_rule(f"clean_string__clean_string", ",", "→", "", f"start")

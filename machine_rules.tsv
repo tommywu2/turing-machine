@@ -1,902 +1,2230 @@
-⎆	[	→		setup
-setup	0	→		setup
-setup	1	→		setup
-setup	2	→		setup
-setup	3	→		setup
-setup	4	→		setup
-setup	5	→		setup
-setup	6	→		setup
-setup	7	→		setup
-setup	8	→		setup
-setup	9	→		setup
-setup	A	→		setup
-setup	B	→		setup
-setup	C	→		setup
-setup	D	→		setup
-setup	E	→		setup
-setup	F	→		setup
-setup	,	→		setup
-setup	]	←	|	return
-return	0	←		return
-return	1	←		return
-return	2	←		return
-return	3	←		return
-return	4	←		return
-return	5	←		return
-return	6	←		return
-return	7	←		return
-return	8	←		return
-return	9	←		return
-return	A	←		return
-return	B	←		return
-return	C	←		return
-return	D	←		return
-return	E	←		return
-return	F	←		return
-return	,	←		return
-return	[	→		compare
-compare	0	→	⓪	compare_forward_0
-compare_forward_0	0	→		compare_forward_0
-compare_forward_0	,	→		compare_0
-compare_0	0	→		compare_forward_0
-compare_0	1	→		compare_forward_0
-compare_0	2	→		compare_forward_0
-compare_0	3	→		compare_forward_0
-compare_0	4	→		compare_forward_0
-compare_0	5	→		compare_forward_0
-compare_0	6	→		compare_forward_0
-compare_0	7	→		compare_forward_0
-compare_0	8	→		compare_forward_0
-compare_0	9	→		compare_forward_0
-compare_0	A	→		compare_forward_0
-compare_0	B	→		compare_forward_0
-compare_0	C	→		compare_forward_0
-compare_0	D	→		compare_forward_0
-compare_0	E	→		compare_forward_0
-compare_0	F	→		compare_forward_0
-compare	1	→	①	compare_forward_1
-compare_forward_1	1	→		compare_forward_1
-compare_forward_1	,	→		compare_1
-compare_1	0	→		compare_forward_1
-compare_1	1	→		compare_forward_1
-compare_1	2	→		compare_forward_1
-compare_1	3	→		compare_forward_1
-compare_1	4	→		compare_forward_1
-compare_1	5	→		compare_forward_1
-compare_1	6	→		compare_forward_1
-compare_1	7	→		compare_forward_1
-compare_1	8	→		compare_forward_1
-compare_1	9	→		compare_forward_1
-compare_1	A	→		compare_forward_1
-compare_1	B	→		compare_forward_1
-compare_1	C	→		compare_forward_1
-compare_1	D	→		compare_forward_1
-compare_1	E	→		compare_forward_1
-compare_1	F	→		compare_forward_1
-compare	2	→	②	compare_forward_2
-compare_forward_2	2	→		compare_forward_2
-compare_forward_2	,	→		compare_2
-compare_2	0	→		compare_forward_2
-compare_2	1	→		compare_forward_2
-compare_2	2	→		compare_forward_2
-compare_2	3	→		compare_forward_2
-compare_2	4	→		compare_forward_2
-compare_2	5	→		compare_forward_2
-compare_2	6	→		compare_forward_2
-compare_2	7	→		compare_forward_2
-compare_2	8	→		compare_forward_2
-compare_2	9	→		compare_forward_2
-compare_2	A	→		compare_forward_2
-compare_2	B	→		compare_forward_2
-compare_2	C	→		compare_forward_2
-compare_2	D	→		compare_forward_2
-compare_2	E	→		compare_forward_2
-compare_2	F	→		compare_forward_2
-compare	3	→	③	compare_forward_3
-compare_forward_3	3	→		compare_forward_3
-compare_forward_3	,	→		compare_3
-compare_3	0	→		compare_forward_3
-compare_3	1	→		compare_forward_3
-compare_3	2	→		compare_forward_3
-compare_3	3	→		compare_forward_3
-compare_3	4	→		compare_forward_3
-compare_3	5	→		compare_forward_3
-compare_3	6	→		compare_forward_3
-compare_3	7	→		compare_forward_3
-compare_3	8	→		compare_forward_3
-compare_3	9	→		compare_forward_3
-compare_3	A	→		compare_forward_3
-compare_3	B	→		compare_forward_3
-compare_3	C	→		compare_forward_3
-compare_3	D	→		compare_forward_3
-compare_3	E	→		compare_forward_3
-compare_3	F	→		compare_forward_3
-compare	4	→	④	compare_forward_4
-compare_forward_4	4	→		compare_forward_4
-compare_forward_4	,	→		compare_4
-compare_4	0	→		compare_forward_4
-compare_4	1	→		compare_forward_4
-compare_4	2	→		compare_forward_4
-compare_4	3	→		compare_forward_4
-compare_4	4	→		compare_forward_4
-compare_4	5	→		compare_forward_4
-compare_4	6	→		compare_forward_4
-compare_4	7	→		compare_forward_4
-compare_4	8	→		compare_forward_4
-compare_4	9	→		compare_forward_4
-compare_4	A	→		compare_forward_4
-compare_4	B	→		compare_forward_4
-compare_4	C	→		compare_forward_4
-compare_4	D	→		compare_forward_4
-compare_4	E	→		compare_forward_4
-compare_4	F	→		compare_forward_4
-compare	5	→	⑤	compare_forward_5
-compare_forward_5	5	→		compare_forward_5
-compare_forward_5	,	→		compare_5
-compare_5	0	→		compare_forward_5
-compare_5	1	→		compare_forward_5
-compare_5	2	→		compare_forward_5
-compare_5	3	→		compare_forward_5
-compare_5	4	→		compare_forward_5
-compare_5	5	→		compare_forward_5
-compare_5	6	→		compare_forward_5
-compare_5	7	→		compare_forward_5
-compare_5	8	→		compare_forward_5
-compare_5	9	→		compare_forward_5
-compare_5	A	→		compare_forward_5
-compare_5	B	→		compare_forward_5
-compare_5	C	→		compare_forward_5
-compare_5	D	→		compare_forward_5
-compare_5	E	→		compare_forward_5
-compare_5	F	→		compare_forward_5
-compare	6	→	⑥	compare_forward_6
-compare_forward_6	6	→		compare_forward_6
-compare_forward_6	,	→		compare_6
-compare_6	0	→		compare_forward_6
-compare_6	1	→		compare_forward_6
-compare_6	2	→		compare_forward_6
-compare_6	3	→		compare_forward_6
-compare_6	4	→		compare_forward_6
-compare_6	5	→		compare_forward_6
-compare_6	6	→		compare_forward_6
-compare_6	7	→		compare_forward_6
-compare_6	8	→		compare_forward_6
-compare_6	9	→		compare_forward_6
-compare_6	A	→		compare_forward_6
-compare_6	B	→		compare_forward_6
-compare_6	C	→		compare_forward_6
-compare_6	D	→		compare_forward_6
-compare_6	E	→		compare_forward_6
-compare_6	F	→		compare_forward_6
-compare	7	→	⑦	compare_forward_7
-compare_forward_7	7	→		compare_forward_7
-compare_forward_7	,	→		compare_7
-compare_7	0	→		compare_forward_7
-compare_7	1	→		compare_forward_7
-compare_7	2	→		compare_forward_7
-compare_7	3	→		compare_forward_7
-compare_7	4	→		compare_forward_7
-compare_7	5	→		compare_forward_7
-compare_7	6	→		compare_forward_7
-compare_7	7	→		compare_forward_7
-compare_7	8	→		compare_forward_7
-compare_7	9	→		compare_forward_7
-compare_7	A	→		compare_forward_7
-compare_7	B	→		compare_forward_7
-compare_7	C	→		compare_forward_7
-compare_7	D	→		compare_forward_7
-compare_7	E	→		compare_forward_7
-compare_7	F	→		compare_forward_7
-compare	8	→	⑧	compare_forward_8
-compare_forward_8	8	→		compare_forward_8
-compare_forward_8	,	→		compare_8
-compare_8	0	→		compare_forward_8
-compare_8	1	→		compare_forward_8
-compare_8	2	→		compare_forward_8
-compare_8	3	→		compare_forward_8
-compare_8	4	→		compare_forward_8
-compare_8	5	→		compare_forward_8
-compare_8	6	→		compare_forward_8
-compare_8	7	→		compare_forward_8
-compare_8	8	→		compare_forward_8
-compare_8	9	→		compare_forward_8
-compare_8	A	→		compare_forward_8
-compare_8	B	→		compare_forward_8
-compare_8	C	→		compare_forward_8
-compare_8	D	→		compare_forward_8
-compare_8	E	→		compare_forward_8
-compare_8	F	→		compare_forward_8
-compare	9	→	⑨	compare_forward_9
-compare_forward_9	9	→		compare_forward_9
-compare_forward_9	,	→		compare_9
-compare_9	0	→		compare_forward_9
-compare_9	1	→		compare_forward_9
-compare_9	2	→		compare_forward_9
-compare_9	3	→		compare_forward_9
-compare_9	4	→		compare_forward_9
-compare_9	5	→		compare_forward_9
-compare_9	6	→		compare_forward_9
-compare_9	7	→		compare_forward_9
-compare_9	8	→		compare_forward_9
-compare_9	9	→		compare_forward_9
-compare_9	A	→		compare_forward_9
-compare_9	B	→		compare_forward_9
-compare_9	C	→		compare_forward_9
-compare_9	D	→		compare_forward_9
-compare_9	E	→		compare_forward_9
-compare_9	F	→		compare_forward_9
-compare	A	→	a	compare_forward_A
-compare_forward_A	A	→		compare_forward_A
-compare_forward_A	,	→		compare_A
-compare_A	0	→		compare_forward_A
-compare_A	1	→		compare_forward_A
-compare_A	2	→		compare_forward_A
-compare_A	3	→		compare_forward_A
-compare_A	4	→		compare_forward_A
-compare_A	5	→		compare_forward_A
-compare_A	6	→		compare_forward_A
-compare_A	7	→		compare_forward_A
-compare_A	8	→		compare_forward_A
-compare_A	9	→		compare_forward_A
-compare_A	A	→		compare_forward_A
-compare_A	B	→		compare_forward_A
-compare_A	C	→		compare_forward_A
-compare_A	D	→		compare_forward_A
-compare_A	E	→		compare_forward_A
-compare_A	F	→		compare_forward_A
-compare	B	→	b	compare_forward_B
-compare_forward_B	B	→		compare_forward_B
-compare_forward_B	,	→		compare_B
-compare_B	0	→		compare_forward_B
-compare_B	1	→		compare_forward_B
-compare_B	2	→		compare_forward_B
-compare_B	3	→		compare_forward_B
-compare_B	4	→		compare_forward_B
-compare_B	5	→		compare_forward_B
-compare_B	6	→		compare_forward_B
-compare_B	7	→		compare_forward_B
-compare_B	8	→		compare_forward_B
-compare_B	9	→		compare_forward_B
-compare_B	A	→		compare_forward_B
-compare_B	B	→		compare_forward_B
-compare_B	C	→		compare_forward_B
-compare_B	D	→		compare_forward_B
-compare_B	E	→		compare_forward_B
-compare_B	F	→		compare_forward_B
-compare	C	→	c	compare_forward_C
-compare_forward_C	C	→		compare_forward_C
-compare_forward_C	,	→		compare_C
-compare_C	0	→		compare_forward_C
-compare_C	1	→		compare_forward_C
-compare_C	2	→		compare_forward_C
-compare_C	3	→		compare_forward_C
-compare_C	4	→		compare_forward_C
-compare_C	5	→		compare_forward_C
-compare_C	6	→		compare_forward_C
-compare_C	7	→		compare_forward_C
-compare_C	8	→		compare_forward_C
-compare_C	9	→		compare_forward_C
-compare_C	A	→		compare_forward_C
-compare_C	B	→		compare_forward_C
-compare_C	C	→		compare_forward_C
-compare_C	D	→		compare_forward_C
-compare_C	E	→		compare_forward_C
-compare_C	F	→		compare_forward_C
-compare	D	→	d	compare_forward_D
-compare_forward_D	D	→		compare_forward_D
-compare_forward_D	,	→		compare_D
-compare_D	0	→		compare_forward_D
-compare_D	1	→		compare_forward_D
-compare_D	2	→		compare_forward_D
-compare_D	3	→		compare_forward_D
-compare_D	4	→		compare_forward_D
-compare_D	5	→		compare_forward_D
-compare_D	6	→		compare_forward_D
-compare_D	7	→		compare_forward_D
-compare_D	8	→		compare_forward_D
-compare_D	9	→		compare_forward_D
-compare_D	A	→		compare_forward_D
-compare_D	B	→		compare_forward_D
-compare_D	C	→		compare_forward_D
-compare_D	D	→		compare_forward_D
-compare_D	E	→		compare_forward_D
-compare_D	F	→		compare_forward_D
-compare	E	→	e	compare_forward_E
-compare_forward_E	E	→		compare_forward_E
-compare_forward_E	,	→		compare_E
-compare_E	0	→		compare_forward_E
-compare_E	1	→		compare_forward_E
-compare_E	2	→		compare_forward_E
-compare_E	3	→		compare_forward_E
-compare_E	4	→		compare_forward_E
-compare_E	5	→		compare_forward_E
-compare_E	6	→		compare_forward_E
-compare_E	7	→		compare_forward_E
-compare_E	8	→		compare_forward_E
-compare_E	9	→		compare_forward_E
-compare_E	A	→		compare_forward_E
-compare_E	B	→		compare_forward_E
-compare_E	C	→		compare_forward_E
-compare_E	D	→		compare_forward_E
-compare_E	E	→		compare_forward_E
-compare_E	F	→		compare_forward_E
-compare	F	→	f	compare_forward_F
-compare_forward_F	F	→		compare_forward_F
-compare_forward_F	,	→		compare_F
-compare_F	0	→		compare_forward_F
-compare_F	1	→		compare_forward_F
-compare_F	2	→		compare_forward_F
-compare_F	3	→		compare_forward_F
-compare_F	4	→		compare_forward_F
-compare_F	5	→		compare_forward_F
-compare_F	6	→		compare_forward_F
-compare_F	7	→		compare_forward_F
-compare_F	8	→		compare_forward_F
-compare_F	9	→		compare_forward_F
-compare_F	A	→		compare_forward_F
-compare_F	B	→		compare_forward_F
-compare_F	C	→		compare_forward_F
-compare_F	D	→		compare_forward_F
-compare_F	E	→		compare_forward_F
-compare_F	F	→		compare_forward_F
-read_	0	→		next_0
-next_0	,	→		compare_0
-compare_0	s0	→		compare_0
-go_swap_0	0	→		go_swap_0
-go_swap_0	1	→		go_swap_0
-go_swap_0	2	→		go_swap_0
-go_swap_0	3	→		go_swap_0
-go_swap_0	4	→		go_swap_0
-go_swap_0	5	→		go_swap_0
-go_swap_0	6	→		go_swap_0
-go_swap_0	7	→		go_swap_0
-go_swap_0	8	→		go_swap_0
-go_swap_0	9	→		go_swap_0
-go_swap_0	A	→		go_swap_0
-go_swap_0	B	→		go_swap_0
-go_swap_0	C	→		go_swap_0
-go_swap_0	D	→		go_swap_0
-go_swap_0	E	→		go_swap_0
-go_swap_0	F	→		go_swap_0
-pivot_0	0	→		next_word_00
-pivot_0	1	→		next_word_01
-pivot_0	2	→		next_word_02
-pivot_0	3	→		next_word_03
-pivot_0	4	→		next_word_04
-pivot_0	5	→		next_word_05
-pivot_0	6	→		next_word_06
-pivot_0	7	→		next_word_07
-pivot_0	8	→		next_word_08
-pivot_0	9	→		next_word_09
-pivot_0	A	→		next_word_0A
-pivot_0	B	→		next_word_0B
-pivot_0	C	→		next_word_0C
-pivot_0	D	→		next_word_0D
-pivot_0	E	→		next_word_0E
-pivot_0	F	→		next_word_0F
-read_	1	→		next_1
-next_1	,	→		compare_1
-compare_1	s0	→		compare_1
-go_swap_1	0	→		go_swap_1
-go_swap_1	1	→		go_swap_1
-go_swap_1	2	→		go_swap_1
-go_swap_1	3	→		go_swap_1
-go_swap_1	4	→		go_swap_1
-go_swap_1	5	→		go_swap_1
-go_swap_1	6	→		go_swap_1
-go_swap_1	7	→		go_swap_1
-go_swap_1	8	→		go_swap_1
-go_swap_1	9	→		go_swap_1
-go_swap_1	A	→		go_swap_1
-go_swap_1	B	→		go_swap_1
-go_swap_1	C	→		go_swap_1
-go_swap_1	D	→		go_swap_1
-go_swap_1	E	→		go_swap_1
-go_swap_1	F	→		go_swap_1
-pivot_1	0	→		next_word_10
-pivot_1	1	→		next_word_11
-pivot_1	2	→		next_word_12
-pivot_1	3	→		next_word_13
-pivot_1	4	→		next_word_14
-pivot_1	5	→		next_word_15
-pivot_1	6	→		next_word_16
-pivot_1	7	→		next_word_17
-pivot_1	8	→		next_word_18
-pivot_1	9	→		next_word_19
-pivot_1	A	→		next_word_1A
-pivot_1	B	→		next_word_1B
-pivot_1	C	→		next_word_1C
-pivot_1	D	→		next_word_1D
-pivot_1	E	→		next_word_1E
-pivot_1	F	→		next_word_1F
-read_	2	→		next_2
-next_2	,	→		compare_2
-compare_2	s0	→		compare_2
-go_swap_2	0	→		go_swap_2
-go_swap_2	1	→		go_swap_2
-go_swap_2	2	→		go_swap_2
-go_swap_2	3	→		go_swap_2
-go_swap_2	4	→		go_swap_2
-go_swap_2	5	→		go_swap_2
-go_swap_2	6	→		go_swap_2
-go_swap_2	7	→		go_swap_2
-go_swap_2	8	→		go_swap_2
-go_swap_2	9	→		go_swap_2
-go_swap_2	A	→		go_swap_2
-go_swap_2	B	→		go_swap_2
-go_swap_2	C	→		go_swap_2
-go_swap_2	D	→		go_swap_2
-go_swap_2	E	→		go_swap_2
-go_swap_2	F	→		go_swap_2
-pivot_2	0	→		next_word_20
-pivot_2	1	→		next_word_21
-pivot_2	2	→		next_word_22
-pivot_2	3	→		next_word_23
-pivot_2	4	→		next_word_24
-pivot_2	5	→		next_word_25
-pivot_2	6	→		next_word_26
-pivot_2	7	→		next_word_27
-pivot_2	8	→		next_word_28
-pivot_2	9	→		next_word_29
-pivot_2	A	→		next_word_2A
-pivot_2	B	→		next_word_2B
-pivot_2	C	→		next_word_2C
-pivot_2	D	→		next_word_2D
-pivot_2	E	→		next_word_2E
-pivot_2	F	→		next_word_2F
-read_	3	→		next_3
-next_3	,	→		compare_3
-compare_3	s0	→		compare_3
-go_swap_3	0	→		go_swap_3
-go_swap_3	1	→		go_swap_3
-go_swap_3	2	→		go_swap_3
-go_swap_3	3	→		go_swap_3
-go_swap_3	4	→		go_swap_3
-go_swap_3	5	→		go_swap_3
-go_swap_3	6	→		go_swap_3
-go_swap_3	7	→		go_swap_3
-go_swap_3	8	→		go_swap_3
-go_swap_3	9	→		go_swap_3
-go_swap_3	A	→		go_swap_3
-go_swap_3	B	→		go_swap_3
-go_swap_3	C	→		go_swap_3
-go_swap_3	D	→		go_swap_3
-go_swap_3	E	→		go_swap_3
-go_swap_3	F	→		go_swap_3
-pivot_3	0	→		next_word_30
-pivot_3	1	→		next_word_31
-pivot_3	2	→		next_word_32
-pivot_3	3	→		next_word_33
-pivot_3	4	→		next_word_34
-pivot_3	5	→		next_word_35
-pivot_3	6	→		next_word_36
-pivot_3	7	→		next_word_37
-pivot_3	8	→		next_word_38
-pivot_3	9	→		next_word_39
-pivot_3	A	→		next_word_3A
-pivot_3	B	→		next_word_3B
-pivot_3	C	→		next_word_3C
-pivot_3	D	→		next_word_3D
-pivot_3	E	→		next_word_3E
-pivot_3	F	→		next_word_3F
-read_	4	→		next_4
-next_4	,	→		compare_4
-compare_4	s0	→		compare_4
-go_swap_4	0	→		go_swap_4
-go_swap_4	1	→		go_swap_4
-go_swap_4	2	→		go_swap_4
-go_swap_4	3	→		go_swap_4
-go_swap_4	4	→		go_swap_4
-go_swap_4	5	→		go_swap_4
-go_swap_4	6	→		go_swap_4
-go_swap_4	7	→		go_swap_4
-go_swap_4	8	→		go_swap_4
-go_swap_4	9	→		go_swap_4
-go_swap_4	A	→		go_swap_4
-go_swap_4	B	→		go_swap_4
-go_swap_4	C	→		go_swap_4
-go_swap_4	D	→		go_swap_4
-go_swap_4	E	→		go_swap_4
-go_swap_4	F	→		go_swap_4
-pivot_4	0	→		next_word_40
-pivot_4	1	→		next_word_41
-pivot_4	2	→		next_word_42
-pivot_4	3	→		next_word_43
-pivot_4	4	→		next_word_44
-pivot_4	5	→		next_word_45
-pivot_4	6	→		next_word_46
-pivot_4	7	→		next_word_47
-pivot_4	8	→		next_word_48
-pivot_4	9	→		next_word_49
-pivot_4	A	→		next_word_4A
-pivot_4	B	→		next_word_4B
-pivot_4	C	→		next_word_4C
-pivot_4	D	→		next_word_4D
-pivot_4	E	→		next_word_4E
-pivot_4	F	→		next_word_4F
-read_	5	→		next_5
-next_5	,	→		compare_5
-compare_5	s0	→		compare_5
-go_swap_5	0	→		go_swap_5
-go_swap_5	1	→		go_swap_5
-go_swap_5	2	→		go_swap_5
-go_swap_5	3	→		go_swap_5
-go_swap_5	4	→		go_swap_5
-go_swap_5	5	→		go_swap_5
-go_swap_5	6	→		go_swap_5
-go_swap_5	7	→		go_swap_5
-go_swap_5	8	→		go_swap_5
-go_swap_5	9	→		go_swap_5
-go_swap_5	A	→		go_swap_5
-go_swap_5	B	→		go_swap_5
-go_swap_5	C	→		go_swap_5
-go_swap_5	D	→		go_swap_5
-go_swap_5	E	→		go_swap_5
-go_swap_5	F	→		go_swap_5
-pivot_5	0	→		next_word_50
-pivot_5	1	→		next_word_51
-pivot_5	2	→		next_word_52
-pivot_5	3	→		next_word_53
-pivot_5	4	→		next_word_54
-pivot_5	5	→		next_word_55
-pivot_5	6	→		next_word_56
-pivot_5	7	→		next_word_57
-pivot_5	8	→		next_word_58
-pivot_5	9	→		next_word_59
-pivot_5	A	→		next_word_5A
-pivot_5	B	→		next_word_5B
-pivot_5	C	→		next_word_5C
-pivot_5	D	→		next_word_5D
-pivot_5	E	→		next_word_5E
-pivot_5	F	→		next_word_5F
-read_	6	→		next_6
-next_6	,	→		compare_6
-compare_6	s0	→		compare_6
-go_swap_6	0	→		go_swap_6
-go_swap_6	1	→		go_swap_6
-go_swap_6	2	→		go_swap_6
-go_swap_6	3	→		go_swap_6
-go_swap_6	4	→		go_swap_6
-go_swap_6	5	→		go_swap_6
-go_swap_6	6	→		go_swap_6
-go_swap_6	7	→		go_swap_6
-go_swap_6	8	→		go_swap_6
-go_swap_6	9	→		go_swap_6
-go_swap_6	A	→		go_swap_6
-go_swap_6	B	→		go_swap_6
-go_swap_6	C	→		go_swap_6
-go_swap_6	D	→		go_swap_6
-go_swap_6	E	→		go_swap_6
-go_swap_6	F	→		go_swap_6
-pivot_6	0	→		next_word_60
-pivot_6	1	→		next_word_61
-pivot_6	2	→		next_word_62
-pivot_6	3	→		next_word_63
-pivot_6	4	→		next_word_64
-pivot_6	5	→		next_word_65
-pivot_6	6	→		next_word_66
-pivot_6	7	→		next_word_67
-pivot_6	8	→		next_word_68
-pivot_6	9	→		next_word_69
-pivot_6	A	→		next_word_6A
-pivot_6	B	→		next_word_6B
-pivot_6	C	→		next_word_6C
-pivot_6	D	→		next_word_6D
-pivot_6	E	→		next_word_6E
-pivot_6	F	→		next_word_6F
-read_	7	→		next_7
-next_7	,	→		compare_7
-compare_7	s0	→		compare_7
-go_swap_7	0	→		go_swap_7
-go_swap_7	1	→		go_swap_7
-go_swap_7	2	→		go_swap_7
-go_swap_7	3	→		go_swap_7
-go_swap_7	4	→		go_swap_7
-go_swap_7	5	→		go_swap_7
-go_swap_7	6	→		go_swap_7
-go_swap_7	7	→		go_swap_7
-go_swap_7	8	→		go_swap_7
-go_swap_7	9	→		go_swap_7
-go_swap_7	A	→		go_swap_7
-go_swap_7	B	→		go_swap_7
-go_swap_7	C	→		go_swap_7
-go_swap_7	D	→		go_swap_7
-go_swap_7	E	→		go_swap_7
-go_swap_7	F	→		go_swap_7
-pivot_7	0	→		next_word_70
-pivot_7	1	→		next_word_71
-pivot_7	2	→		next_word_72
-pivot_7	3	→		next_word_73
-pivot_7	4	→		next_word_74
-pivot_7	5	→		next_word_75
-pivot_7	6	→		next_word_76
-pivot_7	7	→		next_word_77
-pivot_7	8	→		next_word_78
-pivot_7	9	→		next_word_79
-pivot_7	A	→		next_word_7A
-pivot_7	B	→		next_word_7B
-pivot_7	C	→		next_word_7C
-pivot_7	D	→		next_word_7D
-pivot_7	E	→		next_word_7E
-pivot_7	F	→		next_word_7F
-read_	8	→		next_8
-next_8	,	→		compare_8
-compare_8	s0	→		compare_8
-go_swap_8	0	→		go_swap_8
-go_swap_8	1	→		go_swap_8
-go_swap_8	2	→		go_swap_8
-go_swap_8	3	→		go_swap_8
-go_swap_8	4	→		go_swap_8
-go_swap_8	5	→		go_swap_8
-go_swap_8	6	→		go_swap_8
-go_swap_8	7	→		go_swap_8
-go_swap_8	8	→		go_swap_8
-go_swap_8	9	→		go_swap_8
-go_swap_8	A	→		go_swap_8
-go_swap_8	B	→		go_swap_8
-go_swap_8	C	→		go_swap_8
-go_swap_8	D	→		go_swap_8
-go_swap_8	E	→		go_swap_8
-go_swap_8	F	→		go_swap_8
-pivot_8	0	→		next_word_80
-pivot_8	1	→		next_word_81
-pivot_8	2	→		next_word_82
-pivot_8	3	→		next_word_83
-pivot_8	4	→		next_word_84
-pivot_8	5	→		next_word_85
-pivot_8	6	→		next_word_86
-pivot_8	7	→		next_word_87
-pivot_8	8	→		next_word_88
-pivot_8	9	→		next_word_89
-pivot_8	A	→		next_word_8A
-pivot_8	B	→		next_word_8B
-pivot_8	C	→		next_word_8C
-pivot_8	D	→		next_word_8D
-pivot_8	E	→		next_word_8E
-pivot_8	F	→		next_word_8F
-read_	9	→		next_9
-next_9	,	→		compare_9
-compare_9	s0	→		compare_9
-go_swap_9	0	→		go_swap_9
-go_swap_9	1	→		go_swap_9
-go_swap_9	2	→		go_swap_9
-go_swap_9	3	→		go_swap_9
-go_swap_9	4	→		go_swap_9
-go_swap_9	5	→		go_swap_9
-go_swap_9	6	→		go_swap_9
-go_swap_9	7	→		go_swap_9
-go_swap_9	8	→		go_swap_9
-go_swap_9	9	→		go_swap_9
-go_swap_9	A	→		go_swap_9
-go_swap_9	B	→		go_swap_9
-go_swap_9	C	→		go_swap_9
-go_swap_9	D	→		go_swap_9
-go_swap_9	E	→		go_swap_9
-go_swap_9	F	→		go_swap_9
-pivot_9	0	→		next_word_90
-pivot_9	1	→		next_word_91
-pivot_9	2	→		next_word_92
-pivot_9	3	→		next_word_93
-pivot_9	4	→		next_word_94
-pivot_9	5	→		next_word_95
-pivot_9	6	→		next_word_96
-pivot_9	7	→		next_word_97
-pivot_9	8	→		next_word_98
-pivot_9	9	→		next_word_99
-pivot_9	A	→		next_word_9A
-pivot_9	B	→		next_word_9B
-pivot_9	C	→		next_word_9C
-pivot_9	D	→		next_word_9D
-pivot_9	E	→		next_word_9E
-pivot_9	F	→		next_word_9F
-read_	A	→		next_A
-next_A	,	→		compare_A
-compare_A	s0	→		compare_A
-go_swap_A	0	→		go_swap_A
-go_swap_A	1	→		go_swap_A
-go_swap_A	2	→		go_swap_A
-go_swap_A	3	→		go_swap_A
-go_swap_A	4	→		go_swap_A
-go_swap_A	5	→		go_swap_A
-go_swap_A	6	→		go_swap_A
-go_swap_A	7	→		go_swap_A
-go_swap_A	8	→		go_swap_A
-go_swap_A	9	→		go_swap_A
-go_swap_A	A	→		go_swap_A
-go_swap_A	B	→		go_swap_A
-go_swap_A	C	→		go_swap_A
-go_swap_A	D	→		go_swap_A
-go_swap_A	E	→		go_swap_A
-go_swap_A	F	→		go_swap_A
-pivot_A	0	→		next_word_A0
-pivot_A	1	→		next_word_A1
-pivot_A	2	→		next_word_A2
-pivot_A	3	→		next_word_A3
-pivot_A	4	→		next_word_A4
-pivot_A	5	→		next_word_A5
-pivot_A	6	→		next_word_A6
-pivot_A	7	→		next_word_A7
-pivot_A	8	→		next_word_A8
-pivot_A	9	→		next_word_A9
-pivot_A	A	→		next_word_AA
-pivot_A	B	→		next_word_AB
-pivot_A	C	→		next_word_AC
-pivot_A	D	→		next_word_AD
-pivot_A	E	→		next_word_AE
-pivot_A	F	→		next_word_AF
-read_	B	→		next_B
-next_B	,	→		compare_B
-compare_B	s0	→		compare_B
-go_swap_B	0	→		go_swap_B
-go_swap_B	1	→		go_swap_B
-go_swap_B	2	→		go_swap_B
-go_swap_B	3	→		go_swap_B
-go_swap_B	4	→		go_swap_B
-go_swap_B	5	→		go_swap_B
-go_swap_B	6	→		go_swap_B
-go_swap_B	7	→		go_swap_B
-go_swap_B	8	→		go_swap_B
-go_swap_B	9	→		go_swap_B
-go_swap_B	A	→		go_swap_B
-go_swap_B	B	→		go_swap_B
-go_swap_B	C	→		go_swap_B
-go_swap_B	D	→		go_swap_B
-go_swap_B	E	→		go_swap_B
-go_swap_B	F	→		go_swap_B
-pivot_B	0	→		next_word_B0
-pivot_B	1	→		next_word_B1
-pivot_B	2	→		next_word_B2
-pivot_B	3	→		next_word_B3
-pivot_B	4	→		next_word_B4
-pivot_B	5	→		next_word_B5
-pivot_B	6	→		next_word_B6
-pivot_B	7	→		next_word_B7
-pivot_B	8	→		next_word_B8
-pivot_B	9	→		next_word_B9
-pivot_B	A	→		next_word_BA
-pivot_B	B	→		next_word_BB
-pivot_B	C	→		next_word_BC
-pivot_B	D	→		next_word_BD
-pivot_B	E	→		next_word_BE
-pivot_B	F	→		next_word_BF
-read_	C	→		next_C
-next_C	,	→		compare_C
-compare_C	s0	→		compare_C
-go_swap_C	0	→		go_swap_C
-go_swap_C	1	→		go_swap_C
-go_swap_C	2	→		go_swap_C
-go_swap_C	3	→		go_swap_C
-go_swap_C	4	→		go_swap_C
-go_swap_C	5	→		go_swap_C
-go_swap_C	6	→		go_swap_C
-go_swap_C	7	→		go_swap_C
-go_swap_C	8	→		go_swap_C
-go_swap_C	9	→		go_swap_C
-go_swap_C	A	→		go_swap_C
-go_swap_C	B	→		go_swap_C
-go_swap_C	C	→		go_swap_C
-go_swap_C	D	→		go_swap_C
-go_swap_C	E	→		go_swap_C
-go_swap_C	F	→		go_swap_C
-pivot_C	0	→		next_word_C0
-pivot_C	1	→		next_word_C1
-pivot_C	2	→		next_word_C2
-pivot_C	3	→		next_word_C3
-pivot_C	4	→		next_word_C4
-pivot_C	5	→		next_word_C5
-pivot_C	6	→		next_word_C6
-pivot_C	7	→		next_word_C7
-pivot_C	8	→		next_word_C8
-pivot_C	9	→		next_word_C9
-pivot_C	A	→		next_word_CA
-pivot_C	B	→		next_word_CB
-pivot_C	C	→		next_word_CC
-pivot_C	D	→		next_word_CD
-pivot_C	E	→		next_word_CE
-pivot_C	F	→		next_word_CF
-read_	D	→		next_D
-next_D	,	→		compare_D
-compare_D	s0	→		compare_D
-go_swap_D	0	→		go_swap_D
-go_swap_D	1	→		go_swap_D
-go_swap_D	2	→		go_swap_D
-go_swap_D	3	→		go_swap_D
-go_swap_D	4	→		go_swap_D
-go_swap_D	5	→		go_swap_D
-go_swap_D	6	→		go_swap_D
-go_swap_D	7	→		go_swap_D
-go_swap_D	8	→		go_swap_D
-go_swap_D	9	→		go_swap_D
-go_swap_D	A	→		go_swap_D
-go_swap_D	B	→		go_swap_D
-go_swap_D	C	→		go_swap_D
-go_swap_D	D	→		go_swap_D
-go_swap_D	E	→		go_swap_D
-go_swap_D	F	→		go_swap_D
-pivot_D	0	→		next_word_D0
-pivot_D	1	→		next_word_D1
-pivot_D	2	→		next_word_D2
-pivot_D	3	→		next_word_D3
-pivot_D	4	→		next_word_D4
-pivot_D	5	→		next_word_D5
-pivot_D	6	→		next_word_D6
-pivot_D	7	→		next_word_D7
-pivot_D	8	→		next_word_D8
-pivot_D	9	→		next_word_D9
-pivot_D	A	→		next_word_DA
-pivot_D	B	→		next_word_DB
-pivot_D	C	→		next_word_DC
-pivot_D	D	→		next_word_DD
-pivot_D	E	→		next_word_DE
-pivot_D	F	→		next_word_DF
-read_	E	→		next_E
-next_E	,	→		compare_E
-compare_E	s0	→		compare_E
-go_swap_E	0	→		go_swap_E
-go_swap_E	1	→		go_swap_E
-go_swap_E	2	→		go_swap_E
-go_swap_E	3	→		go_swap_E
-go_swap_E	4	→		go_swap_E
-go_swap_E	5	→		go_swap_E
-go_swap_E	6	→		go_swap_E
-go_swap_E	7	→		go_swap_E
-go_swap_E	8	→		go_swap_E
-go_swap_E	9	→		go_swap_E
-go_swap_E	A	→		go_swap_E
-go_swap_E	B	→		go_swap_E
-go_swap_E	C	→		go_swap_E
-go_swap_E	D	→		go_swap_E
-go_swap_E	E	→		go_swap_E
-go_swap_E	F	→		go_swap_E
-pivot_E	0	→		next_word_E0
-pivot_E	1	→		next_word_E1
-pivot_E	2	→		next_word_E2
-pivot_E	3	→		next_word_E3
-pivot_E	4	→		next_word_E4
-pivot_E	5	→		next_word_E5
-pivot_E	6	→		next_word_E6
-pivot_E	7	→		next_word_E7
-pivot_E	8	→		next_word_E8
-pivot_E	9	→		next_word_E9
-pivot_E	A	→		next_word_EA
-pivot_E	B	→		next_word_EB
-pivot_E	C	→		next_word_EC
-pivot_E	D	→		next_word_ED
-pivot_E	E	→		next_word_EE
-pivot_E	F	→		next_word_EF
-read_	F	→		next_F
-next_F	,	→		compare_F
-compare_F	s0	→		compare_F
-go_swap_F	0	→		go_swap_F
-go_swap_F	1	→		go_swap_F
-go_swap_F	2	→		go_swap_F
-go_swap_F	3	→		go_swap_F
-go_swap_F	4	→		go_swap_F
-go_swap_F	5	→		go_swap_F
-go_swap_F	6	→		go_swap_F
-go_swap_F	7	→		go_swap_F
-go_swap_F	8	→		go_swap_F
-go_swap_F	9	→		go_swap_F
-go_swap_F	A	→		go_swap_F
-go_swap_F	B	→		go_swap_F
-go_swap_F	C	→		go_swap_F
-go_swap_F	D	→		go_swap_F
-go_swap_F	E	→		go_swap_F
-go_swap_F	F	→		go_swap_F
-pivot_F	0	→		next_word_F0
-pivot_F	1	→		next_word_F1
-pivot_F	2	→		next_word_F2
-pivot_F	3	→		next_word_F3
-pivot_F	4	→		next_word_F4
-pivot_F	5	→		next_word_F5
-pivot_F	6	→		next_word_F6
-pivot_F	7	→		next_word_F7
-pivot_F	8	→		next_word_F8
-pivot_F	9	→		next_word_F9
-pivot_F	A	→		next_word_FA
-pivot_F	B	→		next_word_FB
-pivot_F	C	→		next_word_FC
-pivot_F	D	→		next_word_FD
-pivot_F	E	→		next_word_FE
-pivot_F	F	→		next_word_FF
-read_word	,	→		next_word_F
+⎆	[	→		start
+start	0	→		start_0
+start_0	0	→		start_0
+start_0	1	→		start_0
+start_0	2	→		start_0
+start_0	3	→		start_0
+start_0	4	→		start_0
+start_0	5	→		start_0
+start_0	6	→		start_0
+start_0	7	→		start_0
+start_0	8	→		start_0
+start_0	9	→		start_0
+start_0	A	→		start_0
+start_0	B	→		start_0
+start_0	C	→		start_0
+start_0	D	→		start_0
+start_0	E	→		start_0
+start_0	F	→		start_0
+start_0	,	→		compare_0
+compare_0	0	←	⓪	goto_A
+compare_0	⓪	→		compare_0
+replace_A_start_with_0	0	←		replace_A_start_with_0
+replace_A_start_with_0	⓪	←		replace_A_start_with_0
+compare_0	①	→		compare_0
+compare_0	1	←	⓪	replace_A_start_with_1
+replace_A_start_with_1	0	←		replace_A_start_with_1
+replace_A_start_with_1	⓪	←		replace_A_start_with_1
+compare_0	②	→		compare_0
+compare_0	2	←	⓪	replace_A_start_with_2
+replace_A_start_with_2	0	←		replace_A_start_with_2
+replace_A_start_with_2	⓪	←		replace_A_start_with_2
+compare_0	③	→		compare_0
+compare_0	3	←	⓪	replace_A_start_with_3
+replace_A_start_with_3	0	←		replace_A_start_with_3
+replace_A_start_with_3	⓪	←		replace_A_start_with_3
+compare_0	④	→		compare_0
+compare_0	4	←	⓪	replace_A_start_with_4
+replace_A_start_with_4	0	←		replace_A_start_with_4
+replace_A_start_with_4	⓪	←		replace_A_start_with_4
+compare_0	⑤	→		compare_0
+compare_0	5	←	⓪	replace_A_start_with_5
+replace_A_start_with_5	0	←		replace_A_start_with_5
+replace_A_start_with_5	⓪	←		replace_A_start_with_5
+compare_0	⑥	→		compare_0
+compare_0	6	←	⓪	replace_A_start_with_6
+replace_A_start_with_6	0	←		replace_A_start_with_6
+replace_A_start_with_6	⓪	←		replace_A_start_with_6
+compare_0	⑦	→		compare_0
+compare_0	7	←	⓪	replace_A_start_with_7
+replace_A_start_with_7	0	←		replace_A_start_with_7
+replace_A_start_with_7	⓪	←		replace_A_start_with_7
+compare_0	⑧	→		compare_0
+compare_0	8	←	⓪	replace_A_start_with_8
+replace_A_start_with_8	0	←		replace_A_start_with_8
+replace_A_start_with_8	⓪	←		replace_A_start_with_8
+compare_0	⑨	→		compare_0
+compare_0	9	←	⓪	replace_A_start_with_9
+replace_A_start_with_9	0	←		replace_A_start_with_9
+replace_A_start_with_9	⓪	←		replace_A_start_with_9
+compare_0	a	→		compare_0
+compare_0	A	←	⓪	replace_A_start_with_A
+replace_A_start_with_A	0	←		replace_A_start_with_A
+replace_A_start_with_A	⓪	←		replace_A_start_with_A
+compare_0	b	→		compare_0
+compare_0	B	←	⓪	replace_A_start_with_B
+replace_A_start_with_B	0	←		replace_A_start_with_B
+replace_A_start_with_B	⓪	←		replace_A_start_with_B
+compare_0	c	→		compare_0
+compare_0	C	←	⓪	replace_A_start_with_C
+replace_A_start_with_C	0	←		replace_A_start_with_C
+replace_A_start_with_C	⓪	←		replace_A_start_with_C
+compare_0	d	→		compare_0
+compare_0	D	←	⓪	replace_A_start_with_D
+replace_A_start_with_D	0	←		replace_A_start_with_D
+replace_A_start_with_D	⓪	←		replace_A_start_with_D
+compare_0	e	→		compare_0
+compare_0	E	←	⓪	replace_A_start_with_E
+replace_A_start_with_E	0	←		replace_A_start_with_E
+replace_A_start_with_E	⓪	←		replace_A_start_with_E
+compare_0	f	→		compare_0
+compare_0	F	←	⓪	replace_A_start_with_F
+replace_A_start_with_F	0	←		replace_A_start_with_F
+replace_A_start_with_F	⓪	←		replace_A_start_with_F
+start	1	→		start_1
+start_1	0	→		start_1
+start_1	1	→		start_1
+start_1	2	→		start_1
+start_1	3	→		start_1
+start_1	4	→		start_1
+start_1	5	→		start_1
+start_1	6	→		start_1
+start_1	7	→		start_1
+start_1	8	→		start_1
+start_1	9	→		start_1
+start_1	A	→		start_1
+start_1	B	→		start_1
+start_1	C	→		start_1
+start_1	D	→		start_1
+start_1	E	→		start_1
+start_1	F	→		start_1
+start_1	,	→		compare_1
+compare_1	1	←	①	goto_A
+compare_1	⓪	→		compare_1
+compare_1	0	←	①	replace_A_start_with_0
+replace_A_start_with_0	1	←		replace_A_start_with_0
+replace_A_start_with_0	①	←		replace_A_start_with_0
+compare_1	①	→		compare_1
+replace_A_start_with_1	1	←		replace_A_start_with_1
+replace_A_start_with_1	①	←		replace_A_start_with_1
+compare_1	②	→		compare_1
+compare_1	2	←	①	replace_A_start_with_2
+replace_A_start_with_2	1	←		replace_A_start_with_2
+replace_A_start_with_2	①	←		replace_A_start_with_2
+compare_1	③	→		compare_1
+compare_1	3	←	①	replace_A_start_with_3
+replace_A_start_with_3	1	←		replace_A_start_with_3
+replace_A_start_with_3	①	←		replace_A_start_with_3
+compare_1	④	→		compare_1
+compare_1	4	←	①	replace_A_start_with_4
+replace_A_start_with_4	1	←		replace_A_start_with_4
+replace_A_start_with_4	①	←		replace_A_start_with_4
+compare_1	⑤	→		compare_1
+compare_1	5	←	①	replace_A_start_with_5
+replace_A_start_with_5	1	←		replace_A_start_with_5
+replace_A_start_with_5	①	←		replace_A_start_with_5
+compare_1	⑥	→		compare_1
+compare_1	6	←	①	replace_A_start_with_6
+replace_A_start_with_6	1	←		replace_A_start_with_6
+replace_A_start_with_6	①	←		replace_A_start_with_6
+compare_1	⑦	→		compare_1
+compare_1	7	←	①	replace_A_start_with_7
+replace_A_start_with_7	1	←		replace_A_start_with_7
+replace_A_start_with_7	①	←		replace_A_start_with_7
+compare_1	⑧	→		compare_1
+compare_1	8	←	①	replace_A_start_with_8
+replace_A_start_with_8	1	←		replace_A_start_with_8
+replace_A_start_with_8	①	←		replace_A_start_with_8
+compare_1	⑨	→		compare_1
+compare_1	9	←	①	replace_A_start_with_9
+replace_A_start_with_9	1	←		replace_A_start_with_9
+replace_A_start_with_9	①	←		replace_A_start_with_9
+compare_1	a	→		compare_1
+compare_1	A	←	①	replace_A_start_with_A
+replace_A_start_with_A	1	←		replace_A_start_with_A
+replace_A_start_with_A	①	←		replace_A_start_with_A
+compare_1	b	→		compare_1
+compare_1	B	←	①	replace_A_start_with_B
+replace_A_start_with_B	1	←		replace_A_start_with_B
+replace_A_start_with_B	①	←		replace_A_start_with_B
+compare_1	c	→		compare_1
+compare_1	C	←	①	replace_A_start_with_C
+replace_A_start_with_C	1	←		replace_A_start_with_C
+replace_A_start_with_C	①	←		replace_A_start_with_C
+compare_1	d	→		compare_1
+compare_1	D	←	①	replace_A_start_with_D
+replace_A_start_with_D	1	←		replace_A_start_with_D
+replace_A_start_with_D	①	←		replace_A_start_with_D
+compare_1	e	→		compare_1
+compare_1	E	←	①	replace_A_start_with_E
+replace_A_start_with_E	1	←		replace_A_start_with_E
+replace_A_start_with_E	①	←		replace_A_start_with_E
+compare_1	f	→		compare_1
+compare_1	F	←	①	replace_A_start_with_F
+replace_A_start_with_F	1	←		replace_A_start_with_F
+replace_A_start_with_F	①	←		replace_A_start_with_F
+start	2	→		start_2
+start_2	0	→		start_2
+start_2	1	→		start_2
+start_2	2	→		start_2
+start_2	3	→		start_2
+start_2	4	→		start_2
+start_2	5	→		start_2
+start_2	6	→		start_2
+start_2	7	→		start_2
+start_2	8	→		start_2
+start_2	9	→		start_2
+start_2	A	→		start_2
+start_2	B	→		start_2
+start_2	C	→		start_2
+start_2	D	→		start_2
+start_2	E	→		start_2
+start_2	F	→		start_2
+start_2	,	→		compare_2
+compare_2	2	←	②	goto_A
+compare_2	⓪	→		compare_2
+compare_2	0	←	②	replace_A_start_with_0
+replace_A_start_with_0	2	←		replace_A_start_with_0
+replace_A_start_with_0	②	←		replace_A_start_with_0
+compare_2	①	→		compare_2
+compare_2	1	←	②	replace_A_start_with_1
+replace_A_start_with_1	2	←		replace_A_start_with_1
+replace_A_start_with_1	②	←		replace_A_start_with_1
+compare_2	②	→		compare_2
+replace_A_start_with_2	2	←		replace_A_start_with_2
+replace_A_start_with_2	②	←		replace_A_start_with_2
+compare_2	③	→		compare_2
+compare_2	3	←	②	replace_A_start_with_3
+replace_A_start_with_3	2	←		replace_A_start_with_3
+replace_A_start_with_3	②	←		replace_A_start_with_3
+compare_2	④	→		compare_2
+compare_2	4	←	②	replace_A_start_with_4
+replace_A_start_with_4	2	←		replace_A_start_with_4
+replace_A_start_with_4	②	←		replace_A_start_with_4
+compare_2	⑤	→		compare_2
+compare_2	5	←	②	replace_A_start_with_5
+replace_A_start_with_5	2	←		replace_A_start_with_5
+replace_A_start_with_5	②	←		replace_A_start_with_5
+compare_2	⑥	→		compare_2
+compare_2	6	←	②	replace_A_start_with_6
+replace_A_start_with_6	2	←		replace_A_start_with_6
+replace_A_start_with_6	②	←		replace_A_start_with_6
+compare_2	⑦	→		compare_2
+compare_2	7	←	②	replace_A_start_with_7
+replace_A_start_with_7	2	←		replace_A_start_with_7
+replace_A_start_with_7	②	←		replace_A_start_with_7
+compare_2	⑧	→		compare_2
+compare_2	8	←	②	replace_A_start_with_8
+replace_A_start_with_8	2	←		replace_A_start_with_8
+replace_A_start_with_8	②	←		replace_A_start_with_8
+compare_2	⑨	→		compare_2
+compare_2	9	←	②	replace_A_start_with_9
+replace_A_start_with_9	2	←		replace_A_start_with_9
+replace_A_start_with_9	②	←		replace_A_start_with_9
+compare_2	a	→		compare_2
+compare_2	A	←	②	replace_A_start_with_A
+replace_A_start_with_A	2	←		replace_A_start_with_A
+replace_A_start_with_A	②	←		replace_A_start_with_A
+compare_2	b	→		compare_2
+compare_2	B	←	②	replace_A_start_with_B
+replace_A_start_with_B	2	←		replace_A_start_with_B
+replace_A_start_with_B	②	←		replace_A_start_with_B
+compare_2	c	→		compare_2
+compare_2	C	←	②	replace_A_start_with_C
+replace_A_start_with_C	2	←		replace_A_start_with_C
+replace_A_start_with_C	②	←		replace_A_start_with_C
+compare_2	d	→		compare_2
+compare_2	D	←	②	replace_A_start_with_D
+replace_A_start_with_D	2	←		replace_A_start_with_D
+replace_A_start_with_D	②	←		replace_A_start_with_D
+compare_2	e	→		compare_2
+compare_2	E	←	②	replace_A_start_with_E
+replace_A_start_with_E	2	←		replace_A_start_with_E
+replace_A_start_with_E	②	←		replace_A_start_with_E
+compare_2	f	→		compare_2
+compare_2	F	←	②	replace_A_start_with_F
+replace_A_start_with_F	2	←		replace_A_start_with_F
+replace_A_start_with_F	②	←		replace_A_start_with_F
+start	3	→		start_3
+start_3	0	→		start_3
+start_3	1	→		start_3
+start_3	2	→		start_3
+start_3	3	→		start_3
+start_3	4	→		start_3
+start_3	5	→		start_3
+start_3	6	→		start_3
+start_3	7	→		start_3
+start_3	8	→		start_3
+start_3	9	→		start_3
+start_3	A	→		start_3
+start_3	B	→		start_3
+start_3	C	→		start_3
+start_3	D	→		start_3
+start_3	E	→		start_3
+start_3	F	→		start_3
+start_3	,	→		compare_3
+compare_3	3	←	③	goto_A
+compare_3	⓪	→		compare_3
+compare_3	0	←	③	replace_A_start_with_0
+replace_A_start_with_0	3	←		replace_A_start_with_0
+replace_A_start_with_0	③	←		replace_A_start_with_0
+compare_3	①	→		compare_3
+compare_3	1	←	③	replace_A_start_with_1
+replace_A_start_with_1	3	←		replace_A_start_with_1
+replace_A_start_with_1	③	←		replace_A_start_with_1
+compare_3	②	→		compare_3
+compare_3	2	←	③	replace_A_start_with_2
+replace_A_start_with_2	3	←		replace_A_start_with_2
+replace_A_start_with_2	③	←		replace_A_start_with_2
+compare_3	③	→		compare_3
+replace_A_start_with_3	3	←		replace_A_start_with_3
+replace_A_start_with_3	③	←		replace_A_start_with_3
+compare_3	④	→		compare_3
+compare_3	4	←	③	replace_A_start_with_4
+replace_A_start_with_4	3	←		replace_A_start_with_4
+replace_A_start_with_4	③	←		replace_A_start_with_4
+compare_3	⑤	→		compare_3
+compare_3	5	←	③	replace_A_start_with_5
+replace_A_start_with_5	3	←		replace_A_start_with_5
+replace_A_start_with_5	③	←		replace_A_start_with_5
+compare_3	⑥	→		compare_3
+compare_3	6	←	③	replace_A_start_with_6
+replace_A_start_with_6	3	←		replace_A_start_with_6
+replace_A_start_with_6	③	←		replace_A_start_with_6
+compare_3	⑦	→		compare_3
+compare_3	7	←	③	replace_A_start_with_7
+replace_A_start_with_7	3	←		replace_A_start_with_7
+replace_A_start_with_7	③	←		replace_A_start_with_7
+compare_3	⑧	→		compare_3
+compare_3	8	←	③	replace_A_start_with_8
+replace_A_start_with_8	3	←		replace_A_start_with_8
+replace_A_start_with_8	③	←		replace_A_start_with_8
+compare_3	⑨	→		compare_3
+compare_3	9	←	③	replace_A_start_with_9
+replace_A_start_with_9	3	←		replace_A_start_with_9
+replace_A_start_with_9	③	←		replace_A_start_with_9
+compare_3	a	→		compare_3
+compare_3	A	←	③	replace_A_start_with_A
+replace_A_start_with_A	3	←		replace_A_start_with_A
+replace_A_start_with_A	③	←		replace_A_start_with_A
+compare_3	b	→		compare_3
+compare_3	B	←	③	replace_A_start_with_B
+replace_A_start_with_B	3	←		replace_A_start_with_B
+replace_A_start_with_B	③	←		replace_A_start_with_B
+compare_3	c	→		compare_3
+compare_3	C	←	③	replace_A_start_with_C
+replace_A_start_with_C	3	←		replace_A_start_with_C
+replace_A_start_with_C	③	←		replace_A_start_with_C
+compare_3	d	→		compare_3
+compare_3	D	←	③	replace_A_start_with_D
+replace_A_start_with_D	3	←		replace_A_start_with_D
+replace_A_start_with_D	③	←		replace_A_start_with_D
+compare_3	e	→		compare_3
+compare_3	E	←	③	replace_A_start_with_E
+replace_A_start_with_E	3	←		replace_A_start_with_E
+replace_A_start_with_E	③	←		replace_A_start_with_E
+compare_3	f	→		compare_3
+compare_3	F	←	③	replace_A_start_with_F
+replace_A_start_with_F	3	←		replace_A_start_with_F
+replace_A_start_with_F	③	←		replace_A_start_with_F
+start	4	→		start_4
+start_4	0	→		start_4
+start_4	1	→		start_4
+start_4	2	→		start_4
+start_4	3	→		start_4
+start_4	4	→		start_4
+start_4	5	→		start_4
+start_4	6	→		start_4
+start_4	7	→		start_4
+start_4	8	→		start_4
+start_4	9	→		start_4
+start_4	A	→		start_4
+start_4	B	→		start_4
+start_4	C	→		start_4
+start_4	D	→		start_4
+start_4	E	→		start_4
+start_4	F	→		start_4
+start_4	,	→		compare_4
+compare_4	4	←	④	goto_A
+compare_4	⓪	→		compare_4
+compare_4	0	←	④	replace_A_start_with_0
+replace_A_start_with_0	4	←		replace_A_start_with_0
+replace_A_start_with_0	④	←		replace_A_start_with_0
+compare_4	①	→		compare_4
+compare_4	1	←	④	replace_A_start_with_1
+replace_A_start_with_1	4	←		replace_A_start_with_1
+replace_A_start_with_1	④	←		replace_A_start_with_1
+compare_4	②	→		compare_4
+compare_4	2	←	④	replace_A_start_with_2
+replace_A_start_with_2	4	←		replace_A_start_with_2
+replace_A_start_with_2	④	←		replace_A_start_with_2
+compare_4	③	→		compare_4
+compare_4	3	←	④	replace_A_start_with_3
+replace_A_start_with_3	4	←		replace_A_start_with_3
+replace_A_start_with_3	④	←		replace_A_start_with_3
+compare_4	④	→		compare_4
+replace_A_start_with_4	4	←		replace_A_start_with_4
+replace_A_start_with_4	④	←		replace_A_start_with_4
+compare_4	⑤	→		compare_4
+compare_4	5	←	④	replace_A_start_with_5
+replace_A_start_with_5	4	←		replace_A_start_with_5
+replace_A_start_with_5	④	←		replace_A_start_with_5
+compare_4	⑥	→		compare_4
+compare_4	6	←	④	replace_A_start_with_6
+replace_A_start_with_6	4	←		replace_A_start_with_6
+replace_A_start_with_6	④	←		replace_A_start_with_6
+compare_4	⑦	→		compare_4
+compare_4	7	←	④	replace_A_start_with_7
+replace_A_start_with_7	4	←		replace_A_start_with_7
+replace_A_start_with_7	④	←		replace_A_start_with_7
+compare_4	⑧	→		compare_4
+compare_4	8	←	④	replace_A_start_with_8
+replace_A_start_with_8	4	←		replace_A_start_with_8
+replace_A_start_with_8	④	←		replace_A_start_with_8
+compare_4	⑨	→		compare_4
+compare_4	9	←	④	replace_A_start_with_9
+replace_A_start_with_9	4	←		replace_A_start_with_9
+replace_A_start_with_9	④	←		replace_A_start_with_9
+compare_4	a	→		compare_4
+compare_4	A	←	④	replace_A_start_with_A
+replace_A_start_with_A	4	←		replace_A_start_with_A
+replace_A_start_with_A	④	←		replace_A_start_with_A
+compare_4	b	→		compare_4
+compare_4	B	←	④	replace_A_start_with_B
+replace_A_start_with_B	4	←		replace_A_start_with_B
+replace_A_start_with_B	④	←		replace_A_start_with_B
+compare_4	c	→		compare_4
+compare_4	C	←	④	replace_A_start_with_C
+replace_A_start_with_C	4	←		replace_A_start_with_C
+replace_A_start_with_C	④	←		replace_A_start_with_C
+compare_4	d	→		compare_4
+compare_4	D	←	④	replace_A_start_with_D
+replace_A_start_with_D	4	←		replace_A_start_with_D
+replace_A_start_with_D	④	←		replace_A_start_with_D
+compare_4	e	→		compare_4
+compare_4	E	←	④	replace_A_start_with_E
+replace_A_start_with_E	4	←		replace_A_start_with_E
+replace_A_start_with_E	④	←		replace_A_start_with_E
+compare_4	f	→		compare_4
+compare_4	F	←	④	replace_A_start_with_F
+replace_A_start_with_F	4	←		replace_A_start_with_F
+replace_A_start_with_F	④	←		replace_A_start_with_F
+start	5	→		start_5
+start_5	0	→		start_5
+start_5	1	→		start_5
+start_5	2	→		start_5
+start_5	3	→		start_5
+start_5	4	→		start_5
+start_5	5	→		start_5
+start_5	6	→		start_5
+start_5	7	→		start_5
+start_5	8	→		start_5
+start_5	9	→		start_5
+start_5	A	→		start_5
+start_5	B	→		start_5
+start_5	C	→		start_5
+start_5	D	→		start_5
+start_5	E	→		start_5
+start_5	F	→		start_5
+start_5	,	→		compare_5
+compare_5	5	←	⑤	goto_A
+compare_5	⓪	→		compare_5
+compare_5	0	←	⑤	replace_A_start_with_0
+replace_A_start_with_0	5	←		replace_A_start_with_0
+replace_A_start_with_0	⑤	←		replace_A_start_with_0
+compare_5	①	→		compare_5
+compare_5	1	←	⑤	replace_A_start_with_1
+replace_A_start_with_1	5	←		replace_A_start_with_1
+replace_A_start_with_1	⑤	←		replace_A_start_with_1
+compare_5	②	→		compare_5
+compare_5	2	←	⑤	replace_A_start_with_2
+replace_A_start_with_2	5	←		replace_A_start_with_2
+replace_A_start_with_2	⑤	←		replace_A_start_with_2
+compare_5	③	→		compare_5
+compare_5	3	←	⑤	replace_A_start_with_3
+replace_A_start_with_3	5	←		replace_A_start_with_3
+replace_A_start_with_3	⑤	←		replace_A_start_with_3
+compare_5	④	→		compare_5
+compare_5	4	←	⑤	replace_A_start_with_4
+replace_A_start_with_4	5	←		replace_A_start_with_4
+replace_A_start_with_4	⑤	←		replace_A_start_with_4
+compare_5	⑤	→		compare_5
+replace_A_start_with_5	5	←		replace_A_start_with_5
+replace_A_start_with_5	⑤	←		replace_A_start_with_5
+compare_5	⑥	→		compare_5
+compare_5	6	←	⑤	replace_A_start_with_6
+replace_A_start_with_6	5	←		replace_A_start_with_6
+replace_A_start_with_6	⑤	←		replace_A_start_with_6
+compare_5	⑦	→		compare_5
+compare_5	7	←	⑤	replace_A_start_with_7
+replace_A_start_with_7	5	←		replace_A_start_with_7
+replace_A_start_with_7	⑤	←		replace_A_start_with_7
+compare_5	⑧	→		compare_5
+compare_5	8	←	⑤	replace_A_start_with_8
+replace_A_start_with_8	5	←		replace_A_start_with_8
+replace_A_start_with_8	⑤	←		replace_A_start_with_8
+compare_5	⑨	→		compare_5
+compare_5	9	←	⑤	replace_A_start_with_9
+replace_A_start_with_9	5	←		replace_A_start_with_9
+replace_A_start_with_9	⑤	←		replace_A_start_with_9
+compare_5	a	→		compare_5
+compare_5	A	←	⑤	replace_A_start_with_A
+replace_A_start_with_A	5	←		replace_A_start_with_A
+replace_A_start_with_A	⑤	←		replace_A_start_with_A
+compare_5	b	→		compare_5
+compare_5	B	←	⑤	replace_A_start_with_B
+replace_A_start_with_B	5	←		replace_A_start_with_B
+replace_A_start_with_B	⑤	←		replace_A_start_with_B
+compare_5	c	→		compare_5
+compare_5	C	←	⑤	replace_A_start_with_C
+replace_A_start_with_C	5	←		replace_A_start_with_C
+replace_A_start_with_C	⑤	←		replace_A_start_with_C
+compare_5	d	→		compare_5
+compare_5	D	←	⑤	replace_A_start_with_D
+replace_A_start_with_D	5	←		replace_A_start_with_D
+replace_A_start_with_D	⑤	←		replace_A_start_with_D
+compare_5	e	→		compare_5
+compare_5	E	←	⑤	replace_A_start_with_E
+replace_A_start_with_E	5	←		replace_A_start_with_E
+replace_A_start_with_E	⑤	←		replace_A_start_with_E
+compare_5	f	→		compare_5
+compare_5	F	←	⑤	replace_A_start_with_F
+replace_A_start_with_F	5	←		replace_A_start_with_F
+replace_A_start_with_F	⑤	←		replace_A_start_with_F
+start	6	→		start_6
+start_6	0	→		start_6
+start_6	1	→		start_6
+start_6	2	→		start_6
+start_6	3	→		start_6
+start_6	4	→		start_6
+start_6	5	→		start_6
+start_6	6	→		start_6
+start_6	7	→		start_6
+start_6	8	→		start_6
+start_6	9	→		start_6
+start_6	A	→		start_6
+start_6	B	→		start_6
+start_6	C	→		start_6
+start_6	D	→		start_6
+start_6	E	→		start_6
+start_6	F	→		start_6
+start_6	,	→		compare_6
+compare_6	6	←	⑥	goto_A
+compare_6	⓪	→		compare_6
+compare_6	0	←	⑥	replace_A_start_with_0
+replace_A_start_with_0	6	←		replace_A_start_with_0
+replace_A_start_with_0	⑥	←		replace_A_start_with_0
+compare_6	①	→		compare_6
+compare_6	1	←	⑥	replace_A_start_with_1
+replace_A_start_with_1	6	←		replace_A_start_with_1
+replace_A_start_with_1	⑥	←		replace_A_start_with_1
+compare_6	②	→		compare_6
+compare_6	2	←	⑥	replace_A_start_with_2
+replace_A_start_with_2	6	←		replace_A_start_with_2
+replace_A_start_with_2	⑥	←		replace_A_start_with_2
+compare_6	③	→		compare_6
+compare_6	3	←	⑥	replace_A_start_with_3
+replace_A_start_with_3	6	←		replace_A_start_with_3
+replace_A_start_with_3	⑥	←		replace_A_start_with_3
+compare_6	④	→		compare_6
+compare_6	4	←	⑥	replace_A_start_with_4
+replace_A_start_with_4	6	←		replace_A_start_with_4
+replace_A_start_with_4	⑥	←		replace_A_start_with_4
+compare_6	⑤	→		compare_6
+compare_6	5	←	⑥	replace_A_start_with_5
+replace_A_start_with_5	6	←		replace_A_start_with_5
+replace_A_start_with_5	⑥	←		replace_A_start_with_5
+compare_6	⑥	→		compare_6
+replace_A_start_with_6	6	←		replace_A_start_with_6
+replace_A_start_with_6	⑥	←		replace_A_start_with_6
+compare_6	⑦	→		compare_6
+compare_6	7	←	⑥	replace_A_start_with_7
+replace_A_start_with_7	6	←		replace_A_start_with_7
+replace_A_start_with_7	⑥	←		replace_A_start_with_7
+compare_6	⑧	→		compare_6
+compare_6	8	←	⑥	replace_A_start_with_8
+replace_A_start_with_8	6	←		replace_A_start_with_8
+replace_A_start_with_8	⑥	←		replace_A_start_with_8
+compare_6	⑨	→		compare_6
+compare_6	9	←	⑥	replace_A_start_with_9
+replace_A_start_with_9	6	←		replace_A_start_with_9
+replace_A_start_with_9	⑥	←		replace_A_start_with_9
+compare_6	a	→		compare_6
+compare_6	A	←	⑥	replace_A_start_with_A
+replace_A_start_with_A	6	←		replace_A_start_with_A
+replace_A_start_with_A	⑥	←		replace_A_start_with_A
+compare_6	b	→		compare_6
+compare_6	B	←	⑥	replace_A_start_with_B
+replace_A_start_with_B	6	←		replace_A_start_with_B
+replace_A_start_with_B	⑥	←		replace_A_start_with_B
+compare_6	c	→		compare_6
+compare_6	C	←	⑥	replace_A_start_with_C
+replace_A_start_with_C	6	←		replace_A_start_with_C
+replace_A_start_with_C	⑥	←		replace_A_start_with_C
+compare_6	d	→		compare_6
+compare_6	D	←	⑥	replace_A_start_with_D
+replace_A_start_with_D	6	←		replace_A_start_with_D
+replace_A_start_with_D	⑥	←		replace_A_start_with_D
+compare_6	e	→		compare_6
+compare_6	E	←	⑥	replace_A_start_with_E
+replace_A_start_with_E	6	←		replace_A_start_with_E
+replace_A_start_with_E	⑥	←		replace_A_start_with_E
+compare_6	f	→		compare_6
+compare_6	F	←	⑥	replace_A_start_with_F
+replace_A_start_with_F	6	←		replace_A_start_with_F
+replace_A_start_with_F	⑥	←		replace_A_start_with_F
+start	7	→		start_7
+start_7	0	→		start_7
+start_7	1	→		start_7
+start_7	2	→		start_7
+start_7	3	→		start_7
+start_7	4	→		start_7
+start_7	5	→		start_7
+start_7	6	→		start_7
+start_7	7	→		start_7
+start_7	8	→		start_7
+start_7	9	→		start_7
+start_7	A	→		start_7
+start_7	B	→		start_7
+start_7	C	→		start_7
+start_7	D	→		start_7
+start_7	E	→		start_7
+start_7	F	→		start_7
+start_7	,	→		compare_7
+compare_7	7	←	⑦	goto_A
+compare_7	⓪	→		compare_7
+compare_7	0	←	⑦	replace_A_start_with_0
+replace_A_start_with_0	7	←		replace_A_start_with_0
+replace_A_start_with_0	⑦	←		replace_A_start_with_0
+compare_7	①	→		compare_7
+compare_7	1	←	⑦	replace_A_start_with_1
+replace_A_start_with_1	7	←		replace_A_start_with_1
+replace_A_start_with_1	⑦	←		replace_A_start_with_1
+compare_7	②	→		compare_7
+compare_7	2	←	⑦	replace_A_start_with_2
+replace_A_start_with_2	7	←		replace_A_start_with_2
+replace_A_start_with_2	⑦	←		replace_A_start_with_2
+compare_7	③	→		compare_7
+compare_7	3	←	⑦	replace_A_start_with_3
+replace_A_start_with_3	7	←		replace_A_start_with_3
+replace_A_start_with_3	⑦	←		replace_A_start_with_3
+compare_7	④	→		compare_7
+compare_7	4	←	⑦	replace_A_start_with_4
+replace_A_start_with_4	7	←		replace_A_start_with_4
+replace_A_start_with_4	⑦	←		replace_A_start_with_4
+compare_7	⑤	→		compare_7
+compare_7	5	←	⑦	replace_A_start_with_5
+replace_A_start_with_5	7	←		replace_A_start_with_5
+replace_A_start_with_5	⑦	←		replace_A_start_with_5
+compare_7	⑥	→		compare_7
+compare_7	6	←	⑦	replace_A_start_with_6
+replace_A_start_with_6	7	←		replace_A_start_with_6
+replace_A_start_with_6	⑦	←		replace_A_start_with_6
+compare_7	⑦	→		compare_7
+replace_A_start_with_7	7	←		replace_A_start_with_7
+replace_A_start_with_7	⑦	←		replace_A_start_with_7
+compare_7	⑧	→		compare_7
+compare_7	8	←	⑦	replace_A_start_with_8
+replace_A_start_with_8	7	←		replace_A_start_with_8
+replace_A_start_with_8	⑦	←		replace_A_start_with_8
+compare_7	⑨	→		compare_7
+compare_7	9	←	⑦	replace_A_start_with_9
+replace_A_start_with_9	7	←		replace_A_start_with_9
+replace_A_start_with_9	⑦	←		replace_A_start_with_9
+compare_7	a	→		compare_7
+compare_7	A	←	⑦	replace_A_start_with_A
+replace_A_start_with_A	7	←		replace_A_start_with_A
+replace_A_start_with_A	⑦	←		replace_A_start_with_A
+compare_7	b	→		compare_7
+compare_7	B	←	⑦	replace_A_start_with_B
+replace_A_start_with_B	7	←		replace_A_start_with_B
+replace_A_start_with_B	⑦	←		replace_A_start_with_B
+compare_7	c	→		compare_7
+compare_7	C	←	⑦	replace_A_start_with_C
+replace_A_start_with_C	7	←		replace_A_start_with_C
+replace_A_start_with_C	⑦	←		replace_A_start_with_C
+compare_7	d	→		compare_7
+compare_7	D	←	⑦	replace_A_start_with_D
+replace_A_start_with_D	7	←		replace_A_start_with_D
+replace_A_start_with_D	⑦	←		replace_A_start_with_D
+compare_7	e	→		compare_7
+compare_7	E	←	⑦	replace_A_start_with_E
+replace_A_start_with_E	7	←		replace_A_start_with_E
+replace_A_start_with_E	⑦	←		replace_A_start_with_E
+compare_7	f	→		compare_7
+compare_7	F	←	⑦	replace_A_start_with_F
+replace_A_start_with_F	7	←		replace_A_start_with_F
+replace_A_start_with_F	⑦	←		replace_A_start_with_F
+start	8	→		start_8
+start_8	0	→		start_8
+start_8	1	→		start_8
+start_8	2	→		start_8
+start_8	3	→		start_8
+start_8	4	→		start_8
+start_8	5	→		start_8
+start_8	6	→		start_8
+start_8	7	→		start_8
+start_8	8	→		start_8
+start_8	9	→		start_8
+start_8	A	→		start_8
+start_8	B	→		start_8
+start_8	C	→		start_8
+start_8	D	→		start_8
+start_8	E	→		start_8
+start_8	F	→		start_8
+start_8	,	→		compare_8
+compare_8	8	←	⑧	goto_A
+compare_8	⓪	→		compare_8
+compare_8	0	←	⑧	replace_A_start_with_0
+replace_A_start_with_0	8	←		replace_A_start_with_0
+replace_A_start_with_0	⑧	←		replace_A_start_with_0
+compare_8	①	→		compare_8
+compare_8	1	←	⑧	replace_A_start_with_1
+replace_A_start_with_1	8	←		replace_A_start_with_1
+replace_A_start_with_1	⑧	←		replace_A_start_with_1
+compare_8	②	→		compare_8
+compare_8	2	←	⑧	replace_A_start_with_2
+replace_A_start_with_2	8	←		replace_A_start_with_2
+replace_A_start_with_2	⑧	←		replace_A_start_with_2
+compare_8	③	→		compare_8
+compare_8	3	←	⑧	replace_A_start_with_3
+replace_A_start_with_3	8	←		replace_A_start_with_3
+replace_A_start_with_3	⑧	←		replace_A_start_with_3
+compare_8	④	→		compare_8
+compare_8	4	←	⑧	replace_A_start_with_4
+replace_A_start_with_4	8	←		replace_A_start_with_4
+replace_A_start_with_4	⑧	←		replace_A_start_with_4
+compare_8	⑤	→		compare_8
+compare_8	5	←	⑧	replace_A_start_with_5
+replace_A_start_with_5	8	←		replace_A_start_with_5
+replace_A_start_with_5	⑧	←		replace_A_start_with_5
+compare_8	⑥	→		compare_8
+compare_8	6	←	⑧	replace_A_start_with_6
+replace_A_start_with_6	8	←		replace_A_start_with_6
+replace_A_start_with_6	⑧	←		replace_A_start_with_6
+compare_8	⑦	→		compare_8
+compare_8	7	←	⑧	replace_A_start_with_7
+replace_A_start_with_7	8	←		replace_A_start_with_7
+replace_A_start_with_7	⑧	←		replace_A_start_with_7
+compare_8	⑧	→		compare_8
+replace_A_start_with_8	8	←		replace_A_start_with_8
+replace_A_start_with_8	⑧	←		replace_A_start_with_8
+compare_8	⑨	→		compare_8
+compare_8	9	←	⑧	replace_A_start_with_9
+replace_A_start_with_9	8	←		replace_A_start_with_9
+replace_A_start_with_9	⑧	←		replace_A_start_with_9
+compare_8	a	→		compare_8
+compare_8	A	←	⑧	replace_A_start_with_A
+replace_A_start_with_A	8	←		replace_A_start_with_A
+replace_A_start_with_A	⑧	←		replace_A_start_with_A
+compare_8	b	→		compare_8
+compare_8	B	←	⑧	replace_A_start_with_B
+replace_A_start_with_B	8	←		replace_A_start_with_B
+replace_A_start_with_B	⑧	←		replace_A_start_with_B
+compare_8	c	→		compare_8
+compare_8	C	←	⑧	replace_A_start_with_C
+replace_A_start_with_C	8	←		replace_A_start_with_C
+replace_A_start_with_C	⑧	←		replace_A_start_with_C
+compare_8	d	→		compare_8
+compare_8	D	←	⑧	replace_A_start_with_D
+replace_A_start_with_D	8	←		replace_A_start_with_D
+replace_A_start_with_D	⑧	←		replace_A_start_with_D
+compare_8	e	→		compare_8
+compare_8	E	←	⑧	replace_A_start_with_E
+replace_A_start_with_E	8	←		replace_A_start_with_E
+replace_A_start_with_E	⑧	←		replace_A_start_with_E
+compare_8	f	→		compare_8
+compare_8	F	←	⑧	replace_A_start_with_F
+replace_A_start_with_F	8	←		replace_A_start_with_F
+replace_A_start_with_F	⑧	←		replace_A_start_with_F
+start	9	→		start_9
+start_9	0	→		start_9
+start_9	1	→		start_9
+start_9	2	→		start_9
+start_9	3	→		start_9
+start_9	4	→		start_9
+start_9	5	→		start_9
+start_9	6	→		start_9
+start_9	7	→		start_9
+start_9	8	→		start_9
+start_9	9	→		start_9
+start_9	A	→		start_9
+start_9	B	→		start_9
+start_9	C	→		start_9
+start_9	D	→		start_9
+start_9	E	→		start_9
+start_9	F	→		start_9
+start_9	,	→		compare_9
+compare_9	9	←	⑨	goto_A
+compare_9	⓪	→		compare_9
+compare_9	0	←	⑨	replace_A_start_with_0
+replace_A_start_with_0	9	←		replace_A_start_with_0
+replace_A_start_with_0	⑨	←		replace_A_start_with_0
+compare_9	①	→		compare_9
+compare_9	1	←	⑨	replace_A_start_with_1
+replace_A_start_with_1	9	←		replace_A_start_with_1
+replace_A_start_with_1	⑨	←		replace_A_start_with_1
+compare_9	②	→		compare_9
+compare_9	2	←	⑨	replace_A_start_with_2
+replace_A_start_with_2	9	←		replace_A_start_with_2
+replace_A_start_with_2	⑨	←		replace_A_start_with_2
+compare_9	③	→		compare_9
+compare_9	3	←	⑨	replace_A_start_with_3
+replace_A_start_with_3	9	←		replace_A_start_with_3
+replace_A_start_with_3	⑨	←		replace_A_start_with_3
+compare_9	④	→		compare_9
+compare_9	4	←	⑨	replace_A_start_with_4
+replace_A_start_with_4	9	←		replace_A_start_with_4
+replace_A_start_with_4	⑨	←		replace_A_start_with_4
+compare_9	⑤	→		compare_9
+compare_9	5	←	⑨	replace_A_start_with_5
+replace_A_start_with_5	9	←		replace_A_start_with_5
+replace_A_start_with_5	⑨	←		replace_A_start_with_5
+compare_9	⑥	→		compare_9
+compare_9	6	←	⑨	replace_A_start_with_6
+replace_A_start_with_6	9	←		replace_A_start_with_6
+replace_A_start_with_6	⑨	←		replace_A_start_with_6
+compare_9	⑦	→		compare_9
+compare_9	7	←	⑨	replace_A_start_with_7
+replace_A_start_with_7	9	←		replace_A_start_with_7
+replace_A_start_with_7	⑨	←		replace_A_start_with_7
+compare_9	⑧	→		compare_9
+compare_9	8	←	⑨	replace_A_start_with_8
+replace_A_start_with_8	9	←		replace_A_start_with_8
+replace_A_start_with_8	⑨	←		replace_A_start_with_8
+compare_9	⑨	→		compare_9
+replace_A_start_with_9	9	←		replace_A_start_with_9
+replace_A_start_with_9	⑨	←		replace_A_start_with_9
+compare_9	a	→		compare_9
+compare_9	A	←	⑨	replace_A_start_with_A
+replace_A_start_with_A	9	←		replace_A_start_with_A
+replace_A_start_with_A	⑨	←		replace_A_start_with_A
+compare_9	b	→		compare_9
+compare_9	B	←	⑨	replace_A_start_with_B
+replace_A_start_with_B	9	←		replace_A_start_with_B
+replace_A_start_with_B	⑨	←		replace_A_start_with_B
+compare_9	c	→		compare_9
+compare_9	C	←	⑨	replace_A_start_with_C
+replace_A_start_with_C	9	←		replace_A_start_with_C
+replace_A_start_with_C	⑨	←		replace_A_start_with_C
+compare_9	d	→		compare_9
+compare_9	D	←	⑨	replace_A_start_with_D
+replace_A_start_with_D	9	←		replace_A_start_with_D
+replace_A_start_with_D	⑨	←		replace_A_start_with_D
+compare_9	e	→		compare_9
+compare_9	E	←	⑨	replace_A_start_with_E
+replace_A_start_with_E	9	←		replace_A_start_with_E
+replace_A_start_with_E	⑨	←		replace_A_start_with_E
+compare_9	f	→		compare_9
+compare_9	F	←	⑨	replace_A_start_with_F
+replace_A_start_with_F	9	←		replace_A_start_with_F
+replace_A_start_with_F	⑨	←		replace_A_start_with_F
+start	A	→		start_A
+start_A	0	→		start_A
+start_A	1	→		start_A
+start_A	2	→		start_A
+start_A	3	→		start_A
+start_A	4	→		start_A
+start_A	5	→		start_A
+start_A	6	→		start_A
+start_A	7	→		start_A
+start_A	8	→		start_A
+start_A	9	→		start_A
+start_A	A	→		start_A
+start_A	B	→		start_A
+start_A	C	→		start_A
+start_A	D	→		start_A
+start_A	E	→		start_A
+start_A	F	→		start_A
+start_A	,	→		compare_A
+compare_A	A	←	a	goto_A
+compare_A	⓪	→		compare_A
+compare_A	0	←	a	replace_A_start_with_0
+replace_A_start_with_0	A	←		replace_A_start_with_0
+replace_A_start_with_0	a	←		replace_A_start_with_0
+compare_A	①	→		compare_A
+compare_A	1	←	a	replace_A_start_with_1
+replace_A_start_with_1	A	←		replace_A_start_with_1
+replace_A_start_with_1	a	←		replace_A_start_with_1
+compare_A	②	→		compare_A
+compare_A	2	←	a	replace_A_start_with_2
+replace_A_start_with_2	A	←		replace_A_start_with_2
+replace_A_start_with_2	a	←		replace_A_start_with_2
+compare_A	③	→		compare_A
+compare_A	3	←	a	replace_A_start_with_3
+replace_A_start_with_3	A	←		replace_A_start_with_3
+replace_A_start_with_3	a	←		replace_A_start_with_3
+compare_A	④	→		compare_A
+compare_A	4	←	a	replace_A_start_with_4
+replace_A_start_with_4	A	←		replace_A_start_with_4
+replace_A_start_with_4	a	←		replace_A_start_with_4
+compare_A	⑤	→		compare_A
+compare_A	5	←	a	replace_A_start_with_5
+replace_A_start_with_5	A	←		replace_A_start_with_5
+replace_A_start_with_5	a	←		replace_A_start_with_5
+compare_A	⑥	→		compare_A
+compare_A	6	←	a	replace_A_start_with_6
+replace_A_start_with_6	A	←		replace_A_start_with_6
+replace_A_start_with_6	a	←		replace_A_start_with_6
+compare_A	⑦	→		compare_A
+compare_A	7	←	a	replace_A_start_with_7
+replace_A_start_with_7	A	←		replace_A_start_with_7
+replace_A_start_with_7	a	←		replace_A_start_with_7
+compare_A	⑧	→		compare_A
+compare_A	8	←	a	replace_A_start_with_8
+replace_A_start_with_8	A	←		replace_A_start_with_8
+replace_A_start_with_8	a	←		replace_A_start_with_8
+compare_A	⑨	→		compare_A
+compare_A	9	←	a	replace_A_start_with_9
+replace_A_start_with_9	A	←		replace_A_start_with_9
+replace_A_start_with_9	a	←		replace_A_start_with_9
+compare_A	a	→		compare_A
+replace_A_start_with_A	A	←		replace_A_start_with_A
+replace_A_start_with_A	a	←		replace_A_start_with_A
+compare_A	b	→		compare_A
+compare_A	B	←	a	replace_A_start_with_B
+replace_A_start_with_B	A	←		replace_A_start_with_B
+replace_A_start_with_B	a	←		replace_A_start_with_B
+compare_A	c	→		compare_A
+compare_A	C	←	a	replace_A_start_with_C
+replace_A_start_with_C	A	←		replace_A_start_with_C
+replace_A_start_with_C	a	←		replace_A_start_with_C
+compare_A	d	→		compare_A
+compare_A	D	←	a	replace_A_start_with_D
+replace_A_start_with_D	A	←		replace_A_start_with_D
+replace_A_start_with_D	a	←		replace_A_start_with_D
+compare_A	e	→		compare_A
+compare_A	E	←	a	replace_A_start_with_E
+replace_A_start_with_E	A	←		replace_A_start_with_E
+replace_A_start_with_E	a	←		replace_A_start_with_E
+compare_A	f	→		compare_A
+compare_A	F	←	a	replace_A_start_with_F
+replace_A_start_with_F	A	←		replace_A_start_with_F
+replace_A_start_with_F	a	←		replace_A_start_with_F
+start	B	→		start_B
+start_B	0	→		start_B
+start_B	1	→		start_B
+start_B	2	→		start_B
+start_B	3	→		start_B
+start_B	4	→		start_B
+start_B	5	→		start_B
+start_B	6	→		start_B
+start_B	7	→		start_B
+start_B	8	→		start_B
+start_B	9	→		start_B
+start_B	A	→		start_B
+start_B	B	→		start_B
+start_B	C	→		start_B
+start_B	D	→		start_B
+start_B	E	→		start_B
+start_B	F	→		start_B
+start_B	,	→		compare_B
+compare_B	B	←	b	goto_A
+compare_B	⓪	→		compare_B
+compare_B	0	←	b	replace_A_start_with_0
+replace_A_start_with_0	B	←		replace_A_start_with_0
+replace_A_start_with_0	b	←		replace_A_start_with_0
+compare_B	①	→		compare_B
+compare_B	1	←	b	replace_A_start_with_1
+replace_A_start_with_1	B	←		replace_A_start_with_1
+replace_A_start_with_1	b	←		replace_A_start_with_1
+compare_B	②	→		compare_B
+compare_B	2	←	b	replace_A_start_with_2
+replace_A_start_with_2	B	←		replace_A_start_with_2
+replace_A_start_with_2	b	←		replace_A_start_with_2
+compare_B	③	→		compare_B
+compare_B	3	←	b	replace_A_start_with_3
+replace_A_start_with_3	B	←		replace_A_start_with_3
+replace_A_start_with_3	b	←		replace_A_start_with_3
+compare_B	④	→		compare_B
+compare_B	4	←	b	replace_A_start_with_4
+replace_A_start_with_4	B	←		replace_A_start_with_4
+replace_A_start_with_4	b	←		replace_A_start_with_4
+compare_B	⑤	→		compare_B
+compare_B	5	←	b	replace_A_start_with_5
+replace_A_start_with_5	B	←		replace_A_start_with_5
+replace_A_start_with_5	b	←		replace_A_start_with_5
+compare_B	⑥	→		compare_B
+compare_B	6	←	b	replace_A_start_with_6
+replace_A_start_with_6	B	←		replace_A_start_with_6
+replace_A_start_with_6	b	←		replace_A_start_with_6
+compare_B	⑦	→		compare_B
+compare_B	7	←	b	replace_A_start_with_7
+replace_A_start_with_7	B	←		replace_A_start_with_7
+replace_A_start_with_7	b	←		replace_A_start_with_7
+compare_B	⑧	→		compare_B
+compare_B	8	←	b	replace_A_start_with_8
+replace_A_start_with_8	B	←		replace_A_start_with_8
+replace_A_start_with_8	b	←		replace_A_start_with_8
+compare_B	⑨	→		compare_B
+compare_B	9	←	b	replace_A_start_with_9
+replace_A_start_with_9	B	←		replace_A_start_with_9
+replace_A_start_with_9	b	←		replace_A_start_with_9
+compare_B	a	→		compare_B
+compare_B	A	←	b	replace_A_start_with_A
+replace_A_start_with_A	B	←		replace_A_start_with_A
+replace_A_start_with_A	b	←		replace_A_start_with_A
+compare_B	b	→		compare_B
+replace_A_start_with_B	B	←		replace_A_start_with_B
+replace_A_start_with_B	b	←		replace_A_start_with_B
+compare_B	c	→		compare_B
+compare_B	C	←	b	replace_A_start_with_C
+replace_A_start_with_C	B	←		replace_A_start_with_C
+replace_A_start_with_C	b	←		replace_A_start_with_C
+compare_B	d	→		compare_B
+compare_B	D	←	b	replace_A_start_with_D
+replace_A_start_with_D	B	←		replace_A_start_with_D
+replace_A_start_with_D	b	←		replace_A_start_with_D
+compare_B	e	→		compare_B
+compare_B	E	←	b	replace_A_start_with_E
+replace_A_start_with_E	B	←		replace_A_start_with_E
+replace_A_start_with_E	b	←		replace_A_start_with_E
+compare_B	f	→		compare_B
+compare_B	F	←	b	replace_A_start_with_F
+replace_A_start_with_F	B	←		replace_A_start_with_F
+replace_A_start_with_F	b	←		replace_A_start_with_F
+start	C	→		start_C
+start_C	0	→		start_C
+start_C	1	→		start_C
+start_C	2	→		start_C
+start_C	3	→		start_C
+start_C	4	→		start_C
+start_C	5	→		start_C
+start_C	6	→		start_C
+start_C	7	→		start_C
+start_C	8	→		start_C
+start_C	9	→		start_C
+start_C	A	→		start_C
+start_C	B	→		start_C
+start_C	C	→		start_C
+start_C	D	→		start_C
+start_C	E	→		start_C
+start_C	F	→		start_C
+start_C	,	→		compare_C
+compare_C	C	←	c	goto_A
+compare_C	⓪	→		compare_C
+compare_C	0	←	c	replace_A_start_with_0
+replace_A_start_with_0	C	←		replace_A_start_with_0
+replace_A_start_with_0	c	←		replace_A_start_with_0
+compare_C	①	→		compare_C
+compare_C	1	←	c	replace_A_start_with_1
+replace_A_start_with_1	C	←		replace_A_start_with_1
+replace_A_start_with_1	c	←		replace_A_start_with_1
+compare_C	②	→		compare_C
+compare_C	2	←	c	replace_A_start_with_2
+replace_A_start_with_2	C	←		replace_A_start_with_2
+replace_A_start_with_2	c	←		replace_A_start_with_2
+compare_C	③	→		compare_C
+compare_C	3	←	c	replace_A_start_with_3
+replace_A_start_with_3	C	←		replace_A_start_with_3
+replace_A_start_with_3	c	←		replace_A_start_with_3
+compare_C	④	→		compare_C
+compare_C	4	←	c	replace_A_start_with_4
+replace_A_start_with_4	C	←		replace_A_start_with_4
+replace_A_start_with_4	c	←		replace_A_start_with_4
+compare_C	⑤	→		compare_C
+compare_C	5	←	c	replace_A_start_with_5
+replace_A_start_with_5	C	←		replace_A_start_with_5
+replace_A_start_with_5	c	←		replace_A_start_with_5
+compare_C	⑥	→		compare_C
+compare_C	6	←	c	replace_A_start_with_6
+replace_A_start_with_6	C	←		replace_A_start_with_6
+replace_A_start_with_6	c	←		replace_A_start_with_6
+compare_C	⑦	→		compare_C
+compare_C	7	←	c	replace_A_start_with_7
+replace_A_start_with_7	C	←		replace_A_start_with_7
+replace_A_start_with_7	c	←		replace_A_start_with_7
+compare_C	⑧	→		compare_C
+compare_C	8	←	c	replace_A_start_with_8
+replace_A_start_with_8	C	←		replace_A_start_with_8
+replace_A_start_with_8	c	←		replace_A_start_with_8
+compare_C	⑨	→		compare_C
+compare_C	9	←	c	replace_A_start_with_9
+replace_A_start_with_9	C	←		replace_A_start_with_9
+replace_A_start_with_9	c	←		replace_A_start_with_9
+compare_C	a	→		compare_C
+compare_C	A	←	c	replace_A_start_with_A
+replace_A_start_with_A	C	←		replace_A_start_with_A
+replace_A_start_with_A	c	←		replace_A_start_with_A
+compare_C	b	→		compare_C
+compare_C	B	←	c	replace_A_start_with_B
+replace_A_start_with_B	C	←		replace_A_start_with_B
+replace_A_start_with_B	c	←		replace_A_start_with_B
+compare_C	c	→		compare_C
+replace_A_start_with_C	C	←		replace_A_start_with_C
+replace_A_start_with_C	c	←		replace_A_start_with_C
+compare_C	d	→		compare_C
+compare_C	D	←	c	replace_A_start_with_D
+replace_A_start_with_D	C	←		replace_A_start_with_D
+replace_A_start_with_D	c	←		replace_A_start_with_D
+compare_C	e	→		compare_C
+compare_C	E	←	c	replace_A_start_with_E
+replace_A_start_with_E	C	←		replace_A_start_with_E
+replace_A_start_with_E	c	←		replace_A_start_with_E
+compare_C	f	→		compare_C
+compare_C	F	←	c	replace_A_start_with_F
+replace_A_start_with_F	C	←		replace_A_start_with_F
+replace_A_start_with_F	c	←		replace_A_start_with_F
+start	D	→		start_D
+start_D	0	→		start_D
+start_D	1	→		start_D
+start_D	2	→		start_D
+start_D	3	→		start_D
+start_D	4	→		start_D
+start_D	5	→		start_D
+start_D	6	→		start_D
+start_D	7	→		start_D
+start_D	8	→		start_D
+start_D	9	→		start_D
+start_D	A	→		start_D
+start_D	B	→		start_D
+start_D	C	→		start_D
+start_D	D	→		start_D
+start_D	E	→		start_D
+start_D	F	→		start_D
+start_D	,	→		compare_D
+compare_D	D	←	d	goto_A
+compare_D	⓪	→		compare_D
+compare_D	0	←	d	replace_A_start_with_0
+replace_A_start_with_0	D	←		replace_A_start_with_0
+replace_A_start_with_0	d	←		replace_A_start_with_0
+compare_D	①	→		compare_D
+compare_D	1	←	d	replace_A_start_with_1
+replace_A_start_with_1	D	←		replace_A_start_with_1
+replace_A_start_with_1	d	←		replace_A_start_with_1
+compare_D	②	→		compare_D
+compare_D	2	←	d	replace_A_start_with_2
+replace_A_start_with_2	D	←		replace_A_start_with_2
+replace_A_start_with_2	d	←		replace_A_start_with_2
+compare_D	③	→		compare_D
+compare_D	3	←	d	replace_A_start_with_3
+replace_A_start_with_3	D	←		replace_A_start_with_3
+replace_A_start_with_3	d	←		replace_A_start_with_3
+compare_D	④	→		compare_D
+compare_D	4	←	d	replace_A_start_with_4
+replace_A_start_with_4	D	←		replace_A_start_with_4
+replace_A_start_with_4	d	←		replace_A_start_with_4
+compare_D	⑤	→		compare_D
+compare_D	5	←	d	replace_A_start_with_5
+replace_A_start_with_5	D	←		replace_A_start_with_5
+replace_A_start_with_5	d	←		replace_A_start_with_5
+compare_D	⑥	→		compare_D
+compare_D	6	←	d	replace_A_start_with_6
+replace_A_start_with_6	D	←		replace_A_start_with_6
+replace_A_start_with_6	d	←		replace_A_start_with_6
+compare_D	⑦	→		compare_D
+compare_D	7	←	d	replace_A_start_with_7
+replace_A_start_with_7	D	←		replace_A_start_with_7
+replace_A_start_with_7	d	←		replace_A_start_with_7
+compare_D	⑧	→		compare_D
+compare_D	8	←	d	replace_A_start_with_8
+replace_A_start_with_8	D	←		replace_A_start_with_8
+replace_A_start_with_8	d	←		replace_A_start_with_8
+compare_D	⑨	→		compare_D
+compare_D	9	←	d	replace_A_start_with_9
+replace_A_start_with_9	D	←		replace_A_start_with_9
+replace_A_start_with_9	d	←		replace_A_start_with_9
+compare_D	a	→		compare_D
+compare_D	A	←	d	replace_A_start_with_A
+replace_A_start_with_A	D	←		replace_A_start_with_A
+replace_A_start_with_A	d	←		replace_A_start_with_A
+compare_D	b	→		compare_D
+compare_D	B	←	d	replace_A_start_with_B
+replace_A_start_with_B	D	←		replace_A_start_with_B
+replace_A_start_with_B	d	←		replace_A_start_with_B
+compare_D	c	→		compare_D
+compare_D	C	←	d	replace_A_start_with_C
+replace_A_start_with_C	D	←		replace_A_start_with_C
+replace_A_start_with_C	d	←		replace_A_start_with_C
+compare_D	d	→		compare_D
+replace_A_start_with_D	D	←		replace_A_start_with_D
+replace_A_start_with_D	d	←		replace_A_start_with_D
+compare_D	e	→		compare_D
+compare_D	E	←	d	replace_A_start_with_E
+replace_A_start_with_E	D	←		replace_A_start_with_E
+replace_A_start_with_E	d	←		replace_A_start_with_E
+compare_D	f	→		compare_D
+compare_D	F	←	d	replace_A_start_with_F
+replace_A_start_with_F	D	←		replace_A_start_with_F
+replace_A_start_with_F	d	←		replace_A_start_with_F
+start	E	→		start_E
+start_E	0	→		start_E
+start_E	1	→		start_E
+start_E	2	→		start_E
+start_E	3	→		start_E
+start_E	4	→		start_E
+start_E	5	→		start_E
+start_E	6	→		start_E
+start_E	7	→		start_E
+start_E	8	→		start_E
+start_E	9	→		start_E
+start_E	A	→		start_E
+start_E	B	→		start_E
+start_E	C	→		start_E
+start_E	D	→		start_E
+start_E	E	→		start_E
+start_E	F	→		start_E
+start_E	,	→		compare_E
+compare_E	E	←	e	goto_A
+compare_E	⓪	→		compare_E
+compare_E	0	←	e	replace_A_start_with_0
+replace_A_start_with_0	E	←		replace_A_start_with_0
+replace_A_start_with_0	e	←		replace_A_start_with_0
+compare_E	①	→		compare_E
+compare_E	1	←	e	replace_A_start_with_1
+replace_A_start_with_1	E	←		replace_A_start_with_1
+replace_A_start_with_1	e	←		replace_A_start_with_1
+compare_E	②	→		compare_E
+compare_E	2	←	e	replace_A_start_with_2
+replace_A_start_with_2	E	←		replace_A_start_with_2
+replace_A_start_with_2	e	←		replace_A_start_with_2
+compare_E	③	→		compare_E
+compare_E	3	←	e	replace_A_start_with_3
+replace_A_start_with_3	E	←		replace_A_start_with_3
+replace_A_start_with_3	e	←		replace_A_start_with_3
+compare_E	④	→		compare_E
+compare_E	4	←	e	replace_A_start_with_4
+replace_A_start_with_4	E	←		replace_A_start_with_4
+replace_A_start_with_4	e	←		replace_A_start_with_4
+compare_E	⑤	→		compare_E
+compare_E	5	←	e	replace_A_start_with_5
+replace_A_start_with_5	E	←		replace_A_start_with_5
+replace_A_start_with_5	e	←		replace_A_start_with_5
+compare_E	⑥	→		compare_E
+compare_E	6	←	e	replace_A_start_with_6
+replace_A_start_with_6	E	←		replace_A_start_with_6
+replace_A_start_with_6	e	←		replace_A_start_with_6
+compare_E	⑦	→		compare_E
+compare_E	7	←	e	replace_A_start_with_7
+replace_A_start_with_7	E	←		replace_A_start_with_7
+replace_A_start_with_7	e	←		replace_A_start_with_7
+compare_E	⑧	→		compare_E
+compare_E	8	←	e	replace_A_start_with_8
+replace_A_start_with_8	E	←		replace_A_start_with_8
+replace_A_start_with_8	e	←		replace_A_start_with_8
+compare_E	⑨	→		compare_E
+compare_E	9	←	e	replace_A_start_with_9
+replace_A_start_with_9	E	←		replace_A_start_with_9
+replace_A_start_with_9	e	←		replace_A_start_with_9
+compare_E	a	→		compare_E
+compare_E	A	←	e	replace_A_start_with_A
+replace_A_start_with_A	E	←		replace_A_start_with_A
+replace_A_start_with_A	e	←		replace_A_start_with_A
+compare_E	b	→		compare_E
+compare_E	B	←	e	replace_A_start_with_B
+replace_A_start_with_B	E	←		replace_A_start_with_B
+replace_A_start_with_B	e	←		replace_A_start_with_B
+compare_E	c	→		compare_E
+compare_E	C	←	e	replace_A_start_with_C
+replace_A_start_with_C	E	←		replace_A_start_with_C
+replace_A_start_with_C	e	←		replace_A_start_with_C
+compare_E	d	→		compare_E
+compare_E	D	←	e	replace_A_start_with_D
+replace_A_start_with_D	E	←		replace_A_start_with_D
+replace_A_start_with_D	e	←		replace_A_start_with_D
+compare_E	e	→		compare_E
+replace_A_start_with_E	E	←		replace_A_start_with_E
+replace_A_start_with_E	e	←		replace_A_start_with_E
+compare_E	f	→		compare_E
+compare_E	F	←	e	replace_A_start_with_F
+replace_A_start_with_F	E	←		replace_A_start_with_F
+replace_A_start_with_F	e	←		replace_A_start_with_F
+start	F	→		start_F
+start_F	0	→		start_F
+start_F	1	→		start_F
+start_F	2	→		start_F
+start_F	3	→		start_F
+start_F	4	→		start_F
+start_F	5	→		start_F
+start_F	6	→		start_F
+start_F	7	→		start_F
+start_F	8	→		start_F
+start_F	9	→		start_F
+start_F	A	→		start_F
+start_F	B	→		start_F
+start_F	C	→		start_F
+start_F	D	→		start_F
+start_F	E	→		start_F
+start_F	F	→		start_F
+start_F	,	→		compare_F
+compare_F	F	←	f	goto_A
+compare_F	⓪	→		compare_F
+compare_F	0	←	f	replace_A_start_with_0
+replace_A_start_with_0	F	←		replace_A_start_with_0
+replace_A_start_with_0	f	←		replace_A_start_with_0
+compare_F	①	→		compare_F
+compare_F	1	←	f	replace_A_start_with_1
+replace_A_start_with_1	F	←		replace_A_start_with_1
+replace_A_start_with_1	f	←		replace_A_start_with_1
+compare_F	②	→		compare_F
+compare_F	2	←	f	replace_A_start_with_2
+replace_A_start_with_2	F	←		replace_A_start_with_2
+replace_A_start_with_2	f	←		replace_A_start_with_2
+compare_F	③	→		compare_F
+compare_F	3	←	f	replace_A_start_with_3
+replace_A_start_with_3	F	←		replace_A_start_with_3
+replace_A_start_with_3	f	←		replace_A_start_with_3
+compare_F	④	→		compare_F
+compare_F	4	←	f	replace_A_start_with_4
+replace_A_start_with_4	F	←		replace_A_start_with_4
+replace_A_start_with_4	f	←		replace_A_start_with_4
+compare_F	⑤	→		compare_F
+compare_F	5	←	f	replace_A_start_with_5
+replace_A_start_with_5	F	←		replace_A_start_with_5
+replace_A_start_with_5	f	←		replace_A_start_with_5
+compare_F	⑥	→		compare_F
+compare_F	6	←	f	replace_A_start_with_6
+replace_A_start_with_6	F	←		replace_A_start_with_6
+replace_A_start_with_6	f	←		replace_A_start_with_6
+compare_F	⑦	→		compare_F
+compare_F	7	←	f	replace_A_start_with_7
+replace_A_start_with_7	F	←		replace_A_start_with_7
+replace_A_start_with_7	f	←		replace_A_start_with_7
+compare_F	⑧	→		compare_F
+compare_F	8	←	f	replace_A_start_with_8
+replace_A_start_with_8	F	←		replace_A_start_with_8
+replace_A_start_with_8	f	←		replace_A_start_with_8
+compare_F	⑨	→		compare_F
+compare_F	9	←	f	replace_A_start_with_9
+replace_A_start_with_9	F	←		replace_A_start_with_9
+replace_A_start_with_9	f	←		replace_A_start_with_9
+compare_F	a	→		compare_F
+compare_F	A	←	f	replace_A_start_with_A
+replace_A_start_with_A	F	←		replace_A_start_with_A
+replace_A_start_with_A	f	←		replace_A_start_with_A
+compare_F	b	→		compare_F
+compare_F	B	←	f	replace_A_start_with_B
+replace_A_start_with_B	F	←		replace_A_start_with_B
+replace_A_start_with_B	f	←		replace_A_start_with_B
+compare_F	c	→		compare_F
+compare_F	C	←	f	replace_A_start_with_C
+replace_A_start_with_C	F	←		replace_A_start_with_C
+replace_A_start_with_C	f	←		replace_A_start_with_C
+compare_F	d	→		compare_F
+compare_F	D	←	f	replace_A_start_with_D
+replace_A_start_with_D	F	←		replace_A_start_with_D
+replace_A_start_with_D	f	←		replace_A_start_with_D
+compare_F	e	→		compare_F
+compare_F	E	←	f	replace_A_start_with_E
+replace_A_start_with_E	F	←		replace_A_start_with_E
+replace_A_start_with_E	f	←		replace_A_start_with_E
+compare_F	f	→		compare_F
+replace_A_start_with_F	F	←		replace_A_start_with_F
+replace_A_start_with_F	f	←		replace_A_start_with_F
+replace_A_start_with_0	,	←		replace_start_with_0
+replace_start_with_0	0	←		replace_start_with_0
+replace_start_with_0	⓪	→		replace_with_0
+replace_start_with_0	1	←		replace_start_with_0
+replace_start_with_0	①	→		replace_with_0
+replace_start_with_0	2	←		replace_start_with_0
+replace_start_with_0	②	→		replace_with_0
+replace_start_with_0	3	←		replace_start_with_0
+replace_start_with_0	③	→		replace_with_0
+replace_start_with_0	4	←		replace_start_with_0
+replace_start_with_0	④	→		replace_with_0
+replace_start_with_0	5	←		replace_start_with_0
+replace_start_with_0	⑤	→		replace_with_0
+replace_start_with_0	6	←		replace_start_with_0
+replace_start_with_0	⑥	→		replace_with_0
+replace_start_with_0	7	←		replace_start_with_0
+replace_start_with_0	⑦	→		replace_with_0
+replace_start_with_0	8	←		replace_start_with_0
+replace_start_with_0	⑧	→		replace_with_0
+replace_start_with_0	9	←		replace_start_with_0
+replace_start_with_0	⑨	→		replace_with_0
+replace_start_with_0	A	←		replace_start_with_0
+replace_start_with_0	a	→		replace_with_0
+replace_start_with_0	B	←		replace_start_with_0
+replace_start_with_0	b	→		replace_with_0
+replace_start_with_0	C	←		replace_start_with_0
+replace_start_with_0	c	→		replace_with_0
+replace_start_with_0	D	←		replace_start_with_0
+replace_start_with_0	d	→		replace_with_0
+replace_start_with_0	E	←		replace_start_with_0
+replace_start_with_0	e	→		replace_with_0
+replace_start_with_0	F	←		replace_start_with_0
+replace_start_with_0	f	→		replace_with_0
+replace_A_start_with_1	,	←		replace_start_with_1
+replace_start_with_1	0	←		replace_start_with_1
+replace_start_with_1	⓪	→		replace_with_1
+replace_start_with_1	1	←		replace_start_with_1
+replace_start_with_1	①	→		replace_with_1
+replace_start_with_1	2	←		replace_start_with_1
+replace_start_with_1	②	→		replace_with_1
+replace_start_with_1	3	←		replace_start_with_1
+replace_start_with_1	③	→		replace_with_1
+replace_start_with_1	4	←		replace_start_with_1
+replace_start_with_1	④	→		replace_with_1
+replace_start_with_1	5	←		replace_start_with_1
+replace_start_with_1	⑤	→		replace_with_1
+replace_start_with_1	6	←		replace_start_with_1
+replace_start_with_1	⑥	→		replace_with_1
+replace_start_with_1	7	←		replace_start_with_1
+replace_start_with_1	⑦	→		replace_with_1
+replace_start_with_1	8	←		replace_start_with_1
+replace_start_with_1	⑧	→		replace_with_1
+replace_start_with_1	9	←		replace_start_with_1
+replace_start_with_1	⑨	→		replace_with_1
+replace_start_with_1	A	←		replace_start_with_1
+replace_start_with_1	a	→		replace_with_1
+replace_start_with_1	B	←		replace_start_with_1
+replace_start_with_1	b	→		replace_with_1
+replace_start_with_1	C	←		replace_start_with_1
+replace_start_with_1	c	→		replace_with_1
+replace_start_with_1	D	←		replace_start_with_1
+replace_start_with_1	d	→		replace_with_1
+replace_start_with_1	E	←		replace_start_with_1
+replace_start_with_1	e	→		replace_with_1
+replace_start_with_1	F	←		replace_start_with_1
+replace_start_with_1	f	→		replace_with_1
+replace_A_start_with_2	,	←		replace_start_with_2
+replace_start_with_2	0	←		replace_start_with_2
+replace_start_with_2	⓪	→		replace_with_2
+replace_start_with_2	1	←		replace_start_with_2
+replace_start_with_2	①	→		replace_with_2
+replace_start_with_2	2	←		replace_start_with_2
+replace_start_with_2	②	→		replace_with_2
+replace_start_with_2	3	←		replace_start_with_2
+replace_start_with_2	③	→		replace_with_2
+replace_start_with_2	4	←		replace_start_with_2
+replace_start_with_2	④	→		replace_with_2
+replace_start_with_2	5	←		replace_start_with_2
+replace_start_with_2	⑤	→		replace_with_2
+replace_start_with_2	6	←		replace_start_with_2
+replace_start_with_2	⑥	→		replace_with_2
+replace_start_with_2	7	←		replace_start_with_2
+replace_start_with_2	⑦	→		replace_with_2
+replace_start_with_2	8	←		replace_start_with_2
+replace_start_with_2	⑧	→		replace_with_2
+replace_start_with_2	9	←		replace_start_with_2
+replace_start_with_2	⑨	→		replace_with_2
+replace_start_with_2	A	←		replace_start_with_2
+replace_start_with_2	a	→		replace_with_2
+replace_start_with_2	B	←		replace_start_with_2
+replace_start_with_2	b	→		replace_with_2
+replace_start_with_2	C	←		replace_start_with_2
+replace_start_with_2	c	→		replace_with_2
+replace_start_with_2	D	←		replace_start_with_2
+replace_start_with_2	d	→		replace_with_2
+replace_start_with_2	E	←		replace_start_with_2
+replace_start_with_2	e	→		replace_with_2
+replace_start_with_2	F	←		replace_start_with_2
+replace_start_with_2	f	→		replace_with_2
+replace_A_start_with_3	,	←		replace_start_with_3
+replace_start_with_3	0	←		replace_start_with_3
+replace_start_with_3	⓪	→		replace_with_3
+replace_start_with_3	1	←		replace_start_with_3
+replace_start_with_3	①	→		replace_with_3
+replace_start_with_3	2	←		replace_start_with_3
+replace_start_with_3	②	→		replace_with_3
+replace_start_with_3	3	←		replace_start_with_3
+replace_start_with_3	③	→		replace_with_3
+replace_start_with_3	4	←		replace_start_with_3
+replace_start_with_3	④	→		replace_with_3
+replace_start_with_3	5	←		replace_start_with_3
+replace_start_with_3	⑤	→		replace_with_3
+replace_start_with_3	6	←		replace_start_with_3
+replace_start_with_3	⑥	→		replace_with_3
+replace_start_with_3	7	←		replace_start_with_3
+replace_start_with_3	⑦	→		replace_with_3
+replace_start_with_3	8	←		replace_start_with_3
+replace_start_with_3	⑧	→		replace_with_3
+replace_start_with_3	9	←		replace_start_with_3
+replace_start_with_3	⑨	→		replace_with_3
+replace_start_with_3	A	←		replace_start_with_3
+replace_start_with_3	a	→		replace_with_3
+replace_start_with_3	B	←		replace_start_with_3
+replace_start_with_3	b	→		replace_with_3
+replace_start_with_3	C	←		replace_start_with_3
+replace_start_with_3	c	→		replace_with_3
+replace_start_with_3	D	←		replace_start_with_3
+replace_start_with_3	d	→		replace_with_3
+replace_start_with_3	E	←		replace_start_with_3
+replace_start_with_3	e	→		replace_with_3
+replace_start_with_3	F	←		replace_start_with_3
+replace_start_with_3	f	→		replace_with_3
+replace_A_start_with_4	,	←		replace_start_with_4
+replace_start_with_4	0	←		replace_start_with_4
+replace_start_with_4	⓪	→		replace_with_4
+replace_start_with_4	1	←		replace_start_with_4
+replace_start_with_4	①	→		replace_with_4
+replace_start_with_4	2	←		replace_start_with_4
+replace_start_with_4	②	→		replace_with_4
+replace_start_with_4	3	←		replace_start_with_4
+replace_start_with_4	③	→		replace_with_4
+replace_start_with_4	4	←		replace_start_with_4
+replace_start_with_4	④	→		replace_with_4
+replace_start_with_4	5	←		replace_start_with_4
+replace_start_with_4	⑤	→		replace_with_4
+replace_start_with_4	6	←		replace_start_with_4
+replace_start_with_4	⑥	→		replace_with_4
+replace_start_with_4	7	←		replace_start_with_4
+replace_start_with_4	⑦	→		replace_with_4
+replace_start_with_4	8	←		replace_start_with_4
+replace_start_with_4	⑧	→		replace_with_4
+replace_start_with_4	9	←		replace_start_with_4
+replace_start_with_4	⑨	→		replace_with_4
+replace_start_with_4	A	←		replace_start_with_4
+replace_start_with_4	a	→		replace_with_4
+replace_start_with_4	B	←		replace_start_with_4
+replace_start_with_4	b	→		replace_with_4
+replace_start_with_4	C	←		replace_start_with_4
+replace_start_with_4	c	→		replace_with_4
+replace_start_with_4	D	←		replace_start_with_4
+replace_start_with_4	d	→		replace_with_4
+replace_start_with_4	E	←		replace_start_with_4
+replace_start_with_4	e	→		replace_with_4
+replace_start_with_4	F	←		replace_start_with_4
+replace_start_with_4	f	→		replace_with_4
+replace_A_start_with_5	,	←		replace_start_with_5
+replace_start_with_5	0	←		replace_start_with_5
+replace_start_with_5	⓪	→		replace_with_5
+replace_start_with_5	1	←		replace_start_with_5
+replace_start_with_5	①	→		replace_with_5
+replace_start_with_5	2	←		replace_start_with_5
+replace_start_with_5	②	→		replace_with_5
+replace_start_with_5	3	←		replace_start_with_5
+replace_start_with_5	③	→		replace_with_5
+replace_start_with_5	4	←		replace_start_with_5
+replace_start_with_5	④	→		replace_with_5
+replace_start_with_5	5	←		replace_start_with_5
+replace_start_with_5	⑤	→		replace_with_5
+replace_start_with_5	6	←		replace_start_with_5
+replace_start_with_5	⑥	→		replace_with_5
+replace_start_with_5	7	←		replace_start_with_5
+replace_start_with_5	⑦	→		replace_with_5
+replace_start_with_5	8	←		replace_start_with_5
+replace_start_with_5	⑧	→		replace_with_5
+replace_start_with_5	9	←		replace_start_with_5
+replace_start_with_5	⑨	→		replace_with_5
+replace_start_with_5	A	←		replace_start_with_5
+replace_start_with_5	a	→		replace_with_5
+replace_start_with_5	B	←		replace_start_with_5
+replace_start_with_5	b	→		replace_with_5
+replace_start_with_5	C	←		replace_start_with_5
+replace_start_with_5	c	→		replace_with_5
+replace_start_with_5	D	←		replace_start_with_5
+replace_start_with_5	d	→		replace_with_5
+replace_start_with_5	E	←		replace_start_with_5
+replace_start_with_5	e	→		replace_with_5
+replace_start_with_5	F	←		replace_start_with_5
+replace_start_with_5	f	→		replace_with_5
+replace_A_start_with_6	,	←		replace_start_with_6
+replace_start_with_6	0	←		replace_start_with_6
+replace_start_with_6	⓪	→		replace_with_6
+replace_start_with_6	1	←		replace_start_with_6
+replace_start_with_6	①	→		replace_with_6
+replace_start_with_6	2	←		replace_start_with_6
+replace_start_with_6	②	→		replace_with_6
+replace_start_with_6	3	←		replace_start_with_6
+replace_start_with_6	③	→		replace_with_6
+replace_start_with_6	4	←		replace_start_with_6
+replace_start_with_6	④	→		replace_with_6
+replace_start_with_6	5	←		replace_start_with_6
+replace_start_with_6	⑤	→		replace_with_6
+replace_start_with_6	6	←		replace_start_with_6
+replace_start_with_6	⑥	→		replace_with_6
+replace_start_with_6	7	←		replace_start_with_6
+replace_start_with_6	⑦	→		replace_with_6
+replace_start_with_6	8	←		replace_start_with_6
+replace_start_with_6	⑧	→		replace_with_6
+replace_start_with_6	9	←		replace_start_with_6
+replace_start_with_6	⑨	→		replace_with_6
+replace_start_with_6	A	←		replace_start_with_6
+replace_start_with_6	a	→		replace_with_6
+replace_start_with_6	B	←		replace_start_with_6
+replace_start_with_6	b	→		replace_with_6
+replace_start_with_6	C	←		replace_start_with_6
+replace_start_with_6	c	→		replace_with_6
+replace_start_with_6	D	←		replace_start_with_6
+replace_start_with_6	d	→		replace_with_6
+replace_start_with_6	E	←		replace_start_with_6
+replace_start_with_6	e	→		replace_with_6
+replace_start_with_6	F	←		replace_start_with_6
+replace_start_with_6	f	→		replace_with_6
+replace_A_start_with_7	,	←		replace_start_with_7
+replace_start_with_7	0	←		replace_start_with_7
+replace_start_with_7	⓪	→		replace_with_7
+replace_start_with_7	1	←		replace_start_with_7
+replace_start_with_7	①	→		replace_with_7
+replace_start_with_7	2	←		replace_start_with_7
+replace_start_with_7	②	→		replace_with_7
+replace_start_with_7	3	←		replace_start_with_7
+replace_start_with_7	③	→		replace_with_7
+replace_start_with_7	4	←		replace_start_with_7
+replace_start_with_7	④	→		replace_with_7
+replace_start_with_7	5	←		replace_start_with_7
+replace_start_with_7	⑤	→		replace_with_7
+replace_start_with_7	6	←		replace_start_with_7
+replace_start_with_7	⑥	→		replace_with_7
+replace_start_with_7	7	←		replace_start_with_7
+replace_start_with_7	⑦	→		replace_with_7
+replace_start_with_7	8	←		replace_start_with_7
+replace_start_with_7	⑧	→		replace_with_7
+replace_start_with_7	9	←		replace_start_with_7
+replace_start_with_7	⑨	→		replace_with_7
+replace_start_with_7	A	←		replace_start_with_7
+replace_start_with_7	a	→		replace_with_7
+replace_start_with_7	B	←		replace_start_with_7
+replace_start_with_7	b	→		replace_with_7
+replace_start_with_7	C	←		replace_start_with_7
+replace_start_with_7	c	→		replace_with_7
+replace_start_with_7	D	←		replace_start_with_7
+replace_start_with_7	d	→		replace_with_7
+replace_start_with_7	E	←		replace_start_with_7
+replace_start_with_7	e	→		replace_with_7
+replace_start_with_7	F	←		replace_start_with_7
+replace_start_with_7	f	→		replace_with_7
+replace_A_start_with_8	,	←		replace_start_with_8
+replace_start_with_8	0	←		replace_start_with_8
+replace_start_with_8	⓪	→		replace_with_8
+replace_start_with_8	1	←		replace_start_with_8
+replace_start_with_8	①	→		replace_with_8
+replace_start_with_8	2	←		replace_start_with_8
+replace_start_with_8	②	→		replace_with_8
+replace_start_with_8	3	←		replace_start_with_8
+replace_start_with_8	③	→		replace_with_8
+replace_start_with_8	4	←		replace_start_with_8
+replace_start_with_8	④	→		replace_with_8
+replace_start_with_8	5	←		replace_start_with_8
+replace_start_with_8	⑤	→		replace_with_8
+replace_start_with_8	6	←		replace_start_with_8
+replace_start_with_8	⑥	→		replace_with_8
+replace_start_with_8	7	←		replace_start_with_8
+replace_start_with_8	⑦	→		replace_with_8
+replace_start_with_8	8	←		replace_start_with_8
+replace_start_with_8	⑧	→		replace_with_8
+replace_start_with_8	9	←		replace_start_with_8
+replace_start_with_8	⑨	→		replace_with_8
+replace_start_with_8	A	←		replace_start_with_8
+replace_start_with_8	a	→		replace_with_8
+replace_start_with_8	B	←		replace_start_with_8
+replace_start_with_8	b	→		replace_with_8
+replace_start_with_8	C	←		replace_start_with_8
+replace_start_with_8	c	→		replace_with_8
+replace_start_with_8	D	←		replace_start_with_8
+replace_start_with_8	d	→		replace_with_8
+replace_start_with_8	E	←		replace_start_with_8
+replace_start_with_8	e	→		replace_with_8
+replace_start_with_8	F	←		replace_start_with_8
+replace_start_with_8	f	→		replace_with_8
+replace_A_start_with_9	,	←		replace_start_with_9
+replace_start_with_9	0	←		replace_start_with_9
+replace_start_with_9	⓪	→		replace_with_9
+replace_start_with_9	1	←		replace_start_with_9
+replace_start_with_9	①	→		replace_with_9
+replace_start_with_9	2	←		replace_start_with_9
+replace_start_with_9	②	→		replace_with_9
+replace_start_with_9	3	←		replace_start_with_9
+replace_start_with_9	③	→		replace_with_9
+replace_start_with_9	4	←		replace_start_with_9
+replace_start_with_9	④	→		replace_with_9
+replace_start_with_9	5	←		replace_start_with_9
+replace_start_with_9	⑤	→		replace_with_9
+replace_start_with_9	6	←		replace_start_with_9
+replace_start_with_9	⑥	→		replace_with_9
+replace_start_with_9	7	←		replace_start_with_9
+replace_start_with_9	⑦	→		replace_with_9
+replace_start_with_9	8	←		replace_start_with_9
+replace_start_with_9	⑧	→		replace_with_9
+replace_start_with_9	9	←		replace_start_with_9
+replace_start_with_9	⑨	→		replace_with_9
+replace_start_with_9	A	←		replace_start_with_9
+replace_start_with_9	a	→		replace_with_9
+replace_start_with_9	B	←		replace_start_with_9
+replace_start_with_9	b	→		replace_with_9
+replace_start_with_9	C	←		replace_start_with_9
+replace_start_with_9	c	→		replace_with_9
+replace_start_with_9	D	←		replace_start_with_9
+replace_start_with_9	d	→		replace_with_9
+replace_start_with_9	E	←		replace_start_with_9
+replace_start_with_9	e	→		replace_with_9
+replace_start_with_9	F	←		replace_start_with_9
+replace_start_with_9	f	→		replace_with_9
+replace_A_start_with_A	,	←		replace_start_with_A
+replace_start_with_A	0	←		replace_start_with_A
+replace_start_with_A	⓪	→		replace_with_A
+replace_start_with_A	1	←		replace_start_with_A
+replace_start_with_A	①	→		replace_with_A
+replace_start_with_A	2	←		replace_start_with_A
+replace_start_with_A	②	→		replace_with_A
+replace_start_with_A	3	←		replace_start_with_A
+replace_start_with_A	③	→		replace_with_A
+replace_start_with_A	4	←		replace_start_with_A
+replace_start_with_A	④	→		replace_with_A
+replace_start_with_A	5	←		replace_start_with_A
+replace_start_with_A	⑤	→		replace_with_A
+replace_start_with_A	6	←		replace_start_with_A
+replace_start_with_A	⑥	→		replace_with_A
+replace_start_with_A	7	←		replace_start_with_A
+replace_start_with_A	⑦	→		replace_with_A
+replace_start_with_A	8	←		replace_start_with_A
+replace_start_with_A	⑧	→		replace_with_A
+replace_start_with_A	9	←		replace_start_with_A
+replace_start_with_A	⑨	→		replace_with_A
+replace_start_with_A	A	←		replace_start_with_A
+replace_start_with_A	a	→		replace_with_A
+replace_start_with_A	B	←		replace_start_with_A
+replace_start_with_A	b	→		replace_with_A
+replace_start_with_A	C	←		replace_start_with_A
+replace_start_with_A	c	→		replace_with_A
+replace_start_with_A	D	←		replace_start_with_A
+replace_start_with_A	d	→		replace_with_A
+replace_start_with_A	E	←		replace_start_with_A
+replace_start_with_A	e	→		replace_with_A
+replace_start_with_A	F	←		replace_start_with_A
+replace_start_with_A	f	→		replace_with_A
+replace_A_start_with_B	,	←		replace_start_with_B
+replace_start_with_B	0	←		replace_start_with_B
+replace_start_with_B	⓪	→		replace_with_B
+replace_start_with_B	1	←		replace_start_with_B
+replace_start_with_B	①	→		replace_with_B
+replace_start_with_B	2	←		replace_start_with_B
+replace_start_with_B	②	→		replace_with_B
+replace_start_with_B	3	←		replace_start_with_B
+replace_start_with_B	③	→		replace_with_B
+replace_start_with_B	4	←		replace_start_with_B
+replace_start_with_B	④	→		replace_with_B
+replace_start_with_B	5	←		replace_start_with_B
+replace_start_with_B	⑤	→		replace_with_B
+replace_start_with_B	6	←		replace_start_with_B
+replace_start_with_B	⑥	→		replace_with_B
+replace_start_with_B	7	←		replace_start_with_B
+replace_start_with_B	⑦	→		replace_with_B
+replace_start_with_B	8	←		replace_start_with_B
+replace_start_with_B	⑧	→		replace_with_B
+replace_start_with_B	9	←		replace_start_with_B
+replace_start_with_B	⑨	→		replace_with_B
+replace_start_with_B	A	←		replace_start_with_B
+replace_start_with_B	a	→		replace_with_B
+replace_start_with_B	B	←		replace_start_with_B
+replace_start_with_B	b	→		replace_with_B
+replace_start_with_B	C	←		replace_start_with_B
+replace_start_with_B	c	→		replace_with_B
+replace_start_with_B	D	←		replace_start_with_B
+replace_start_with_B	d	→		replace_with_B
+replace_start_with_B	E	←		replace_start_with_B
+replace_start_with_B	e	→		replace_with_B
+replace_start_with_B	F	←		replace_start_with_B
+replace_start_with_B	f	→		replace_with_B
+replace_A_start_with_C	,	←		replace_start_with_C
+replace_start_with_C	0	←		replace_start_with_C
+replace_start_with_C	⓪	→		replace_with_C
+replace_start_with_C	1	←		replace_start_with_C
+replace_start_with_C	①	→		replace_with_C
+replace_start_with_C	2	←		replace_start_with_C
+replace_start_with_C	②	→		replace_with_C
+replace_start_with_C	3	←		replace_start_with_C
+replace_start_with_C	③	→		replace_with_C
+replace_start_with_C	4	←		replace_start_with_C
+replace_start_with_C	④	→		replace_with_C
+replace_start_with_C	5	←		replace_start_with_C
+replace_start_with_C	⑤	→		replace_with_C
+replace_start_with_C	6	←		replace_start_with_C
+replace_start_with_C	⑥	→		replace_with_C
+replace_start_with_C	7	←		replace_start_with_C
+replace_start_with_C	⑦	→		replace_with_C
+replace_start_with_C	8	←		replace_start_with_C
+replace_start_with_C	⑧	→		replace_with_C
+replace_start_with_C	9	←		replace_start_with_C
+replace_start_with_C	⑨	→		replace_with_C
+replace_start_with_C	A	←		replace_start_with_C
+replace_start_with_C	a	→		replace_with_C
+replace_start_with_C	B	←		replace_start_with_C
+replace_start_with_C	b	→		replace_with_C
+replace_start_with_C	C	←		replace_start_with_C
+replace_start_with_C	c	→		replace_with_C
+replace_start_with_C	D	←		replace_start_with_C
+replace_start_with_C	d	→		replace_with_C
+replace_start_with_C	E	←		replace_start_with_C
+replace_start_with_C	e	→		replace_with_C
+replace_start_with_C	F	←		replace_start_with_C
+replace_start_with_C	f	→		replace_with_C
+replace_A_start_with_D	,	←		replace_start_with_D
+replace_start_with_D	0	←		replace_start_with_D
+replace_start_with_D	⓪	→		replace_with_D
+replace_start_with_D	1	←		replace_start_with_D
+replace_start_with_D	①	→		replace_with_D
+replace_start_with_D	2	←		replace_start_with_D
+replace_start_with_D	②	→		replace_with_D
+replace_start_with_D	3	←		replace_start_with_D
+replace_start_with_D	③	→		replace_with_D
+replace_start_with_D	4	←		replace_start_with_D
+replace_start_with_D	④	→		replace_with_D
+replace_start_with_D	5	←		replace_start_with_D
+replace_start_with_D	⑤	→		replace_with_D
+replace_start_with_D	6	←		replace_start_with_D
+replace_start_with_D	⑥	→		replace_with_D
+replace_start_with_D	7	←		replace_start_with_D
+replace_start_with_D	⑦	→		replace_with_D
+replace_start_with_D	8	←		replace_start_with_D
+replace_start_with_D	⑧	→		replace_with_D
+replace_start_with_D	9	←		replace_start_with_D
+replace_start_with_D	⑨	→		replace_with_D
+replace_start_with_D	A	←		replace_start_with_D
+replace_start_with_D	a	→		replace_with_D
+replace_start_with_D	B	←		replace_start_with_D
+replace_start_with_D	b	→		replace_with_D
+replace_start_with_D	C	←		replace_start_with_D
+replace_start_with_D	c	→		replace_with_D
+replace_start_with_D	D	←		replace_start_with_D
+replace_start_with_D	d	→		replace_with_D
+replace_start_with_D	E	←		replace_start_with_D
+replace_start_with_D	e	→		replace_with_D
+replace_start_with_D	F	←		replace_start_with_D
+replace_start_with_D	f	→		replace_with_D
+replace_A_start_with_E	,	←		replace_start_with_E
+replace_start_with_E	0	←		replace_start_with_E
+replace_start_with_E	⓪	→		replace_with_E
+replace_start_with_E	1	←		replace_start_with_E
+replace_start_with_E	①	→		replace_with_E
+replace_start_with_E	2	←		replace_start_with_E
+replace_start_with_E	②	→		replace_with_E
+replace_start_with_E	3	←		replace_start_with_E
+replace_start_with_E	③	→		replace_with_E
+replace_start_with_E	4	←		replace_start_with_E
+replace_start_with_E	④	→		replace_with_E
+replace_start_with_E	5	←		replace_start_with_E
+replace_start_with_E	⑤	→		replace_with_E
+replace_start_with_E	6	←		replace_start_with_E
+replace_start_with_E	⑥	→		replace_with_E
+replace_start_with_E	7	←		replace_start_with_E
+replace_start_with_E	⑦	→		replace_with_E
+replace_start_with_E	8	←		replace_start_with_E
+replace_start_with_E	⑧	→		replace_with_E
+replace_start_with_E	9	←		replace_start_with_E
+replace_start_with_E	⑨	→		replace_with_E
+replace_start_with_E	A	←		replace_start_with_E
+replace_start_with_E	a	→		replace_with_E
+replace_start_with_E	B	←		replace_start_with_E
+replace_start_with_E	b	→		replace_with_E
+replace_start_with_E	C	←		replace_start_with_E
+replace_start_with_E	c	→		replace_with_E
+replace_start_with_E	D	←		replace_start_with_E
+replace_start_with_E	d	→		replace_with_E
+replace_start_with_E	E	←		replace_start_with_E
+replace_start_with_E	e	→		replace_with_E
+replace_start_with_E	F	←		replace_start_with_E
+replace_start_with_E	f	→		replace_with_E
+replace_A_start_with_F	,	←		replace_start_with_F
+replace_start_with_F	0	←		replace_start_with_F
+replace_start_with_F	⓪	→		replace_with_F
+replace_start_with_F	1	←		replace_start_with_F
+replace_start_with_F	①	→		replace_with_F
+replace_start_with_F	2	←		replace_start_with_F
+replace_start_with_F	②	→		replace_with_F
+replace_start_with_F	3	←		replace_start_with_F
+replace_start_with_F	③	→		replace_with_F
+replace_start_with_F	4	←		replace_start_with_F
+replace_start_with_F	④	→		replace_with_F
+replace_start_with_F	5	←		replace_start_with_F
+replace_start_with_F	⑤	→		replace_with_F
+replace_start_with_F	6	←		replace_start_with_F
+replace_start_with_F	⑥	→		replace_with_F
+replace_start_with_F	7	←		replace_start_with_F
+replace_start_with_F	⑦	→		replace_with_F
+replace_start_with_F	8	←		replace_start_with_F
+replace_start_with_F	⑧	→		replace_with_F
+replace_start_with_F	9	←		replace_start_with_F
+replace_start_with_F	⑨	→		replace_with_F
+replace_start_with_F	A	←		replace_start_with_F
+replace_start_with_F	a	→		replace_with_F
+replace_start_with_F	B	←		replace_start_with_F
+replace_start_with_F	b	→		replace_with_F
+replace_start_with_F	C	←		replace_start_with_F
+replace_start_with_F	c	→		replace_with_F
+replace_start_with_F	D	←		replace_start_with_F
+replace_start_with_F	d	→		replace_with_F
+replace_start_with_F	E	←		replace_start_with_F
+replace_start_with_F	e	→		replace_with_F
+replace_start_with_F	F	←		replace_start_with_F
+replace_start_with_F	f	→		replace_with_F
+replace_start_with_0	[	→		replace_with_0
+replace_start_with_0	,	→		replace_with_0
+replace_with_0	0	→	⓪	start
+replace_with_0	1	→	⓪	start
+replace_with_0	2	→	⓪	start
+replace_with_0	3	→	⓪	start
+replace_with_0	4	→	⓪	start
+replace_with_0	5	→	⓪	start
+replace_with_0	6	→	⓪	start
+replace_with_0	7	→	⓪	start
+replace_with_0	8	→	⓪	start
+replace_with_0	9	→	⓪	start
+replace_with_0	A	→	⓪	start
+replace_with_0	B	→	⓪	start
+replace_with_0	C	→	⓪	start
+replace_with_0	D	→	⓪	start
+replace_with_0	E	→	⓪	start
+replace_with_0	F	→	⓪	start
+replace_start_with_1	[	→		replace_with_1
+replace_start_with_1	,	→		replace_with_1
+replace_with_1	0	→	①	start
+replace_with_1	1	→	①	start
+replace_with_1	2	→	①	start
+replace_with_1	3	→	①	start
+replace_with_1	4	→	①	start
+replace_with_1	5	→	①	start
+replace_with_1	6	→	①	start
+replace_with_1	7	→	①	start
+replace_with_1	8	→	①	start
+replace_with_1	9	→	①	start
+replace_with_1	A	→	①	start
+replace_with_1	B	→	①	start
+replace_with_1	C	→	①	start
+replace_with_1	D	→	①	start
+replace_with_1	E	→	①	start
+replace_with_1	F	→	①	start
+replace_start_with_2	[	→		replace_with_2
+replace_start_with_2	,	→		replace_with_2
+replace_with_2	0	→	②	start
+replace_with_2	1	→	②	start
+replace_with_2	2	→	②	start
+replace_with_2	3	→	②	start
+replace_with_2	4	→	②	start
+replace_with_2	5	→	②	start
+replace_with_2	6	→	②	start
+replace_with_2	7	→	②	start
+replace_with_2	8	→	②	start
+replace_with_2	9	→	②	start
+replace_with_2	A	→	②	start
+replace_with_2	B	→	②	start
+replace_with_2	C	→	②	start
+replace_with_2	D	→	②	start
+replace_with_2	E	→	②	start
+replace_with_2	F	→	②	start
+replace_start_with_3	[	→		replace_with_3
+replace_start_with_3	,	→		replace_with_3
+replace_with_3	0	→	③	start
+replace_with_3	1	→	③	start
+replace_with_3	2	→	③	start
+replace_with_3	3	→	③	start
+replace_with_3	4	→	③	start
+replace_with_3	5	→	③	start
+replace_with_3	6	→	③	start
+replace_with_3	7	→	③	start
+replace_with_3	8	→	③	start
+replace_with_3	9	→	③	start
+replace_with_3	A	→	③	start
+replace_with_3	B	→	③	start
+replace_with_3	C	→	③	start
+replace_with_3	D	→	③	start
+replace_with_3	E	→	③	start
+replace_with_3	F	→	③	start
+replace_start_with_4	[	→		replace_with_4
+replace_start_with_4	,	→		replace_with_4
+replace_with_4	0	→	④	start
+replace_with_4	1	→	④	start
+replace_with_4	2	→	④	start
+replace_with_4	3	→	④	start
+replace_with_4	4	→	④	start
+replace_with_4	5	→	④	start
+replace_with_4	6	→	④	start
+replace_with_4	7	→	④	start
+replace_with_4	8	→	④	start
+replace_with_4	9	→	④	start
+replace_with_4	A	→	④	start
+replace_with_4	B	→	④	start
+replace_with_4	C	→	④	start
+replace_with_4	D	→	④	start
+replace_with_4	E	→	④	start
+replace_with_4	F	→	④	start
+replace_start_with_5	[	→		replace_with_5
+replace_start_with_5	,	→		replace_with_5
+replace_with_5	0	→	⑤	start
+replace_with_5	1	→	⑤	start
+replace_with_5	2	→	⑤	start
+replace_with_5	3	→	⑤	start
+replace_with_5	4	→	⑤	start
+replace_with_5	5	→	⑤	start
+replace_with_5	6	→	⑤	start
+replace_with_5	7	→	⑤	start
+replace_with_5	8	→	⑤	start
+replace_with_5	9	→	⑤	start
+replace_with_5	A	→	⑤	start
+replace_with_5	B	→	⑤	start
+replace_with_5	C	→	⑤	start
+replace_with_5	D	→	⑤	start
+replace_with_5	E	→	⑤	start
+replace_with_5	F	→	⑤	start
+replace_start_with_6	[	→		replace_with_6
+replace_start_with_6	,	→		replace_with_6
+replace_with_6	0	→	⑥	start
+replace_with_6	1	→	⑥	start
+replace_with_6	2	→	⑥	start
+replace_with_6	3	→	⑥	start
+replace_with_6	4	→	⑥	start
+replace_with_6	5	→	⑥	start
+replace_with_6	6	→	⑥	start
+replace_with_6	7	→	⑥	start
+replace_with_6	8	→	⑥	start
+replace_with_6	9	→	⑥	start
+replace_with_6	A	→	⑥	start
+replace_with_6	B	→	⑥	start
+replace_with_6	C	→	⑥	start
+replace_with_6	D	→	⑥	start
+replace_with_6	E	→	⑥	start
+replace_with_6	F	→	⑥	start
+replace_start_with_7	[	→		replace_with_7
+replace_start_with_7	,	→		replace_with_7
+replace_with_7	0	→	⑦	start
+replace_with_7	1	→	⑦	start
+replace_with_7	2	→	⑦	start
+replace_with_7	3	→	⑦	start
+replace_with_7	4	→	⑦	start
+replace_with_7	5	→	⑦	start
+replace_with_7	6	→	⑦	start
+replace_with_7	7	→	⑦	start
+replace_with_7	8	→	⑦	start
+replace_with_7	9	→	⑦	start
+replace_with_7	A	→	⑦	start
+replace_with_7	B	→	⑦	start
+replace_with_7	C	→	⑦	start
+replace_with_7	D	→	⑦	start
+replace_with_7	E	→	⑦	start
+replace_with_7	F	→	⑦	start
+replace_start_with_8	[	→		replace_with_8
+replace_start_with_8	,	→		replace_with_8
+replace_with_8	0	→	⑧	start
+replace_with_8	1	→	⑧	start
+replace_with_8	2	→	⑧	start
+replace_with_8	3	→	⑧	start
+replace_with_8	4	→	⑧	start
+replace_with_8	5	→	⑧	start
+replace_with_8	6	→	⑧	start
+replace_with_8	7	→	⑧	start
+replace_with_8	8	→	⑧	start
+replace_with_8	9	→	⑧	start
+replace_with_8	A	→	⑧	start
+replace_with_8	B	→	⑧	start
+replace_with_8	C	→	⑧	start
+replace_with_8	D	→	⑧	start
+replace_with_8	E	→	⑧	start
+replace_with_8	F	→	⑧	start
+replace_start_with_9	[	→		replace_with_9
+replace_start_with_9	,	→		replace_with_9
+replace_with_9	0	→	⑨	start
+replace_with_9	1	→	⑨	start
+replace_with_9	2	→	⑨	start
+replace_with_9	3	→	⑨	start
+replace_with_9	4	→	⑨	start
+replace_with_9	5	→	⑨	start
+replace_with_9	6	→	⑨	start
+replace_with_9	7	→	⑨	start
+replace_with_9	8	→	⑨	start
+replace_with_9	9	→	⑨	start
+replace_with_9	A	→	⑨	start
+replace_with_9	B	→	⑨	start
+replace_with_9	C	→	⑨	start
+replace_with_9	D	→	⑨	start
+replace_with_9	E	→	⑨	start
+replace_with_9	F	→	⑨	start
+replace_start_with_A	[	→		replace_with_A
+replace_start_with_A	,	→		replace_with_A
+replace_with_A	0	→	a	start
+replace_with_A	1	→	a	start
+replace_with_A	2	→	a	start
+replace_with_A	3	→	a	start
+replace_with_A	4	→	a	start
+replace_with_A	5	→	a	start
+replace_with_A	6	→	a	start
+replace_with_A	7	→	a	start
+replace_with_A	8	→	a	start
+replace_with_A	9	→	a	start
+replace_with_A	A	→	a	start
+replace_with_A	B	→	a	start
+replace_with_A	C	→	a	start
+replace_with_A	D	→	a	start
+replace_with_A	E	→	a	start
+replace_with_A	F	→	a	start
+replace_start_with_B	[	→		replace_with_B
+replace_start_with_B	,	→		replace_with_B
+replace_with_B	0	→	b	start
+replace_with_B	1	→	b	start
+replace_with_B	2	→	b	start
+replace_with_B	3	→	b	start
+replace_with_B	4	→	b	start
+replace_with_B	5	→	b	start
+replace_with_B	6	→	b	start
+replace_with_B	7	→	b	start
+replace_with_B	8	→	b	start
+replace_with_B	9	→	b	start
+replace_with_B	A	→	b	start
+replace_with_B	B	→	b	start
+replace_with_B	C	→	b	start
+replace_with_B	D	→	b	start
+replace_with_B	E	→	b	start
+replace_with_B	F	→	b	start
+replace_start_with_C	[	→		replace_with_C
+replace_start_with_C	,	→		replace_with_C
+replace_with_C	0	→	c	start
+replace_with_C	1	→	c	start
+replace_with_C	2	→	c	start
+replace_with_C	3	→	c	start
+replace_with_C	4	→	c	start
+replace_with_C	5	→	c	start
+replace_with_C	6	→	c	start
+replace_with_C	7	→	c	start
+replace_with_C	8	→	c	start
+replace_with_C	9	→	c	start
+replace_with_C	A	→	c	start
+replace_with_C	B	→	c	start
+replace_with_C	C	→	c	start
+replace_with_C	D	→	c	start
+replace_with_C	E	→	c	start
+replace_with_C	F	→	c	start
+replace_start_with_D	[	→		replace_with_D
+replace_start_with_D	,	→		replace_with_D
+replace_with_D	0	→	d	start
+replace_with_D	1	→	d	start
+replace_with_D	2	→	d	start
+replace_with_D	3	→	d	start
+replace_with_D	4	→	d	start
+replace_with_D	5	→	d	start
+replace_with_D	6	→	d	start
+replace_with_D	7	→	d	start
+replace_with_D	8	→	d	start
+replace_with_D	9	→	d	start
+replace_with_D	A	→	d	start
+replace_with_D	B	→	d	start
+replace_with_D	C	→	d	start
+replace_with_D	D	→	d	start
+replace_with_D	E	→	d	start
+replace_with_D	F	→	d	start
+replace_start_with_E	[	→		replace_with_E
+replace_start_with_E	,	→		replace_with_E
+replace_with_E	0	→	e	start
+replace_with_E	1	→	e	start
+replace_with_E	2	→	e	start
+replace_with_E	3	→	e	start
+replace_with_E	4	→	e	start
+replace_with_E	5	→	e	start
+replace_with_E	6	→	e	start
+replace_with_E	7	→	e	start
+replace_with_E	8	→	e	start
+replace_with_E	9	→	e	start
+replace_with_E	A	→	e	start
+replace_with_E	B	→	e	start
+replace_with_E	C	→	e	start
+replace_with_E	D	→	e	start
+replace_with_E	E	→	e	start
+replace_with_E	F	→	e	start
+replace_start_with_F	[	→		replace_with_F
+replace_start_with_F	,	→		replace_with_F
+replace_with_F	0	→	f	start
+replace_with_F	1	→	f	start
+replace_with_F	2	→	f	start
+replace_with_F	3	→	f	start
+replace_with_F	4	→	f	start
+replace_with_F	5	→	f	start
+replace_with_F	6	→	f	start
+replace_with_F	7	→	f	start
+replace_with_F	8	→	f	start
+replace_with_F	9	→	f	start
+replace_with_F	A	→	f	start
+replace_with_F	B	→	f	start
+replace_with_F	C	→	f	start
+replace_with_F	D	→	f	start
+replace_with_F	E	→	f	start
+replace_with_F	F	→	f	start
+goto_A	0	←		goto_A
+goto_A	⓪	←		goto_A
+goto_A	1	←		goto_A
+goto_A	①	←		goto_A
+goto_A	2	←		goto_A
+goto_A	②	←		goto_A
+goto_A	3	←		goto_A
+goto_A	③	←		goto_A
+goto_A	4	←		goto_A
+goto_A	④	←		goto_A
+goto_A	5	←		goto_A
+goto_A	⑤	←		goto_A
+goto_A	6	←		goto_A
+goto_A	⑥	←		goto_A
+goto_A	7	←		goto_A
+goto_A	⑦	←		goto_A
+goto_A	8	←		goto_A
+goto_A	⑧	←		goto_A
+goto_A	9	←		goto_A
+goto_A	⑨	←		goto_A
+goto_A	A	←		goto_A
+goto_A	a	←		goto_A
+goto_A	B	←		goto_A
+goto_A	b	←		goto_A
+goto_A	C	←		goto_A
+goto_A	c	←		goto_A
+goto_A	D	←		goto_A
+goto_A	d	←		goto_A
+goto_A	E	←		goto_A
+goto_A	e	←		goto_A
+goto_A	F	←		goto_A
+goto_A	f	←		goto_A
+goto_A	,	←		goto_string_start
+goto_string_start	0	←		goto_string_start
+goto_string_start	⓪	→		mark
+goto_string_start	1	←		goto_string_start
+goto_string_start	①	→		mark
+goto_string_start	2	←		goto_string_start
+goto_string_start	②	→		mark
+goto_string_start	3	←		goto_string_start
+goto_string_start	③	→		mark
+goto_string_start	4	←		goto_string_start
+goto_string_start	④	→		mark
+goto_string_start	5	←		goto_string_start
+goto_string_start	⑤	→		mark
+goto_string_start	6	←		goto_string_start
+goto_string_start	⑥	→		mark
+goto_string_start	7	←		goto_string_start
+goto_string_start	⑦	→		mark
+goto_string_start	8	←		goto_string_start
+goto_string_start	⑧	→		mark
+goto_string_start	9	←		goto_string_start
+goto_string_start	⑨	→		mark
+goto_string_start	A	←		goto_string_start
+goto_string_start	a	→		mark
+goto_string_start	B	←		goto_string_start
+goto_string_start	b	→		mark
+goto_string_start	C	←		goto_string_start
+goto_string_start	c	→		mark
+goto_string_start	D	←		goto_string_start
+goto_string_start	d	→		mark
+goto_string_start	E	←		goto_string_start
+goto_string_start	e	→		mark
+goto_string_start	F	←		goto_string_start
+goto_string_start	f	→		mark
+goto_string_start	[	→		mark
+goto_string_start	,	→		mark
+mark	0	→	⓪	start
+mark	1	→	①	start
+mark	2	→	②	start
+mark	3	→	③	start
+mark	4	→	④	start
+mark	5	→	⑤	start
+mark	6	→	⑥	start
+mark	7	→	⑦	start
+mark	8	→	⑧	start
+mark	9	→	⑨	start
+mark	A	→	a	start
+mark	B	→	b	start
+mark	C	→	c	start
+mark	D	→	d	start
+mark	E	→	e	start
+mark	F	→	f	start
+start	,	→		clean_string_clean_string
+clean_string__clean_string	⓪	→	0	clean_string__clean_string
+clean_string__clean_string	①	→	1	clean_string__clean_string
+clean_string__clean_string	②	→	2	clean_string__clean_string
+clean_string__clean_string	③	→	3	clean_string__clean_string
+clean_string__clean_string	④	→	4	clean_string__clean_string
+clean_string__clean_string	⑤	→	5	clean_string__clean_string
+clean_string__clean_string	⑥	→	6	clean_string__clean_string
+clean_string__clean_string	⑦	→	7	clean_string__clean_string
+clean_string__clean_string	⑧	→	8	clean_string__clean_string
+clean_string__clean_string	⑨	→	9	clean_string__clean_string
+clean_string__clean_string	a	→	A	clean_string__clean_string
+clean_string__clean_string	b	→	B	clean_string__clean_string
+clean_string__clean_string	c	→	C	clean_string__clean_string
+clean_string__clean_string	d	→	D	clean_string__clean_string
+clean_string__clean_string	e	→	E	clean_string__clean_string
+clean_string__clean_string	f	→	F	clean_string__clean_string
+clean_string__clean_string	,	→		start
