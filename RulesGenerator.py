@@ -128,7 +128,7 @@ rules.write_rule(f"A_goto_left_wall_for_marking", ",", "←", "/", f"rightleft_l
 
 for s0 in alphabet:
     rules.write_rule(f"rightleft_low_clean", alphabet[s0], "←", s0, f"rightleft_low_clean")
-rules.write_rule(f"rightleft_low_clean", ",", "←", "", f"")
+rules.write_rule(f"rightleft_low_clean", ",", "←", "", f"rightleft_low_clean")
 rules.write_rule(f"rightleft_low_clean", "[", "→", "", f"A_read_for_comparison")
 
 #when there is no left wall to mark (i.e. the full comparison is done).
