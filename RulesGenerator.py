@@ -127,7 +127,11 @@ rules.write_rule(f"A_read_for_switch", ",", "←", "", f"A_goto_leftmost_symbol_
 
 #No hex string.
 rules.write_rule(f"A_read_for_comparison", "]", "←", "", f"A_goto_tape_start_for_ending")
-rules.write_rule(f"A_goto_tape_start_for_ending", "]", "←", "", f"⏹")
+
+for s0 in alphabet:
+    rules.write_rule(f"A_goto_tape_start_for_ending", s0, "←", "", f"A_goto_tape_start_for_ending")
+rules.write_rule(f"A_goto_tape_start_for_ending", ",", "←", "", f"A_goto_tape_start_for_ending")
+rules.write_rule(f"A_goto_tape_start_for_ending", "[", "→", "", f"⏹")
 
 #No B for A to compare with. i.e. end of current sort cycle.
 for s0 in alphabet:

@@ -2981,4 +2981,4 @@ leftright_full_clean	D	→		leftright_full_clean
 leftright_full_clean	E	→		leftright_full_clean
 leftright_full_clean	F	→		leftright_full_clean
 leftright_full_clean	/	→	,	leftright_full_clean
-leftright_full_clean	]	→		A_goto_tape_start_for_ending
+leftright_full_clean	]	←		A_goto_tape_start_for_ending
