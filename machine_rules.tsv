@@ -2964,5 +2964,21 @@ leftright_full_clean	c	→	C	leftright_full_clean
 leftright_full_clean	d	→	D	leftright_full_clean
 leftright_full_clean	e	→	E	leftright_full_clean
 leftright_full_clean	f	→	F	leftright_full_clean
+leftright_full_clean	0	→		leftright_full_clean
+leftright_full_clean	1	→		leftright_full_clean
+leftright_full_clean	2	→		leftright_full_clean
+leftright_full_clean	3	→		leftright_full_clean
+leftright_full_clean	4	→		leftright_full_clean
+leftright_full_clean	5	→		leftright_full_clean
+leftright_full_clean	6	→		leftright_full_clean
+leftright_full_clean	7	→		leftright_full_clean
+leftright_full_clean	8	→		leftright_full_clean
+leftright_full_clean	9	→		leftright_full_clean
+leftright_full_clean	A	→		leftright_full_clean
+leftright_full_clean	B	→		leftright_full_clean
+leftright_full_clean	C	→		leftright_full_clean
+leftright_full_clean	D	→		leftright_full_clean
+leftright_full_clean	E	→		leftright_full_clean
+leftright_full_clean	F	→		leftright_full_clean
 leftright_full_clean	/	→	,	leftright_full_clean
 leftright_full_clean	]	→		A_goto_tape_start_for_ending

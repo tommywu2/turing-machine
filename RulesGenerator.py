@@ -156,4 +156,4 @@ for s0 in alphabet:
     rules.write_rule(f"leftright_full_clean", s0, "→", "", f"leftright_full_clean")
 rules.write_rule(f"leftright_full_clean", "/", "→", ",", f"leftright_full_clean")
 
-rules.write_rule(f"leftright_full_clean", "]", "→", "", f"A_goto_tape_start_for_ending")
+rules.write_rule(f"leftright_full_clean", "]", "←", "", f"A_goto_tape_start_for_ending")
