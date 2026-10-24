@@ -11,6 +11,79 @@ class RulesGenerator:
 
 rules = RulesGenerator("machine_rules.tsv")
 
+rules.write_rule(f"⎆", "[", "→", "", f"A_read")
+for s0 in alphabet:
+    rules.write_rule(f"A_read", s0, "→", "", f"A_has_{s0}_goto_B")
+for s0 in alphabet:
+    for s1 in alphabet:
+        rules.write_rule(f"A_has_{s0}_goto_B", s1, "→", "", "")
+for s0 in alphabet:
+    rules.write_rule(f"A_has_{s0}_goto_B", ",", "→", "", f"B_compare_with_{s0}")
+for s0 in alphabet:
+    for s1 in alphabet:
+        a_symbol_value = list(alphabet).index(s0)
+        b_symbol_value = list(alphabet).index(s1)
+        if a_symbol_value > b_symbol_value:
+            rules.write_rule(f"B_compare_with_{s0}", s1, "←", alphabet[s0], f"B_has_{s1}_goto_leftmost_A_replace")
+        elif b_symbol_value > a_symbol_value:
+            rules.write_rule(f"B_compare_with_{s0}", s1, "←", "", f"B_clean")
+        else:
+            rules.write_rule(f"B_compare_with_{s0}", s1, "←", alphabet[s1], f"B_goto_leftmost_A_mark")
+
+for s0 in alphabet:
+    for s1 in alphabet:
+        rules.write_rule(f"B_has_{s0}_goto_leftmost_A_replace", s1, "←", "", "")
+rules.write_rule(f"B_has_{s0}_goto_leftmost_A_replace", ",", "←", "", f"goto_leftmost_A_replace_with_{s0}")
+for s0 in alphabet:
+    for s1 in alphabet:
+        rules.write_rule(f"goto_leftmost_A_replace_with_{s0}", s1, "←", "", "")
+
+rules.write_rule(f"goto_leftmost_A_replace_with_{s0}", "[", "→", "", f"A_replace_with_{s0}")
+rules.write_rule(f"goto_leftmost_A_replace_with_{s0}", ",", "→", "", f"A_replace_with_{s0}")
+for s0 in alphabet:
+    for s1 in alphabet:
+        rules.write_rule(f"goto_leftmost_A_replace_with_{s0}", alphabet[s1], "→", "", f"A_replace_with_{s0}")
+for s0 in alphabet:
+    rules.write_rule(f"A_replace_with_{s0}", s1, "→", alphabet[s0], f"A_read")
+
+for s0 in alphabet:
+    rules.write_rule(f"B_rightleft_clean", alphabet[s0], "←", s0, "")
+rules.write_rule(f"B_rightleft_clean", ",", "←", "", f"goto_leftmost_A_clean")
+
+for s0 in alphabet:
+    rules.write_rule(f"goto_leftmost_A_clean", s0, "←", "", "")
+for s0 in alphabet:
+    rules.write_rule(f"goto_leftmost_A_clean", alphabet[s0], "←", "", "")
+rules.write_rule(f"goto_leftmost_A_clean", "[", "→", "", f"A_leftright_clean")
+rules.write_rule(f"goto_leftmost_A_clean", ",", "→", "", f"A_leftright_clean")
+
+for s0 in alphabet:
+    rules.write_rule(f"A_leftright_clean", s0, "→", "", "")
+for s0 in alphabet:
+    rules.write_rule(f"A_leftright_clean", alphabet[s0], "→", s0, "")
+rules.write_rule(f"A_leftright_clean", ",", "→", "", f"A_read")
+
+for s0 in alphabet:
+    rules.write_rule(f"B_goto_leftmost_A_mark", s0, "←", "", "")
+for s0 in alphabet:
+    rules.write_rule(f"B_goto_leftmost_A_mark", alphabet[s0], "←", "", "")
+rules.write_rule(f"B_goto_leftmost_A_mark", ",", "←", "", f"goto_leftmost_A_mark")
+
+for s0 in alphabet:
+    rules.write_rule(f"goto_leftmost_A_mark", s0, "←", "", "")
+for s0 in alphabet:
+    rules.write_rule(f"goto_leftmost_A_mark", alphabet[s0], "→", "", f"read_A")
+rules.write_rule(f"goto_leftmost_A_mark", "[", "→", "", f"read_A")
+rules.write_rule(f"goto_leftmost_A_mark", ",", "→", "", f"read_A")
+
+rules.write_rule(f"read_A", ",", "→", "", f"")
+rules.write_rule(f"read_A", "]", "→", "", f"")
+
+
+
+
+
+#old
 rules.write_rule("⎆", "[", "→", "", "start")
 
 for s0 in alphabet:
