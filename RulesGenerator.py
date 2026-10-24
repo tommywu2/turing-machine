@@ -178,7 +178,7 @@ for s0 in alphabet:
 for s0 in alphabet:
     rules.write_rule(f"A_goto_left_wall_for_marking", alphabet[s0], "←", s0, f"A_goto_left_wall_for_marking")
 rules.write_rule(f"A_goto_left_wall_for_marking", ",", "←", "/", f"rightleft_low_clean")
-rules.write_rule(f"A_goto_left_wall_for_marking", ";", "←", "/", f"rightleft_low_clean")
+rules.write_rule(f"A_goto_left_wall_for_marking", ";", "←", "/", f"rightleft_low_clean_swap_happened")
 
 for s0 in alphabet:
     rules.write_rule(f"rightleft_low_clean", alphabet[s0], "←", s0, f"rightleft_low_clean")

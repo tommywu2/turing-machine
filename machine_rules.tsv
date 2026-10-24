@@ -3073,7 +3073,7 @@ A_goto_left_wall_for_marking	d	←	D	A_goto_left_wall_for_marking
 A_goto_left_wall_for_marking	e	←	E	A_goto_left_wall_for_marking
 A_goto_left_wall_for_marking	f	←	F	A_goto_left_wall_for_marking
 A_goto_left_wall_for_marking	,	←	/	rightleft_low_clean
-A_goto_left_wall_for_marking	;	←	/	rightleft_low_clean
+A_goto_left_wall_for_marking	;	←	/	rightleft_low_clean_swap_happened
 rightleft_low_clean	⓪	←	0	rightleft_low_clean
 rightleft_low_clean	①	←	1	rightleft_low_clean
 rightleft_low_clean	②	←	2	rightleft_low_clean
