@@ -287,6 +287,22 @@ A_has_C_goto_B_for_comparison	,	→		A_has_C_compare_with_B
 A_has_D_goto_B_for_comparison	,	→		A_has_D_compare_with_B
 A_has_E_goto_B_for_comparison	,	→		A_has_E_compare_with_B
 A_has_F_goto_B_for_comparison	,	→		A_has_F_compare_with_B
+A_has_0_goto_B_for_comparison	;	→		A_has_0_compare_with_B
+A_has_1_goto_B_for_comparison	;	→		A_has_1_compare_with_B
+A_has_2_goto_B_for_comparison	;	→		A_has_2_compare_with_B
+A_has_3_goto_B_for_comparison	;	→		A_has_3_compare_with_B
+A_has_4_goto_B_for_comparison	;	→		A_has_4_compare_with_B
+A_has_5_goto_B_for_comparison	;	→		A_has_5_compare_with_B
+A_has_6_goto_B_for_comparison	;	→		A_has_6_compare_with_B
+A_has_7_goto_B_for_comparison	;	→		A_has_7_compare_with_B
+A_has_8_goto_B_for_comparison	;	→		A_has_8_compare_with_B
+A_has_9_goto_B_for_comparison	;	→		A_has_9_compare_with_B
+A_has_A_goto_B_for_comparison	;	→		A_has_A_compare_with_B
+A_has_B_goto_B_for_comparison	;	→		A_has_B_compare_with_B
+A_has_C_goto_B_for_comparison	;	→		A_has_C_compare_with_B
+A_has_D_goto_B_for_comparison	;	→		A_has_D_compare_with_B
+A_has_E_goto_B_for_comparison	;	→		A_has_E_compare_with_B
+A_has_F_goto_B_for_comparison	;	→		A_has_F_compare_with_B
 A_has_0_compare_with_B	⓪	→		A_has_0_compare_with_B
 A_has_0_compare_with_B	①	→		A_has_0_compare_with_B
 A_has_0_compare_with_B	②	→		A_has_0_compare_with_B
@@ -1071,22 +1087,38 @@ B_has_F_goto_A_for_switch	c	←		B_has_F_goto_A_for_switch
 B_has_F_goto_A_for_switch	d	←		B_has_F_goto_A_for_switch
 B_has_F_goto_A_for_switch	e	←		B_has_F_goto_A_for_switch
 B_has_F_goto_A_for_switch	f	←		B_has_F_goto_A_for_switch
-B_has_0_goto_A_for_switch	,	←		B_has_0_switch_with_A
-B_has_1_goto_A_for_switch	,	←		B_has_1_switch_with_A
-B_has_2_goto_A_for_switch	,	←		B_has_2_switch_with_A
-B_has_3_goto_A_for_switch	,	←		B_has_3_switch_with_A
-B_has_4_goto_A_for_switch	,	←		B_has_4_switch_with_A
-B_has_5_goto_A_for_switch	,	←		B_has_5_switch_with_A
-B_has_6_goto_A_for_switch	,	←		B_has_6_switch_with_A
-B_has_7_goto_A_for_switch	,	←		B_has_7_switch_with_A
-B_has_8_goto_A_for_switch	,	←		B_has_8_switch_with_A
-B_has_9_goto_A_for_switch	,	←		B_has_9_switch_with_A
-B_has_A_goto_A_for_switch	,	←		B_has_A_switch_with_A
-B_has_B_goto_A_for_switch	,	←		B_has_B_switch_with_A
-B_has_C_goto_A_for_switch	,	←		B_has_C_switch_with_A
-B_has_D_goto_A_for_switch	,	←		B_has_D_switch_with_A
-B_has_E_goto_A_for_switch	,	←		B_has_E_switch_with_A
-B_has_F_goto_A_for_switch	,	←		B_has_F_switch_with_A
+B_has_0_goto_A_for_switch	,	←	;	B_has_0_switch_with_A
+B_has_1_goto_A_for_switch	,	←	;	B_has_1_switch_with_A
+B_has_2_goto_A_for_switch	,	←	;	B_has_2_switch_with_A
+B_has_3_goto_A_for_switch	,	←	;	B_has_3_switch_with_A
+B_has_4_goto_A_for_switch	,	←	;	B_has_4_switch_with_A
+B_has_5_goto_A_for_switch	,	←	;	B_has_5_switch_with_A
+B_has_6_goto_A_for_switch	,	←	;	B_has_6_switch_with_A
+B_has_7_goto_A_for_switch	,	←	;	B_has_7_switch_with_A
+B_has_8_goto_A_for_switch	,	←	;	B_has_8_switch_with_A
+B_has_9_goto_A_for_switch	,	←	;	B_has_9_switch_with_A
+B_has_A_goto_A_for_switch	,	←	;	B_has_A_switch_with_A
+B_has_B_goto_A_for_switch	,	←	;	B_has_B_switch_with_A
+B_has_C_goto_A_for_switch	,	←	;	B_has_C_switch_with_A
+B_has_D_goto_A_for_switch	,	←	;	B_has_D_switch_with_A
+B_has_E_goto_A_for_switch	,	←	;	B_has_E_switch_with_A
+B_has_F_goto_A_for_switch	,	←	;	B_has_F_switch_with_A
+B_has_0_goto_A_for_switch	;	←		B_has_0_switch_with_A
+B_has_1_goto_A_for_switch	;	←		B_has_1_switch_with_A
+B_has_2_goto_A_for_switch	;	←		B_has_2_switch_with_A
+B_has_3_goto_A_for_switch	;	←		B_has_3_switch_with_A
+B_has_4_goto_A_for_switch	;	←		B_has_4_switch_with_A
+B_has_5_goto_A_for_switch	;	←		B_has_5_switch_with_A
+B_has_6_goto_A_for_switch	;	←		B_has_6_switch_with_A
+B_has_7_goto_A_for_switch	;	←		B_has_7_switch_with_A
+B_has_8_goto_A_for_switch	;	←		B_has_8_switch_with_A
+B_has_9_goto_A_for_switch	;	←		B_has_9_switch_with_A
+B_has_A_goto_A_for_switch	;	←		B_has_A_switch_with_A
+B_has_B_goto_A_for_switch	;	←		B_has_B_switch_with_A
+B_has_C_goto_A_for_switch	;	←		B_has_C_switch_with_A
+B_has_D_goto_A_for_switch	;	←		B_has_D_switch_with_A
+B_has_E_goto_A_for_switch	;	←		B_has_E_switch_with_A
+B_has_F_goto_A_for_switch	;	←		B_has_F_switch_with_A
 B_has_0_switch_with_A	0	←		B_has_0_switch_with_A
 B_has_0_switch_with_A	1	←		B_has_0_switch_with_A
 B_has_0_switch_with_A	2	←		B_has_0_switch_with_A
@@ -1359,22 +1391,38 @@ B_has_C_switch_with_A	[	→		B_has_C_switch_with_A_here
 B_has_D_switch_with_A	[	→		B_has_D_switch_with_A_here
 B_has_E_switch_with_A	[	→		B_has_E_switch_with_A_here
 B_has_F_switch_with_A	[	→		B_has_F_switch_with_A_here
-B_has_0_switch_with_A	,	→		B_has_0_switch_with_A_here
-B_has_1_switch_with_A	,	→		B_has_1_switch_with_A_here
-B_has_2_switch_with_A	,	→		B_has_2_switch_with_A_here
-B_has_3_switch_with_A	,	→		B_has_3_switch_with_A_here
-B_has_4_switch_with_A	,	→		B_has_4_switch_with_A_here
-B_has_5_switch_with_A	,	→		B_has_5_switch_with_A_here
-B_has_6_switch_with_A	,	→		B_has_6_switch_with_A_here
-B_has_7_switch_with_A	,	→		B_has_7_switch_with_A_here
-B_has_8_switch_with_A	,	→		B_has_8_switch_with_A_here
-B_has_9_switch_with_A	,	→		B_has_9_switch_with_A_here
-B_has_A_switch_with_A	,	→		B_has_A_switch_with_A_here
-B_has_B_switch_with_A	,	→		B_has_B_switch_with_A_here
-B_has_C_switch_with_A	,	→		B_has_C_switch_with_A_here
-B_has_D_switch_with_A	,	→		B_has_D_switch_with_A_here
-B_has_E_switch_with_A	,	→		B_has_E_switch_with_A_here
-B_has_F_switch_with_A	,	→		B_has_F_switch_with_A_here
+B_has_0_switch_with_A	,	→	;	B_has_0_switch_with_A_here
+B_has_1_switch_with_A	,	→	;	B_has_1_switch_with_A_here
+B_has_2_switch_with_A	,	→	;	B_has_2_switch_with_A_here
+B_has_3_switch_with_A	,	→	;	B_has_3_switch_with_A_here
+B_has_4_switch_with_A	,	→	;	B_has_4_switch_with_A_here
+B_has_5_switch_with_A	,	→	;	B_has_5_switch_with_A_here
+B_has_6_switch_with_A	,	→	;	B_has_6_switch_with_A_here
+B_has_7_switch_with_A	,	→	;	B_has_7_switch_with_A_here
+B_has_8_switch_with_A	,	→	;	B_has_8_switch_with_A_here
+B_has_9_switch_with_A	,	→	;	B_has_9_switch_with_A_here
+B_has_A_switch_with_A	,	→	;	B_has_A_switch_with_A_here
+B_has_B_switch_with_A	,	→	;	B_has_B_switch_with_A_here
+B_has_C_switch_with_A	,	→	;	B_has_C_switch_with_A_here
+B_has_D_switch_with_A	,	→	;	B_has_D_switch_with_A_here
+B_has_E_switch_with_A	,	→	;	B_has_E_switch_with_A_here
+B_has_F_switch_with_A	,	→	;	B_has_F_switch_with_A_here
+B_has_0_switch_with_A	;	→		B_has_0_switch_with_A_here
+B_has_1_switch_with_A	;	→		B_has_1_switch_with_A_here
+B_has_2_switch_with_A	;	→		B_has_2_switch_with_A_here
+B_has_3_switch_with_A	;	→		B_has_3_switch_with_A_here
+B_has_4_switch_with_A	;	→		B_has_4_switch_with_A_here
+B_has_5_switch_with_A	;	→		B_has_5_switch_with_A_here
+B_has_6_switch_with_A	;	→		B_has_6_switch_with_A_here
+B_has_7_switch_with_A	;	→		B_has_7_switch_with_A_here
+B_has_8_switch_with_A	;	→		B_has_8_switch_with_A_here
+B_has_9_switch_with_A	;	→		B_has_9_switch_with_A_here
+B_has_A_switch_with_A	;	→		B_has_A_switch_with_A_here
+B_has_B_switch_with_A	;	→		B_has_B_switch_with_A_here
+B_has_C_switch_with_A	;	→		B_has_C_switch_with_A_here
+B_has_D_switch_with_A	;	→		B_has_D_switch_with_A_here
+B_has_E_switch_with_A	;	→		B_has_E_switch_with_A_here
+B_has_F_switch_with_A	;	→		B_has_F_switch_with_A_here
 B_has_0_switch_with_A	⓪	→		B_has_0_switch_with_A_here
 B_has_0_switch_with_A	①	→		B_has_0_switch_with_A_here
 B_has_0_switch_with_A	②	→		B_has_0_switch_with_A_here
@@ -2143,22 +2191,38 @@ A_has_F_goto_B_for_switch	C	→		A_has_F_goto_B_for_switch
 A_has_F_goto_B_for_switch	D	→		A_has_F_goto_B_for_switch
 A_has_F_goto_B_for_switch	E	→		A_has_F_goto_B_for_switch
 A_has_F_goto_B_for_switch	F	→		A_has_F_goto_B_for_switch
-A_has_0_goto_B_for_switch	,	→		A_has_0_switch_with_B
-A_has_1_goto_B_for_switch	,	→		A_has_1_switch_with_B
-A_has_2_goto_B_for_switch	,	→		A_has_2_switch_with_B
-A_has_3_goto_B_for_switch	,	→		A_has_3_switch_with_B
-A_has_4_goto_B_for_switch	,	→		A_has_4_switch_with_B
-A_has_5_goto_B_for_switch	,	→		A_has_5_switch_with_B
-A_has_6_goto_B_for_switch	,	→		A_has_6_switch_with_B
-A_has_7_goto_B_for_switch	,	→		A_has_7_switch_with_B
-A_has_8_goto_B_for_switch	,	→		A_has_8_switch_with_B
-A_has_9_goto_B_for_switch	,	→		A_has_9_switch_with_B
-A_has_A_goto_B_for_switch	,	→		A_has_A_switch_with_B
-A_has_B_goto_B_for_switch	,	→		A_has_B_switch_with_B
-A_has_C_goto_B_for_switch	,	→		A_has_C_switch_with_B
-A_has_D_goto_B_for_switch	,	→		A_has_D_switch_with_B
-A_has_E_goto_B_for_switch	,	→		A_has_E_switch_with_B
-A_has_F_goto_B_for_switch	,	→		A_has_F_switch_with_B
+A_has_0_goto_B_for_switch	,	→	;	A_has_0_switch_with_B
+A_has_1_goto_B_for_switch	,	→	;	A_has_1_switch_with_B
+A_has_2_goto_B_for_switch	,	→	;	A_has_2_switch_with_B
+A_has_3_goto_B_for_switch	,	→	;	A_has_3_switch_with_B
+A_has_4_goto_B_for_switch	,	→	;	A_has_4_switch_with_B
+A_has_5_goto_B_for_switch	,	→	;	A_has_5_switch_with_B
+A_has_6_goto_B_for_switch	,	→	;	A_has_6_switch_with_B
+A_has_7_goto_B_for_switch	,	→	;	A_has_7_switch_with_B
+A_has_8_goto_B_for_switch	,	→	;	A_has_8_switch_with_B
+A_has_9_goto_B_for_switch	,	→	;	A_has_9_switch_with_B
+A_has_A_goto_B_for_switch	,	→	;	A_has_A_switch_with_B
+A_has_B_goto_B_for_switch	,	→	;	A_has_B_switch_with_B
+A_has_C_goto_B_for_switch	,	→	;	A_has_C_switch_with_B
+A_has_D_goto_B_for_switch	,	→	;	A_has_D_switch_with_B
+A_has_E_goto_B_for_switch	,	→	;	A_has_E_switch_with_B
+A_has_F_goto_B_for_switch	,	→	;	A_has_F_switch_with_B
+A_has_0_goto_B_for_switch	;	→		A_has_0_switch_with_B
+A_has_1_goto_B_for_switch	;	→		A_has_1_switch_with_B
+A_has_2_goto_B_for_switch	;	→		A_has_2_switch_with_B
+A_has_3_goto_B_for_switch	;	→		A_has_3_switch_with_B
+A_has_4_goto_B_for_switch	;	→		A_has_4_switch_with_B
+A_has_5_goto_B_for_switch	;	→		A_has_5_switch_with_B
+A_has_6_goto_B_for_switch	;	→		A_has_6_switch_with_B
+A_has_7_goto_B_for_switch	;	→		A_has_7_switch_with_B
+A_has_8_goto_B_for_switch	;	→		A_has_8_switch_with_B
+A_has_9_goto_B_for_switch	;	→		A_has_9_switch_with_B
+A_has_A_goto_B_for_switch	;	→		A_has_A_switch_with_B
+A_has_B_goto_B_for_switch	;	→		A_has_B_switch_with_B
+A_has_C_goto_B_for_switch	;	→		A_has_C_switch_with_B
+A_has_D_goto_B_for_switch	;	→		A_has_D_switch_with_B
+A_has_E_goto_B_for_switch	;	→		A_has_E_switch_with_B
+A_has_F_goto_B_for_switch	;	→		A_has_F_switch_with_B
 A_has_0_switch_with_B	⓪	→		A_has_0_switch_with_B
 A_has_0_switch_with_B	①	→		A_has_0_switch_with_B
 A_has_0_switch_with_B	②	→		A_has_0_switch_with_B
@@ -2688,6 +2752,7 @@ B_rightleft_clean	d	←	D	B_rightleft_clean
 B_rightleft_clean	e	←	E	B_rightleft_clean
 B_rightleft_clean	f	←	F	B_rightleft_clean
 B_rightleft_clean	,	←		A_rightleft_clean
+B_rightleft_clean	;	←		A_rightleft_clean
 A_rightleft_clean	0	←		A_rightleft_clean
 A_rightleft_clean	1	←		A_rightleft_clean
 A_rightleft_clean	2	←		A_rightleft_clean
@@ -2722,6 +2787,7 @@ A_rightleft_clean	e	←	E	A_rightleft_clean
 A_rightleft_clean	f	←	F	A_rightleft_clean
 A_rightleft_clean	[	→		A_goto_B_for_new_comparison
 A_rightleft_clean	,	→		A_goto_B_for_new_comparison
+A_rightleft_clean	;	→		A_goto_B_for_new_comparison
 A_goto_B_for_new_comparison	0	→		A_goto_B_for_new_comparison
 A_goto_B_for_new_comparison	1	→		A_goto_B_for_new_comparison
 A_goto_B_for_new_comparison	2	→		A_goto_B_for_new_comparison
@@ -2739,6 +2805,7 @@ A_goto_B_for_new_comparison	D	→		A_goto_B_for_new_comparison
 A_goto_B_for_new_comparison	E	→		A_goto_B_for_new_comparison
 A_goto_B_for_new_comparison	F	→		A_goto_B_for_new_comparison
 A_goto_B_for_new_comparison	,	→		A_read_for_comparison
+A_goto_B_for_new_comparison	;	→		A_read_for_comparison
 B_goto_A_for_marking	⓪	←		B_goto_A_for_marking
 B_goto_A_for_marking	①	←		B_goto_A_for_marking
 B_goto_A_for_marking	②	←		B_goto_A_for_marking
@@ -2756,6 +2823,7 @@ B_goto_A_for_marking	d	←		B_goto_A_for_marking
 B_goto_A_for_marking	e	←		B_goto_A_for_marking
 B_goto_A_for_marking	f	←		B_goto_A_for_marking
 B_goto_A_for_marking	,	←		A_goto_leftmost_symbol_for_marking
+B_goto_A_for_marking	;	←		A_goto_leftmost_symbol_for_marking
 A_goto_leftmost_symbol_for_marking	0	←		A_goto_leftmost_symbol_for_marking
 A_goto_leftmost_symbol_for_marking	1	←		A_goto_leftmost_symbol_for_marking
 A_goto_leftmost_symbol_for_marking	2	←		A_goto_leftmost_symbol_for_marking
@@ -2790,6 +2858,7 @@ A_goto_leftmost_symbol_for_marking	e	→		A_mark_here
 A_goto_leftmost_symbol_for_marking	f	→		A_mark_here
 A_goto_leftmost_symbol_for_marking	[	→		A_mark_here
 A_goto_leftmost_symbol_for_marking	,	→		A_mark_here
+A_goto_leftmost_symbol_for_marking	;	→		A_mark_here
 A_mark_here	0	→	⓪	A_read_for_comparison
 A_mark_here	1	→	①	A_read_for_comparison
 A_mark_here	2	→	②	A_read_for_comparison
@@ -2823,6 +2892,7 @@ B_goto_A_for_comparison	d	←		B_goto_A_for_comparison
 B_goto_A_for_comparison	e	←		B_goto_A_for_comparison
 B_goto_A_for_comparison	f	←		B_goto_A_for_comparison
 B_goto_A_for_comparison	,	←		A_goto_leftmost_symbol_for_comparison
+B_goto_A_for_comparison	;	←		A_goto_leftmost_symbol_for_comparison
 A_goto_leftmost_symbol_for_comparison	0	←		A_goto_leftmost_symbol_for_comparison
 A_goto_leftmost_symbol_for_comparison	1	←		A_goto_leftmost_symbol_for_comparison
 A_goto_leftmost_symbol_for_comparison	2	←		A_goto_leftmost_symbol_for_comparison
@@ -2857,7 +2927,9 @@ A_goto_leftmost_symbol_for_comparison	e	→		A_read_for_comparison
 A_goto_leftmost_symbol_for_comparison	f	→		A_read_for_comparison
 A_goto_leftmost_symbol_for_comparison	[	→		A_read_for_comparison
 A_goto_leftmost_symbol_for_comparison	,	→		A_read_for_comparison
+A_goto_leftmost_symbol_for_comparison	;	→		A_read_for_comparison
 A_read_for_comparison	,	←		A_goto_leftmost_symbol_for_cleaning
+A_read_for_comparison	;	←		A_goto_leftmost_symbol_for_cleaning
 A_goto_leftmost_symbol_for_cleaning	⓪	←		A_goto_leftmost_symbol_for_cleaning
 A_goto_leftmost_symbol_for_cleaning	①	←		A_goto_leftmost_symbol_for_cleaning
 A_goto_leftmost_symbol_for_cleaning	②	←		A_goto_leftmost_symbol_for_cleaning
@@ -2876,6 +2948,7 @@ A_goto_leftmost_symbol_for_cleaning	e	←		A_goto_leftmost_symbol_for_cleaning
 A_goto_leftmost_symbol_for_cleaning	f	←		A_goto_leftmost_symbol_for_cleaning
 A_goto_leftmost_symbol_for_cleaning	[	→		A_leftright_clean
 A_goto_leftmost_symbol_for_cleaning	,	→		A_leftright_clean
+A_goto_leftmost_symbol_for_cleaning	;	→		A_leftright_clean
 A_leftright_clean	⓪	→	0	A_leftright_clean
 A_leftright_clean	①	→	1	A_leftright_clean
 A_leftright_clean	②	→	2	A_leftright_clean
@@ -2893,6 +2966,7 @@ A_leftright_clean	d	→	D	A_leftright_clean
 A_leftright_clean	e	→	E	A_leftright_clean
 A_leftright_clean	f	→	F	A_leftright_clean
 A_leftright_clean	,	→		B_leftright_clean
+A_leftright_clean	;	→		B_leftright_clean
 B_leftright_clean	⓪	→	0	B_leftright_clean
 B_leftright_clean	①	→	1	B_leftright_clean
 B_leftright_clean	②	→	2	B_leftright_clean
@@ -2910,9 +2984,11 @@ B_leftright_clean	d	→	D	B_leftright_clean
 B_leftright_clean	e	→	E	B_leftright_clean
 B_leftright_clean	f	→	F	B_leftright_clean
 B_leftright_clean	,	←		A_goto_leftmost_symbol_for_comparison
+B_leftright_clean	;	←		A_goto_leftmost_symbol_for_comparison
 B_leftright_clean	]	←		A_goto_left_wall_for_marking
 B_leftright_clean	/	←		A_goto_left_wall_for_marking
 A_read_for_switch	,	←		A_goto_leftmost_symbol_for_cleaning
+A_read_for_switch	;	←		A_goto_leftmost_symbol_for_cleaning
 A_read_for_comparison	]	←		A_goto_tape_start_for_ending
 A_goto_tape_start_for_ending	0	←		A_goto_tape_start_for_ending
 A_goto_tape_start_for_ending	1	←		A_goto_tape_start_for_ending
@@ -2997,6 +3073,7 @@ A_goto_left_wall_for_marking	d	←	D	A_goto_left_wall_for_marking
 A_goto_left_wall_for_marking	e	←	E	A_goto_left_wall_for_marking
 A_goto_left_wall_for_marking	f	←	F	A_goto_left_wall_for_marking
 A_goto_left_wall_for_marking	,	←	/	rightleft_low_clean
+A_goto_left_wall_for_marking	;	←	/	rightleft_low_clean
 rightleft_low_clean	⓪	←	0	rightleft_low_clean
 rightleft_low_clean	①	←	1	rightleft_low_clean
 rightleft_low_clean	②	←	2	rightleft_low_clean
@@ -3030,7 +3107,43 @@ rightleft_low_clean	D	←		rightleft_low_clean
 rightleft_low_clean	E	←		rightleft_low_clean
 rightleft_low_clean	F	←		rightleft_low_clean
 rightleft_low_clean	,	←		rightleft_low_clean
-rightleft_low_clean	[	→		A_read_for_comparison
+rightleft_low_clean	[	→		leftright_full_clean
+rightleft_low_clean	;	←	,	rightleft_low_clean_swap_happened
+rightleft_low_clean_swap_happened	⓪	←	0	rightleft_low_clean_swap_happened
+rightleft_low_clean_swap_happened	①	←	1	rightleft_low_clean_swap_happened
+rightleft_low_clean_swap_happened	②	←	2	rightleft_low_clean_swap_happened
+rightleft_low_clean_swap_happened	③	←	3	rightleft_low_clean_swap_happened
+rightleft_low_clean_swap_happened	④	←	4	rightleft_low_clean_swap_happened
+rightleft_low_clean_swap_happened	⑤	←	5	rightleft_low_clean_swap_happened
+rightleft_low_clean_swap_happened	⑥	←	6	rightleft_low_clean_swap_happened
+rightleft_low_clean_swap_happened	⑦	←	7	rightleft_low_clean_swap_happened
+rightleft_low_clean_swap_happened	⑧	←	8	rightleft_low_clean_swap_happened
+rightleft_low_clean_swap_happened	⑨	←	9	rightleft_low_clean_swap_happened
+rightleft_low_clean_swap_happened	a	←	A	rightleft_low_clean_swap_happened
+rightleft_low_clean_swap_happened	b	←	B	rightleft_low_clean_swap_happened
+rightleft_low_clean_swap_happened	c	←	C	rightleft_low_clean_swap_happened
+rightleft_low_clean_swap_happened	d	←	D	rightleft_low_clean_swap_happened
+rightleft_low_clean_swap_happened	e	←	E	rightleft_low_clean_swap_happened
+rightleft_low_clean_swap_happened	f	←	F	rightleft_low_clean_swap_happened
+rightleft_low_clean_swap_happened	0	←		rightleft_low_clean_swap_happened
+rightleft_low_clean_swap_happened	1	←		rightleft_low_clean_swap_happened
+rightleft_low_clean_swap_happened	2	←		rightleft_low_clean_swap_happened
+rightleft_low_clean_swap_happened	3	←		rightleft_low_clean_swap_happened
+rightleft_low_clean_swap_happened	4	←		rightleft_low_clean_swap_happened
+rightleft_low_clean_swap_happened	5	←		rightleft_low_clean_swap_happened
+rightleft_low_clean_swap_happened	6	←		rightleft_low_clean_swap_happened
+rightleft_low_clean_swap_happened	7	←		rightleft_low_clean_swap_happened
+rightleft_low_clean_swap_happened	8	←		rightleft_low_clean_swap_happened
+rightleft_low_clean_swap_happened	9	←		rightleft_low_clean_swap_happened
+rightleft_low_clean_swap_happened	A	←		rightleft_low_clean_swap_happened
+rightleft_low_clean_swap_happened	B	←		rightleft_low_clean_swap_happened
+rightleft_low_clean_swap_happened	C	←		rightleft_low_clean_swap_happened
+rightleft_low_clean_swap_happened	D	←		rightleft_low_clean_swap_happened
+rightleft_low_clean_swap_happened	E	←		rightleft_low_clean_swap_happened
+rightleft_low_clean_swap_happened	F	←		rightleft_low_clean_swap_happened
+rightleft_low_clean_swap_happened	,	←		rightleft_low_clean_swap_happened
+rightleft_low_clean_swap_happened	[	→		A_read_for_comparison
+rightleft_low_clean_swap_happened	;	←	,	rightleft_low_clean_swap_happened
 A_goto_left_wall_for_marking	[	→		leftright_full_clean
 leftright_full_clean	⓪	→	0	leftright_full_clean
 leftright_full_clean	①	→	1	leftright_full_clean
@@ -3065,4 +3178,5 @@ leftright_full_clean	D	→		leftright_full_clean
 leftright_full_clean	E	→		leftright_full_clean
 leftright_full_clean	F	→		leftright_full_clean
 leftright_full_clean	/	→	,	leftright_full_clean
+leftright_full_clean	,	→		leftright_full_clean
 leftright_full_clean	]	←		A_goto_tape_start_for_ending
