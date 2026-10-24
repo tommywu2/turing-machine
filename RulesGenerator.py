@@ -13,7 +13,7 @@ rules = RulesGenerator("machine_rules.tsv")
 
 rules.write_rule(f"⎆", "[", "→", "", f"A_read_for_comparison")
 for s0 in alphabet:
-    rules.write_rule(f"A_read_for_comparison", s0, "→", s0, f"A_has_{s0}_goto_B_for_comparison")
+    rules.write_rule(f"A_read_for_comparison", s0, "→", "", f"A_has_{s0}_goto_B_for_comparison")
 
 for s0 in alphabet:
     for s1 in alphabet:
@@ -74,7 +74,7 @@ for s0 in alphabet:
         rules.write_rule(f"A_has_{s0}_switch_with_B", alphabet[s1], "→", "", f"A_has_{s0}_switch_with_B")
 for s0 in alphabet:
     for s1 in alphabet:
-        rules.write_rule(f"A_has_{s0}_switch_with_B", s1, "←", alphabet[s0], f"B_has_{s0}_goto_A_for_switch")
+        rules.write_rule(f"A_has_{s0}_switch_with_B", s1, "←", alphabet[s0], f"B_has_{s1}_goto_A_for_switch")
 
 #B is bigger
 for s0 in alphabet:

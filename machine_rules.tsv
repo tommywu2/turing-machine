@@ -1,20 +1,20 @@
 ⎆	[	→		A_read_for_comparison
-A_read_for_comparison	0	→	0	A_has_0_goto_B_for_comparison
-A_read_for_comparison	1	→	1	A_has_1_goto_B_for_comparison
-A_read_for_comparison	2	→	2	A_has_2_goto_B_for_comparison
-A_read_for_comparison	3	→	3	A_has_3_goto_B_for_comparison
-A_read_for_comparison	4	→	4	A_has_4_goto_B_for_comparison
-A_read_for_comparison	5	→	5	A_has_5_goto_B_for_comparison
-A_read_for_comparison	6	→	6	A_has_6_goto_B_for_comparison
-A_read_for_comparison	7	→	7	A_has_7_goto_B_for_comparison
-A_read_for_comparison	8	→	8	A_has_8_goto_B_for_comparison
-A_read_for_comparison	9	→	9	A_has_9_goto_B_for_comparison
-A_read_for_comparison	A	→	A	A_has_A_goto_B_for_comparison
-A_read_for_comparison	B	→	B	A_has_B_goto_B_for_comparison
-A_read_for_comparison	C	→	C	A_has_C_goto_B_for_comparison
-A_read_for_comparison	D	→	D	A_has_D_goto_B_for_comparison
-A_read_for_comparison	E	→	E	A_has_E_goto_B_for_comparison
-A_read_for_comparison	F	→	F	A_has_F_goto_B_for_comparison
+A_read_for_comparison	0	→		A_has_0_goto_B_for_comparison
+A_read_for_comparison	1	→		A_has_1_goto_B_for_comparison
+A_read_for_comparison	2	→		A_has_2_goto_B_for_comparison
+A_read_for_comparison	3	→		A_has_3_goto_B_for_comparison
+A_read_for_comparison	4	→		A_has_4_goto_B_for_comparison
+A_read_for_comparison	5	→		A_has_5_goto_B_for_comparison
+A_read_for_comparison	6	→		A_has_6_goto_B_for_comparison
+A_read_for_comparison	7	→		A_has_7_goto_B_for_comparison
+A_read_for_comparison	8	→		A_has_8_goto_B_for_comparison
+A_read_for_comparison	9	→		A_has_9_goto_B_for_comparison
+A_read_for_comparison	A	→		A_has_A_goto_B_for_comparison
+A_read_for_comparison	B	→		A_has_B_goto_B_for_comparison
+A_read_for_comparison	C	→		A_has_C_goto_B_for_comparison
+A_read_for_comparison	D	→		A_has_D_goto_B_for_comparison
+A_read_for_comparison	E	→		A_has_E_goto_B_for_comparison
+A_read_for_comparison	F	→		A_has_F_goto_B_for_comparison
 A_has_0_goto_B_for_comparison	0	→		A_has_0_goto_B_for_comparison
 A_has_0_goto_B_for_comparison	1	→		A_has_0_goto_B_for_comparison
 A_has_0_goto_B_for_comparison	2	→		A_has_0_goto_B_for_comparison
@@ -2864,7 +2864,7 @@ A_goto_tape_start_for_ending	D	←		A_goto_tape_start_for_ending
 A_goto_tape_start_for_ending	E	←		A_goto_tape_start_for_ending
 A_goto_tape_start_for_ending	F	←		A_goto_tape_start_for_ending
 A_goto_tape_start_for_ending	,	←		A_goto_tape_start_for_ending
-A_goto_tape_start_for_ending	[	→		⏹
+A_goto_tape_start_for_ending	[	⏹		✔
 A_has_0_goto_B_for_comparison	]	←		A_goto_left_wall_for_marking
 A_has_1_goto_B_for_comparison	]	←		A_goto_left_wall_for_marking
 A_has_2_goto_B_for_comparison	]	←		A_goto_left_wall_for_marking
