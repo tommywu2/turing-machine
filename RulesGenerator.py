@@ -120,6 +120,7 @@ rules.write_rule(f"B_leftright_clean", ",", "→", "", f"A_goto_leftmost_symbol_
 
 
 rules.write_rule(f"B_leftright_clean", "]", "←", "", f"A_goto_left_wall_for_marking")
+rules.write_rule(f"B_leftright_clean", "/", "←", "", f"A_goto_left_wall_for_marking")
 
 #No more symbols when reading A switch.
 rules.write_rule(f"A_read_for_switch", ",", "←", "", f"A_goto_leftmost_symbol_for_cleaning")

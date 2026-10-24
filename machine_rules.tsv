@@ -2687,7 +2687,7 @@ B_rightleft_clean	c	←	C	B_rightleft_clean
 B_rightleft_clean	d	←	D	B_rightleft_clean
 B_rightleft_clean	e	←	E	B_rightleft_clean
 B_rightleft_clean	f	←	F	B_rightleft_clean
-B_rightleft_clean	,	←	F	A_rightleft_clean
+B_rightleft_clean	,	←		A_rightleft_clean
 A_rightleft_clean	0	←		A_rightleft_clean
 A_rightleft_clean	1	←		A_rightleft_clean
 A_rightleft_clean	2	←		A_rightleft_clean
