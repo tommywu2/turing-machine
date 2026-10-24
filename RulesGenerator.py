@@ -1,4 +1,6 @@
-alphabet = {"0": "⓪", "1": "①", "2": "②", "3": "③", "4": "④", "5": "⑤", "6": "⑥", "7": "⑦", "8": "⑧", "9": "⑨", "A": "a", "B": "b", "C": "c", "D": "d", "E": "e", "F": "f"}
+numbers = {"0": "⓪", "1": "①", "2": "②", "3": "③", "4": "④", "5": "⑤", "6": "⑥", "7": "⑦", "8": "⑧", "9": "⑨"}
+letters = {"A": "a", "B": "b", "C": "c", "D": "d", "E": "e", "F": "f"}
+alphabet = numbers | letters
 
 class RulesGenerator:
     def __init__(self, file):
@@ -98,9 +100,12 @@ rules.write_rule(f"B_goto_A_for_comparison", ",", "←", "", f"A_goto_leftmost_s
 for s0 in alphabet:
     rules.write_rule(f"A_goto_leftmost_symbol_for_comparison", s0, "←", "", f"A_goto_leftmost_symbol_for_comparison")
 for s0 in alphabet:
-    rules.write_rule(f"A_goto_leftmost_symbol_for_comparison", alphabet[s0], "→", "", f"A_read_for_comparison")
-rules.write_rule(f"A_goto_leftmost_symbol_for_comparison", "[", "→", "", f"A_read_for_comparison")
-rules.write_rule(f"A_goto_leftmost_symbol_for_comparison", ",", "→", "", f"A_read_for_comparison")
+    rules.write_rule(f"A_goto_leftmost_symbol_for_comparison", alphabet[s0], "→", "", f"A_goto_leftmost_symbol_for_comparison_here")
+rules.write_rule(f"A_goto_leftmost_symbol_for_comparison", "[", "→", "", f"A_goto_leftmost_symbol_for_comparison_here")
+rules.write_rule(f"A_goto_leftmost_symbol_for_comparison", ",", "→", "", f"A_goto_leftmost_symbol_for_comparison_here")
+
+for s0 in alphabet:
+    rules.write_rule(f"A_goto_leftmost_symbol_for_comparison_here", s0, "→", alphabet[s0], f"A_read_for_comparison")
 
 #No more symbols when reading A comparison.
 rules.write_rule(f"A_read_for_comparison", ",", "→", "", f"A_goto_leftmost_symbol_for_cleaning")
@@ -114,7 +119,7 @@ for s0 in alphabet:
 rules.write_rule(f"A_leftright_clean", ",", "→", "", f"B_leftright_clean")
 for s0 in alphabet:
     rules.write_rule(f"B_leftright_clean", alphabet[s0], "→", s0, f"B_leftright_clean")
-rules.write_rule(f"B_leftright_clean", ",", "→", "", f"A_goto_leftmost_symbol_for_comparison")
+rules.write_rule(f"B_leftright_clean", ",", "←", "", f"A_goto_leftmost_symbol_for_comparison")
 
 
 rules.write_rule(f"B_leftright_clean", "]", "←", "", f"A_goto_left_wall_for_marking")

@@ -2790,7 +2790,7 @@ A_goto_leftmost_symbol_for_comparison	e	→		A_read_for_comparison
 A_goto_leftmost_symbol_for_comparison	f	→		A_read_for_comparison
 A_goto_leftmost_symbol_for_comparison	[	→		A_read_for_comparison
 A_goto_leftmost_symbol_for_comparison	,	→		A_read_for_comparison
-A_read_for_comparison	,	→		A_goto_leftmost_symbol_for_cleaning
+A_read_for_comparison	,	←		A_goto_leftmost_symbol_for_cleaning
 A_goto_leftmost_symbol_for_cleaning	⓪	←		A_goto_leftmost_symbol_for_cleaning
 A_goto_leftmost_symbol_for_cleaning	①	←		A_goto_leftmost_symbol_for_cleaning
 A_goto_leftmost_symbol_for_cleaning	②	←		A_goto_leftmost_symbol_for_cleaning
@@ -2842,7 +2842,7 @@ B_leftright_clean	c	→	C	B_leftright_clean
 B_leftright_clean	d	→	D	B_leftright_clean
 B_leftright_clean	e	→	E	B_leftright_clean
 B_leftright_clean	f	→	F	B_leftright_clean
-B_leftright_clean	,	→		A_goto_leftmost_symbol_for_comparison
+B_leftright_clean	,	←		A_goto_leftmost_symbol_for_comparison
 B_leftright_clean	]	←		A_goto_left_wall_for_marking
 B_leftright_clean	/	←		A_goto_left_wall_for_marking
 A_read_for_switch	,	←		A_goto_leftmost_symbol_for_cleaning
