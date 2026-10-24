@@ -2844,6 +2844,7 @@ B_leftright_clean	e	→	E	B_leftright_clean
 B_leftright_clean	f	→	F	B_leftright_clean
 B_leftright_clean	,	→		A_goto_leftmost_symbol_for_comparison
 B_leftright_clean	]	←		A_goto_left_wall_for_marking
+B_leftright_clean	/	←		A_goto_left_wall_for_marking
 A_read_for_switch	,	←		A_goto_leftmost_symbol_for_cleaning
 A_read_for_comparison	]	←		A_goto_tape_start_for_ending
 A_goto_tape_start_for_ending	]	←		⏹
