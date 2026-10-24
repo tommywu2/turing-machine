@@ -35,7 +35,7 @@ for s0 in alphabet:
         elif b_symbol_value > a_symbol_value:
             rules.write_rule(f"A_has_{s0}_compare_with_B", s1, "←", "", f"B_rightleft_clean")
         else:
-            rules.write_rule(f"A_has_{s0}_compare_with_B", s1, "←", alphabet[s1], f"B_goto_A_for_comparison")
+            rules.write_rule(f"A_has_{s0}_compare_with_B", s1, "←", alphabet[s1], f"B_goto_A_for_marking")
         
 for s0 in alphabet:
     rules.write_rule(f"A_read_for_switch", s0, "→", "", f"A_has_{s0}_goto_B_for_switch")
@@ -94,21 +94,32 @@ rules.write_rule(f"A_goto_B_for_new_comparison", ",", "→", "", f"A_read_for_co
 
 #A and B has the same symbol.
 for s0 in alphabet:
+    rules.write_rule(f"B_goto_A_for_marking", alphabet[s0], "←", "", f"B_goto_A_for_marking")
+rules.write_rule(f"B_goto_A_for_marking", ",", "←", "", f"A_goto_leftmost_symbol_for_marking")
+
+for s0 in alphabet:
+    rules.write_rule(f"A_goto_leftmost_symbol_for_marking", s0, "←", "", f"A_goto_leftmost_symbol_for_marking")
+for s0 in alphabet:
+    rules.write_rule(f"A_goto_leftmost_symbol_for_marking", alphabet[s0], "→", "", f"A_mark_here")
+rules.write_rule(f"A_goto_leftmost_symbol_for_marking", "[", "→", "", f"A_mark_here")
+rules.write_rule(f"A_goto_leftmost_symbol_for_marking", ",", "→", "", f"A_mark_here")
+
+for s0 in alphabet:
+    rules.write_rule(f"A_mark_here", s0, "→", alphabet[s0], f"A_read_for_comparison")
+
+for s0 in alphabet:
     rules.write_rule(f"B_goto_A_for_comparison", alphabet[s0], "←", "", f"B_goto_A_for_comparison")
 rules.write_rule(f"B_goto_A_for_comparison", ",", "←", "", f"A_goto_leftmost_symbol_for_comparison")
 
 for s0 in alphabet:
     rules.write_rule(f"A_goto_leftmost_symbol_for_comparison", s0, "←", "", f"A_goto_leftmost_symbol_for_comparison")
 for s0 in alphabet:
-    rules.write_rule(f"A_goto_leftmost_symbol_for_comparison", alphabet[s0], "→", "", f"A_goto_leftmost_symbol_for_comparison_here")
-rules.write_rule(f"A_goto_leftmost_symbol_for_comparison", "[", "→", "", f"A_goto_leftmost_symbol_for_comparison_here")
-rules.write_rule(f"A_goto_leftmost_symbol_for_comparison", ",", "→", "", f"A_goto_leftmost_symbol_for_comparison_here")
-
-for s0 in alphabet:
-    rules.write_rule(f"A_goto_leftmost_symbol_for_comparison_here", s0, "→", alphabet[s0], f"A_read_for_comparison")
+    rules.write_rule(f"A_goto_leftmost_symbol_for_comparison", alphabet[s0], "→", "", f"A_read_for_comparison")
+rules.write_rule(f"A_goto_leftmost_symbol_for_comparison", "[", "→", "", f"A_read_for_comparison")
+rules.write_rule(f"A_goto_leftmost_symbol_for_comparison", ",", "→", "", f"A_read_for_comparison")
 
 #No more symbols when reading A comparison.
-rules.write_rule(f"A_read_for_comparison", ",", "→", "", f"A_goto_leftmost_symbol_for_cleaning")
+rules.write_rule(f"A_read_for_comparison", ",", "←", "", f"A_goto_leftmost_symbol_for_cleaning")
 for s0 in alphabet:
     rules.write_rule(f"A_goto_leftmost_symbol_for_cleaning", alphabet[s0], "←", "", f"A_goto_leftmost_symbol_for_cleaning")
 rules.write_rule(f"A_goto_leftmost_symbol_for_cleaning", "[", "→", "", f"A_leftright_clean")
