@@ -15,262 +15,262 @@ A_read_for_comparison	C	→	c	A_has_C_goto_B_for_comparison
 A_read_for_comparison	D	→	d	A_has_D_goto_B_for_comparison
 A_read_for_comparison	E	→	e	A_has_E_goto_B_for_comparison
 A_read_for_comparison	F	→	f	A_has_F_goto_B_for_comparison
-A_has_0_goto_B_for_comparison	0	→		
-A_has_0_goto_B_for_comparison	1	→		
-A_has_0_goto_B_for_comparison	2	→		
-A_has_0_goto_B_for_comparison	3	→		
-A_has_0_goto_B_for_comparison	4	→		
-A_has_0_goto_B_for_comparison	5	→		
-A_has_0_goto_B_for_comparison	6	→		
-A_has_0_goto_B_for_comparison	7	→		
-A_has_0_goto_B_for_comparison	8	→		
-A_has_0_goto_B_for_comparison	9	→		
-A_has_0_goto_B_for_comparison	A	→		
-A_has_0_goto_B_for_comparison	B	→		
-A_has_0_goto_B_for_comparison	C	→		
-A_has_0_goto_B_for_comparison	D	→		
-A_has_0_goto_B_for_comparison	E	→		
-A_has_0_goto_B_for_comparison	F	→		
-A_has_1_goto_B_for_comparison	0	→		
-A_has_1_goto_B_for_comparison	1	→		
-A_has_1_goto_B_for_comparison	2	→		
-A_has_1_goto_B_for_comparison	3	→		
-A_has_1_goto_B_for_comparison	4	→		
-A_has_1_goto_B_for_comparison	5	→		
-A_has_1_goto_B_for_comparison	6	→		
-A_has_1_goto_B_for_comparison	7	→		
-A_has_1_goto_B_for_comparison	8	→		
-A_has_1_goto_B_for_comparison	9	→		
-A_has_1_goto_B_for_comparison	A	→		
-A_has_1_goto_B_for_comparison	B	→		
-A_has_1_goto_B_for_comparison	C	→		
-A_has_1_goto_B_for_comparison	D	→		
-A_has_1_goto_B_for_comparison	E	→		
-A_has_1_goto_B_for_comparison	F	→		
-A_has_2_goto_B_for_comparison	0	→		
-A_has_2_goto_B_for_comparison	1	→		
-A_has_2_goto_B_for_comparison	2	→		
-A_has_2_goto_B_for_comparison	3	→		
-A_has_2_goto_B_for_comparison	4	→		
-A_has_2_goto_B_for_comparison	5	→		
-A_has_2_goto_B_for_comparison	6	→		
-A_has_2_goto_B_for_comparison	7	→		
-A_has_2_goto_B_for_comparison	8	→		
-A_has_2_goto_B_for_comparison	9	→		
-A_has_2_goto_B_for_comparison	A	→		
-A_has_2_goto_B_for_comparison	B	→		
-A_has_2_goto_B_for_comparison	C	→		
-A_has_2_goto_B_for_comparison	D	→		
-A_has_2_goto_B_for_comparison	E	→		
-A_has_2_goto_B_for_comparison	F	→		
-A_has_3_goto_B_for_comparison	0	→		
-A_has_3_goto_B_for_comparison	1	→		
-A_has_3_goto_B_for_comparison	2	→		
-A_has_3_goto_B_for_comparison	3	→		
-A_has_3_goto_B_for_comparison	4	→		
-A_has_3_goto_B_for_comparison	5	→		
-A_has_3_goto_B_for_comparison	6	→		
-A_has_3_goto_B_for_comparison	7	→		
-A_has_3_goto_B_for_comparison	8	→		
-A_has_3_goto_B_for_comparison	9	→		
-A_has_3_goto_B_for_comparison	A	→		
-A_has_3_goto_B_for_comparison	B	→		
-A_has_3_goto_B_for_comparison	C	→		
-A_has_3_goto_B_for_comparison	D	→		
-A_has_3_goto_B_for_comparison	E	→		
-A_has_3_goto_B_for_comparison	F	→		
-A_has_4_goto_B_for_comparison	0	→		
-A_has_4_goto_B_for_comparison	1	→		
-A_has_4_goto_B_for_comparison	2	→		
-A_has_4_goto_B_for_comparison	3	→		
-A_has_4_goto_B_for_comparison	4	→		
-A_has_4_goto_B_for_comparison	5	→		
-A_has_4_goto_B_for_comparison	6	→		
-A_has_4_goto_B_for_comparison	7	→		
-A_has_4_goto_B_for_comparison	8	→		
-A_has_4_goto_B_for_comparison	9	→		
-A_has_4_goto_B_for_comparison	A	→		
-A_has_4_goto_B_for_comparison	B	→		
-A_has_4_goto_B_for_comparison	C	→		
-A_has_4_goto_B_for_comparison	D	→		
-A_has_4_goto_B_for_comparison	E	→		
-A_has_4_goto_B_for_comparison	F	→		
-A_has_5_goto_B_for_comparison	0	→		
-A_has_5_goto_B_for_comparison	1	→		
-A_has_5_goto_B_for_comparison	2	→		
-A_has_5_goto_B_for_comparison	3	→		
-A_has_5_goto_B_for_comparison	4	→		
-A_has_5_goto_B_for_comparison	5	→		
-A_has_5_goto_B_for_comparison	6	→		
-A_has_5_goto_B_for_comparison	7	→		
-A_has_5_goto_B_for_comparison	8	→		
-A_has_5_goto_B_for_comparison	9	→		
-A_has_5_goto_B_for_comparison	A	→		
-A_has_5_goto_B_for_comparison	B	→		
-A_has_5_goto_B_for_comparison	C	→		
-A_has_5_goto_B_for_comparison	D	→		
-A_has_5_goto_B_for_comparison	E	→		
-A_has_5_goto_B_for_comparison	F	→		
-A_has_6_goto_B_for_comparison	0	→		
-A_has_6_goto_B_for_comparison	1	→		
-A_has_6_goto_B_for_comparison	2	→		
-A_has_6_goto_B_for_comparison	3	→		
-A_has_6_goto_B_for_comparison	4	→		
-A_has_6_goto_B_for_comparison	5	→		
-A_has_6_goto_B_for_comparison	6	→		
-A_has_6_goto_B_for_comparison	7	→		
-A_has_6_goto_B_for_comparison	8	→		
-A_has_6_goto_B_for_comparison	9	→		
-A_has_6_goto_B_for_comparison	A	→		
-A_has_6_goto_B_for_comparison	B	→		
-A_has_6_goto_B_for_comparison	C	→		
-A_has_6_goto_B_for_comparison	D	→		
-A_has_6_goto_B_for_comparison	E	→		
-A_has_6_goto_B_for_comparison	F	→		
-A_has_7_goto_B_for_comparison	0	→		
-A_has_7_goto_B_for_comparison	1	→		
-A_has_7_goto_B_for_comparison	2	→		
-A_has_7_goto_B_for_comparison	3	→		
-A_has_7_goto_B_for_comparison	4	→		
-A_has_7_goto_B_for_comparison	5	→		
-A_has_7_goto_B_for_comparison	6	→		
-A_has_7_goto_B_for_comparison	7	→		
-A_has_7_goto_B_for_comparison	8	→		
-A_has_7_goto_B_for_comparison	9	→		
-A_has_7_goto_B_for_comparison	A	→		
-A_has_7_goto_B_for_comparison	B	→		
-A_has_7_goto_B_for_comparison	C	→		
-A_has_7_goto_B_for_comparison	D	→		
-A_has_7_goto_B_for_comparison	E	→		
-A_has_7_goto_B_for_comparison	F	→		
-A_has_8_goto_B_for_comparison	0	→		
-A_has_8_goto_B_for_comparison	1	→		
-A_has_8_goto_B_for_comparison	2	→		
-A_has_8_goto_B_for_comparison	3	→		
-A_has_8_goto_B_for_comparison	4	→		
-A_has_8_goto_B_for_comparison	5	→		
-A_has_8_goto_B_for_comparison	6	→		
-A_has_8_goto_B_for_comparison	7	→		
-A_has_8_goto_B_for_comparison	8	→		
-A_has_8_goto_B_for_comparison	9	→		
-A_has_8_goto_B_for_comparison	A	→		
-A_has_8_goto_B_for_comparison	B	→		
-A_has_8_goto_B_for_comparison	C	→		
-A_has_8_goto_B_for_comparison	D	→		
-A_has_8_goto_B_for_comparison	E	→		
-A_has_8_goto_B_for_comparison	F	→		
-A_has_9_goto_B_for_comparison	0	→		
-A_has_9_goto_B_for_comparison	1	→		
-A_has_9_goto_B_for_comparison	2	→		
-A_has_9_goto_B_for_comparison	3	→		
-A_has_9_goto_B_for_comparison	4	→		
-A_has_9_goto_B_for_comparison	5	→		
-A_has_9_goto_B_for_comparison	6	→		
-A_has_9_goto_B_for_comparison	7	→		
-A_has_9_goto_B_for_comparison	8	→		
-A_has_9_goto_B_for_comparison	9	→		
-A_has_9_goto_B_for_comparison	A	→		
-A_has_9_goto_B_for_comparison	B	→		
-A_has_9_goto_B_for_comparison	C	→		
-A_has_9_goto_B_for_comparison	D	→		
-A_has_9_goto_B_for_comparison	E	→		
-A_has_9_goto_B_for_comparison	F	→		
-A_has_A_goto_B_for_comparison	0	→		
-A_has_A_goto_B_for_comparison	1	→		
-A_has_A_goto_B_for_comparison	2	→		
-A_has_A_goto_B_for_comparison	3	→		
-A_has_A_goto_B_for_comparison	4	→		
-A_has_A_goto_B_for_comparison	5	→		
-A_has_A_goto_B_for_comparison	6	→		
-A_has_A_goto_B_for_comparison	7	→		
-A_has_A_goto_B_for_comparison	8	→		
-A_has_A_goto_B_for_comparison	9	→		
-A_has_A_goto_B_for_comparison	A	→		
-A_has_A_goto_B_for_comparison	B	→		
-A_has_A_goto_B_for_comparison	C	→		
-A_has_A_goto_B_for_comparison	D	→		
-A_has_A_goto_B_for_comparison	E	→		
-A_has_A_goto_B_for_comparison	F	→		
-A_has_B_goto_B_for_comparison	0	→		
-A_has_B_goto_B_for_comparison	1	→		
-A_has_B_goto_B_for_comparison	2	→		
-A_has_B_goto_B_for_comparison	3	→		
-A_has_B_goto_B_for_comparison	4	→		
-A_has_B_goto_B_for_comparison	5	→		
-A_has_B_goto_B_for_comparison	6	→		
-A_has_B_goto_B_for_comparison	7	→		
-A_has_B_goto_B_for_comparison	8	→		
-A_has_B_goto_B_for_comparison	9	→		
-A_has_B_goto_B_for_comparison	A	→		
-A_has_B_goto_B_for_comparison	B	→		
-A_has_B_goto_B_for_comparison	C	→		
-A_has_B_goto_B_for_comparison	D	→		
-A_has_B_goto_B_for_comparison	E	→		
-A_has_B_goto_B_for_comparison	F	→		
-A_has_C_goto_B_for_comparison	0	→		
-A_has_C_goto_B_for_comparison	1	→		
-A_has_C_goto_B_for_comparison	2	→		
-A_has_C_goto_B_for_comparison	3	→		
-A_has_C_goto_B_for_comparison	4	→		
-A_has_C_goto_B_for_comparison	5	→		
-A_has_C_goto_B_for_comparison	6	→		
-A_has_C_goto_B_for_comparison	7	→		
-A_has_C_goto_B_for_comparison	8	→		
-A_has_C_goto_B_for_comparison	9	→		
-A_has_C_goto_B_for_comparison	A	→		
-A_has_C_goto_B_for_comparison	B	→		
-A_has_C_goto_B_for_comparison	C	→		
-A_has_C_goto_B_for_comparison	D	→		
-A_has_C_goto_B_for_comparison	E	→		
-A_has_C_goto_B_for_comparison	F	→		
-A_has_D_goto_B_for_comparison	0	→		
-A_has_D_goto_B_for_comparison	1	→		
-A_has_D_goto_B_for_comparison	2	→		
-A_has_D_goto_B_for_comparison	3	→		
-A_has_D_goto_B_for_comparison	4	→		
-A_has_D_goto_B_for_comparison	5	→		
-A_has_D_goto_B_for_comparison	6	→		
-A_has_D_goto_B_for_comparison	7	→		
-A_has_D_goto_B_for_comparison	8	→		
-A_has_D_goto_B_for_comparison	9	→		
-A_has_D_goto_B_for_comparison	A	→		
-A_has_D_goto_B_for_comparison	B	→		
-A_has_D_goto_B_for_comparison	C	→		
-A_has_D_goto_B_for_comparison	D	→		
-A_has_D_goto_B_for_comparison	E	→		
-A_has_D_goto_B_for_comparison	F	→		
-A_has_E_goto_B_for_comparison	0	→		
-A_has_E_goto_B_for_comparison	1	→		
-A_has_E_goto_B_for_comparison	2	→		
-A_has_E_goto_B_for_comparison	3	→		
-A_has_E_goto_B_for_comparison	4	→		
-A_has_E_goto_B_for_comparison	5	→		
-A_has_E_goto_B_for_comparison	6	→		
-A_has_E_goto_B_for_comparison	7	→		
-A_has_E_goto_B_for_comparison	8	→		
-A_has_E_goto_B_for_comparison	9	→		
-A_has_E_goto_B_for_comparison	A	→		
-A_has_E_goto_B_for_comparison	B	→		
-A_has_E_goto_B_for_comparison	C	→		
-A_has_E_goto_B_for_comparison	D	→		
-A_has_E_goto_B_for_comparison	E	→		
-A_has_E_goto_B_for_comparison	F	→		
-A_has_F_goto_B_for_comparison	0	→		
-A_has_F_goto_B_for_comparison	1	→		
-A_has_F_goto_B_for_comparison	2	→		
-A_has_F_goto_B_for_comparison	3	→		
-A_has_F_goto_B_for_comparison	4	→		
-A_has_F_goto_B_for_comparison	5	→		
-A_has_F_goto_B_for_comparison	6	→		
-A_has_F_goto_B_for_comparison	7	→		
-A_has_F_goto_B_for_comparison	8	→		
-A_has_F_goto_B_for_comparison	9	→		
-A_has_F_goto_B_for_comparison	A	→		
-A_has_F_goto_B_for_comparison	B	→		
-A_has_F_goto_B_for_comparison	C	→		
-A_has_F_goto_B_for_comparison	D	→		
-A_has_F_goto_B_for_comparison	E	→		
-A_has_F_goto_B_for_comparison	F	→		
+A_has_0_goto_B_for_comparison	0	→		A_has_0_goto_B_for_comparison
+A_has_0_goto_B_for_comparison	1	→		A_has_0_goto_B_for_comparison
+A_has_0_goto_B_for_comparison	2	→		A_has_0_goto_B_for_comparison
+A_has_0_goto_B_for_comparison	3	→		A_has_0_goto_B_for_comparison
+A_has_0_goto_B_for_comparison	4	→		A_has_0_goto_B_for_comparison
+A_has_0_goto_B_for_comparison	5	→		A_has_0_goto_B_for_comparison
+A_has_0_goto_B_for_comparison	6	→		A_has_0_goto_B_for_comparison
+A_has_0_goto_B_for_comparison	7	→		A_has_0_goto_B_for_comparison
+A_has_0_goto_B_for_comparison	8	→		A_has_0_goto_B_for_comparison
+A_has_0_goto_B_for_comparison	9	→		A_has_0_goto_B_for_comparison
+A_has_0_goto_B_for_comparison	A	→		A_has_0_goto_B_for_comparison
+A_has_0_goto_B_for_comparison	B	→		A_has_0_goto_B_for_comparison
+A_has_0_goto_B_for_comparison	C	→		A_has_0_goto_B_for_comparison
+A_has_0_goto_B_for_comparison	D	→		A_has_0_goto_B_for_comparison
+A_has_0_goto_B_for_comparison	E	→		A_has_0_goto_B_for_comparison
+A_has_0_goto_B_for_comparison	F	→		A_has_0_goto_B_for_comparison
+A_has_1_goto_B_for_comparison	0	→		A_has_1_goto_B_for_comparison
+A_has_1_goto_B_for_comparison	1	→		A_has_1_goto_B_for_comparison
+A_has_1_goto_B_for_comparison	2	→		A_has_1_goto_B_for_comparison
+A_has_1_goto_B_for_comparison	3	→		A_has_1_goto_B_for_comparison
+A_has_1_goto_B_for_comparison	4	→		A_has_1_goto_B_for_comparison
+A_has_1_goto_B_for_comparison	5	→		A_has_1_goto_B_for_comparison
+A_has_1_goto_B_for_comparison	6	→		A_has_1_goto_B_for_comparison
+A_has_1_goto_B_for_comparison	7	→		A_has_1_goto_B_for_comparison
+A_has_1_goto_B_for_comparison	8	→		A_has_1_goto_B_for_comparison
+A_has_1_goto_B_for_comparison	9	→		A_has_1_goto_B_for_comparison
+A_has_1_goto_B_for_comparison	A	→		A_has_1_goto_B_for_comparison
+A_has_1_goto_B_for_comparison	B	→		A_has_1_goto_B_for_comparison
+A_has_1_goto_B_for_comparison	C	→		A_has_1_goto_B_for_comparison
+A_has_1_goto_B_for_comparison	D	→		A_has_1_goto_B_for_comparison
+A_has_1_goto_B_for_comparison	E	→		A_has_1_goto_B_for_comparison
+A_has_1_goto_B_for_comparison	F	→		A_has_1_goto_B_for_comparison
+A_has_2_goto_B_for_comparison	0	→		A_has_2_goto_B_for_comparison
+A_has_2_goto_B_for_comparison	1	→		A_has_2_goto_B_for_comparison
+A_has_2_goto_B_for_comparison	2	→		A_has_2_goto_B_for_comparison
+A_has_2_goto_B_for_comparison	3	→		A_has_2_goto_B_for_comparison
+A_has_2_goto_B_for_comparison	4	→		A_has_2_goto_B_for_comparison
+A_has_2_goto_B_for_comparison	5	→		A_has_2_goto_B_for_comparison
+A_has_2_goto_B_for_comparison	6	→		A_has_2_goto_B_for_comparison
+A_has_2_goto_B_for_comparison	7	→		A_has_2_goto_B_for_comparison
+A_has_2_goto_B_for_comparison	8	→		A_has_2_goto_B_for_comparison
+A_has_2_goto_B_for_comparison	9	→		A_has_2_goto_B_for_comparison
+A_has_2_goto_B_for_comparison	A	→		A_has_2_goto_B_for_comparison
+A_has_2_goto_B_for_comparison	B	→		A_has_2_goto_B_for_comparison
+A_has_2_goto_B_for_comparison	C	→		A_has_2_goto_B_for_comparison
+A_has_2_goto_B_for_comparison	D	→		A_has_2_goto_B_for_comparison
+A_has_2_goto_B_for_comparison	E	→		A_has_2_goto_B_for_comparison
+A_has_2_goto_B_for_comparison	F	→		A_has_2_goto_B_for_comparison
+A_has_3_goto_B_for_comparison	0	→		A_has_3_goto_B_for_comparison
+A_has_3_goto_B_for_comparison	1	→		A_has_3_goto_B_for_comparison
+A_has_3_goto_B_for_comparison	2	→		A_has_3_goto_B_for_comparison
+A_has_3_goto_B_for_comparison	3	→		A_has_3_goto_B_for_comparison
+A_has_3_goto_B_for_comparison	4	→		A_has_3_goto_B_for_comparison
+A_has_3_goto_B_for_comparison	5	→		A_has_3_goto_B_for_comparison
+A_has_3_goto_B_for_comparison	6	→		A_has_3_goto_B_for_comparison
+A_has_3_goto_B_for_comparison	7	→		A_has_3_goto_B_for_comparison
+A_has_3_goto_B_for_comparison	8	→		A_has_3_goto_B_for_comparison
+A_has_3_goto_B_for_comparison	9	→		A_has_3_goto_B_for_comparison
+A_has_3_goto_B_for_comparison	A	→		A_has_3_goto_B_for_comparison
+A_has_3_goto_B_for_comparison	B	→		A_has_3_goto_B_for_comparison
+A_has_3_goto_B_for_comparison	C	→		A_has_3_goto_B_for_comparison
+A_has_3_goto_B_for_comparison	D	→		A_has_3_goto_B_for_comparison
+A_has_3_goto_B_for_comparison	E	→		A_has_3_goto_B_for_comparison
+A_has_3_goto_B_for_comparison	F	→		A_has_3_goto_B_for_comparison
+A_has_4_goto_B_for_comparison	0	→		A_has_4_goto_B_for_comparison
+A_has_4_goto_B_for_comparison	1	→		A_has_4_goto_B_for_comparison
+A_has_4_goto_B_for_comparison	2	→		A_has_4_goto_B_for_comparison
+A_has_4_goto_B_for_comparison	3	→		A_has_4_goto_B_for_comparison
+A_has_4_goto_B_for_comparison	4	→		A_has_4_goto_B_for_comparison
+A_has_4_goto_B_for_comparison	5	→		A_has_4_goto_B_for_comparison
+A_has_4_goto_B_for_comparison	6	→		A_has_4_goto_B_for_comparison
+A_has_4_goto_B_for_comparison	7	→		A_has_4_goto_B_for_comparison
+A_has_4_goto_B_for_comparison	8	→		A_has_4_goto_B_for_comparison
+A_has_4_goto_B_for_comparison	9	→		A_has_4_goto_B_for_comparison
+A_has_4_goto_B_for_comparison	A	→		A_has_4_goto_B_for_comparison
+A_has_4_goto_B_for_comparison	B	→		A_has_4_goto_B_for_comparison
+A_has_4_goto_B_for_comparison	C	→		A_has_4_goto_B_for_comparison
+A_has_4_goto_B_for_comparison	D	→		A_has_4_goto_B_for_comparison
+A_has_4_goto_B_for_comparison	E	→		A_has_4_goto_B_for_comparison
+A_has_4_goto_B_for_comparison	F	→		A_has_4_goto_B_for_comparison
+A_has_5_goto_B_for_comparison	0	→		A_has_5_goto_B_for_comparison
+A_has_5_goto_B_for_comparison	1	→		A_has_5_goto_B_for_comparison
+A_has_5_goto_B_for_comparison	2	→		A_has_5_goto_B_for_comparison
+A_has_5_goto_B_for_comparison	3	→		A_has_5_goto_B_for_comparison
+A_has_5_goto_B_for_comparison	4	→		A_has_5_goto_B_for_comparison
+A_has_5_goto_B_for_comparison	5	→		A_has_5_goto_B_for_comparison
+A_has_5_goto_B_for_comparison	6	→		A_has_5_goto_B_for_comparison
+A_has_5_goto_B_for_comparison	7	→		A_has_5_goto_B_for_comparison
+A_has_5_goto_B_for_comparison	8	→		A_has_5_goto_B_for_comparison
+A_has_5_goto_B_for_comparison	9	→		A_has_5_goto_B_for_comparison
+A_has_5_goto_B_for_comparison	A	→		A_has_5_goto_B_for_comparison
+A_has_5_goto_B_for_comparison	B	→		A_has_5_goto_B_for_comparison
+A_has_5_goto_B_for_comparison	C	→		A_has_5_goto_B_for_comparison
+A_has_5_goto_B_for_comparison	D	→		A_has_5_goto_B_for_comparison
+A_has_5_goto_B_for_comparison	E	→		A_has_5_goto_B_for_comparison
+A_has_5_goto_B_for_comparison	F	→		A_has_5_goto_B_for_comparison
+A_has_6_goto_B_for_comparison	0	→		A_has_6_goto_B_for_comparison
+A_has_6_goto_B_for_comparison	1	→		A_has_6_goto_B_for_comparison
+A_has_6_goto_B_for_comparison	2	→		A_has_6_goto_B_for_comparison
+A_has_6_goto_B_for_comparison	3	→		A_has_6_goto_B_for_comparison
+A_has_6_goto_B_for_comparison	4	→		A_has_6_goto_B_for_comparison
+A_has_6_goto_B_for_comparison	5	→		A_has_6_goto_B_for_comparison
+A_has_6_goto_B_for_comparison	6	→		A_has_6_goto_B_for_comparison
+A_has_6_goto_B_for_comparison	7	→		A_has_6_goto_B_for_comparison
+A_has_6_goto_B_for_comparison	8	→		A_has_6_goto_B_for_comparison
+A_has_6_goto_B_for_comparison	9	→		A_has_6_goto_B_for_comparison
+A_has_6_goto_B_for_comparison	A	→		A_has_6_goto_B_for_comparison
+A_has_6_goto_B_for_comparison	B	→		A_has_6_goto_B_for_comparison
+A_has_6_goto_B_for_comparison	C	→		A_has_6_goto_B_for_comparison
+A_has_6_goto_B_for_comparison	D	→		A_has_6_goto_B_for_comparison
+A_has_6_goto_B_for_comparison	E	→		A_has_6_goto_B_for_comparison
+A_has_6_goto_B_for_comparison	F	→		A_has_6_goto_B_for_comparison
+A_has_7_goto_B_for_comparison	0	→		A_has_7_goto_B_for_comparison
+A_has_7_goto_B_for_comparison	1	→		A_has_7_goto_B_for_comparison
+A_has_7_goto_B_for_comparison	2	→		A_has_7_goto_B_for_comparison
+A_has_7_goto_B_for_comparison	3	→		A_has_7_goto_B_for_comparison
+A_has_7_goto_B_for_comparison	4	→		A_has_7_goto_B_for_comparison
+A_has_7_goto_B_for_comparison	5	→		A_has_7_goto_B_for_comparison
+A_has_7_goto_B_for_comparison	6	→		A_has_7_goto_B_for_comparison
+A_has_7_goto_B_for_comparison	7	→		A_has_7_goto_B_for_comparison
+A_has_7_goto_B_for_comparison	8	→		A_has_7_goto_B_for_comparison
+A_has_7_goto_B_for_comparison	9	→		A_has_7_goto_B_for_comparison
+A_has_7_goto_B_for_comparison	A	→		A_has_7_goto_B_for_comparison
+A_has_7_goto_B_for_comparison	B	→		A_has_7_goto_B_for_comparison
+A_has_7_goto_B_for_comparison	C	→		A_has_7_goto_B_for_comparison
+A_has_7_goto_B_for_comparison	D	→		A_has_7_goto_B_for_comparison
+A_has_7_goto_B_for_comparison	E	→		A_has_7_goto_B_for_comparison
+A_has_7_goto_B_for_comparison	F	→		A_has_7_goto_B_for_comparison
+A_has_8_goto_B_for_comparison	0	→		A_has_8_goto_B_for_comparison
+A_has_8_goto_B_for_comparison	1	→		A_has_8_goto_B_for_comparison
+A_has_8_goto_B_for_comparison	2	→		A_has_8_goto_B_for_comparison
+A_has_8_goto_B_for_comparison	3	→		A_has_8_goto_B_for_comparison
+A_has_8_goto_B_for_comparison	4	→		A_has_8_goto_B_for_comparison
+A_has_8_goto_B_for_comparison	5	→		A_has_8_goto_B_for_comparison
+A_has_8_goto_B_for_comparison	6	→		A_has_8_goto_B_for_comparison
+A_has_8_goto_B_for_comparison	7	→		A_has_8_goto_B_for_comparison
+A_has_8_goto_B_for_comparison	8	→		A_has_8_goto_B_for_comparison
+A_has_8_goto_B_for_comparison	9	→		A_has_8_goto_B_for_comparison
+A_has_8_goto_B_for_comparison	A	→		A_has_8_goto_B_for_comparison
+A_has_8_goto_B_for_comparison	B	→		A_has_8_goto_B_for_comparison
+A_has_8_goto_B_for_comparison	C	→		A_has_8_goto_B_for_comparison
+A_has_8_goto_B_for_comparison	D	→		A_has_8_goto_B_for_comparison
+A_has_8_goto_B_for_comparison	E	→		A_has_8_goto_B_for_comparison
+A_has_8_goto_B_for_comparison	F	→		A_has_8_goto_B_for_comparison
+A_has_9_goto_B_for_comparison	0	→		A_has_9_goto_B_for_comparison
+A_has_9_goto_B_for_comparison	1	→		A_has_9_goto_B_for_comparison
+A_has_9_goto_B_for_comparison	2	→		A_has_9_goto_B_for_comparison
+A_has_9_goto_B_for_comparison	3	→		A_has_9_goto_B_for_comparison
+A_has_9_goto_B_for_comparison	4	→		A_has_9_goto_B_for_comparison
+A_has_9_goto_B_for_comparison	5	→		A_has_9_goto_B_for_comparison
+A_has_9_goto_B_for_comparison	6	→		A_has_9_goto_B_for_comparison
+A_has_9_goto_B_for_comparison	7	→		A_has_9_goto_B_for_comparison
+A_has_9_goto_B_for_comparison	8	→		A_has_9_goto_B_for_comparison
+A_has_9_goto_B_for_comparison	9	→		A_has_9_goto_B_for_comparison
+A_has_9_goto_B_for_comparison	A	→		A_has_9_goto_B_for_comparison
+A_has_9_goto_B_for_comparison	B	→		A_has_9_goto_B_for_comparison
+A_has_9_goto_B_for_comparison	C	→		A_has_9_goto_B_for_comparison
+A_has_9_goto_B_for_comparison	D	→		A_has_9_goto_B_for_comparison
+A_has_9_goto_B_for_comparison	E	→		A_has_9_goto_B_for_comparison
+A_has_9_goto_B_for_comparison	F	→		A_has_9_goto_B_for_comparison
+A_has_A_goto_B_for_comparison	0	→		A_has_A_goto_B_for_comparison
+A_has_A_goto_B_for_comparison	1	→		A_has_A_goto_B_for_comparison
+A_has_A_goto_B_for_comparison	2	→		A_has_A_goto_B_for_comparison
+A_has_A_goto_B_for_comparison	3	→		A_has_A_goto_B_for_comparison
+A_has_A_goto_B_for_comparison	4	→		A_has_A_goto_B_for_comparison
+A_has_A_goto_B_for_comparison	5	→		A_has_A_goto_B_for_comparison
+A_has_A_goto_B_for_comparison	6	→		A_has_A_goto_B_for_comparison
+A_has_A_goto_B_for_comparison	7	→		A_has_A_goto_B_for_comparison
+A_has_A_goto_B_for_comparison	8	→		A_has_A_goto_B_for_comparison
+A_has_A_goto_B_for_comparison	9	→		A_has_A_goto_B_for_comparison
+A_has_A_goto_B_for_comparison	A	→		A_has_A_goto_B_for_comparison
+A_has_A_goto_B_for_comparison	B	→		A_has_A_goto_B_for_comparison
+A_has_A_goto_B_for_comparison	C	→		A_has_A_goto_B_for_comparison
+A_has_A_goto_B_for_comparison	D	→		A_has_A_goto_B_for_comparison
+A_has_A_goto_B_for_comparison	E	→		A_has_A_goto_B_for_comparison
+A_has_A_goto_B_for_comparison	F	→		A_has_A_goto_B_for_comparison
+A_has_B_goto_B_for_comparison	0	→		A_has_B_goto_B_for_comparison
+A_has_B_goto_B_for_comparison	1	→		A_has_B_goto_B_for_comparison
+A_has_B_goto_B_for_comparison	2	→		A_has_B_goto_B_for_comparison
+A_has_B_goto_B_for_comparison	3	→		A_has_B_goto_B_for_comparison
+A_has_B_goto_B_for_comparison	4	→		A_has_B_goto_B_for_comparison
+A_has_B_goto_B_for_comparison	5	→		A_has_B_goto_B_for_comparison
+A_has_B_goto_B_for_comparison	6	→		A_has_B_goto_B_for_comparison
+A_has_B_goto_B_for_comparison	7	→		A_has_B_goto_B_for_comparison
+A_has_B_goto_B_for_comparison	8	→		A_has_B_goto_B_for_comparison
+A_has_B_goto_B_for_comparison	9	→		A_has_B_goto_B_for_comparison
+A_has_B_goto_B_for_comparison	A	→		A_has_B_goto_B_for_comparison
+A_has_B_goto_B_for_comparison	B	→		A_has_B_goto_B_for_comparison
+A_has_B_goto_B_for_comparison	C	→		A_has_B_goto_B_for_comparison
+A_has_B_goto_B_for_comparison	D	→		A_has_B_goto_B_for_comparison
+A_has_B_goto_B_for_comparison	E	→		A_has_B_goto_B_for_comparison
+A_has_B_goto_B_for_comparison	F	→		A_has_B_goto_B_for_comparison
+A_has_C_goto_B_for_comparison	0	→		A_has_C_goto_B_for_comparison
+A_has_C_goto_B_for_comparison	1	→		A_has_C_goto_B_for_comparison
+A_has_C_goto_B_for_comparison	2	→		A_has_C_goto_B_for_comparison
+A_has_C_goto_B_for_comparison	3	→		A_has_C_goto_B_for_comparison
+A_has_C_goto_B_for_comparison	4	→		A_has_C_goto_B_for_comparison
+A_has_C_goto_B_for_comparison	5	→		A_has_C_goto_B_for_comparison
+A_has_C_goto_B_for_comparison	6	→		A_has_C_goto_B_for_comparison
+A_has_C_goto_B_for_comparison	7	→		A_has_C_goto_B_for_comparison
+A_has_C_goto_B_for_comparison	8	→		A_has_C_goto_B_for_comparison
+A_has_C_goto_B_for_comparison	9	→		A_has_C_goto_B_for_comparison
+A_has_C_goto_B_for_comparison	A	→		A_has_C_goto_B_for_comparison
+A_has_C_goto_B_for_comparison	B	→		A_has_C_goto_B_for_comparison
+A_has_C_goto_B_for_comparison	C	→		A_has_C_goto_B_for_comparison
+A_has_C_goto_B_for_comparison	D	→		A_has_C_goto_B_for_comparison
+A_has_C_goto_B_for_comparison	E	→		A_has_C_goto_B_for_comparison
+A_has_C_goto_B_for_comparison	F	→		A_has_C_goto_B_for_comparison
+A_has_D_goto_B_for_comparison	0	→		A_has_D_goto_B_for_comparison
+A_has_D_goto_B_for_comparison	1	→		A_has_D_goto_B_for_comparison
+A_has_D_goto_B_for_comparison	2	→		A_has_D_goto_B_for_comparison
+A_has_D_goto_B_for_comparison	3	→		A_has_D_goto_B_for_comparison
+A_has_D_goto_B_for_comparison	4	→		A_has_D_goto_B_for_comparison
+A_has_D_goto_B_for_comparison	5	→		A_has_D_goto_B_for_comparison
+A_has_D_goto_B_for_comparison	6	→		A_has_D_goto_B_for_comparison
+A_has_D_goto_B_for_comparison	7	→		A_has_D_goto_B_for_comparison
+A_has_D_goto_B_for_comparison	8	→		A_has_D_goto_B_for_comparison
+A_has_D_goto_B_for_comparison	9	→		A_has_D_goto_B_for_comparison
+A_has_D_goto_B_for_comparison	A	→		A_has_D_goto_B_for_comparison
+A_has_D_goto_B_for_comparison	B	→		A_has_D_goto_B_for_comparison
+A_has_D_goto_B_for_comparison	C	→		A_has_D_goto_B_for_comparison
+A_has_D_goto_B_for_comparison	D	→		A_has_D_goto_B_for_comparison
+A_has_D_goto_B_for_comparison	E	→		A_has_D_goto_B_for_comparison
+A_has_D_goto_B_for_comparison	F	→		A_has_D_goto_B_for_comparison
+A_has_E_goto_B_for_comparison	0	→		A_has_E_goto_B_for_comparison
+A_has_E_goto_B_for_comparison	1	→		A_has_E_goto_B_for_comparison
+A_has_E_goto_B_for_comparison	2	→		A_has_E_goto_B_for_comparison
+A_has_E_goto_B_for_comparison	3	→		A_has_E_goto_B_for_comparison
+A_has_E_goto_B_for_comparison	4	→		A_has_E_goto_B_for_comparison
+A_has_E_goto_B_for_comparison	5	→		A_has_E_goto_B_for_comparison
+A_has_E_goto_B_for_comparison	6	→		A_has_E_goto_B_for_comparison
+A_has_E_goto_B_for_comparison	7	→		A_has_E_goto_B_for_comparison
+A_has_E_goto_B_for_comparison	8	→		A_has_E_goto_B_for_comparison
+A_has_E_goto_B_for_comparison	9	→		A_has_E_goto_B_for_comparison
+A_has_E_goto_B_for_comparison	A	→		A_has_E_goto_B_for_comparison
+A_has_E_goto_B_for_comparison	B	→		A_has_E_goto_B_for_comparison
+A_has_E_goto_B_for_comparison	C	→		A_has_E_goto_B_for_comparison
+A_has_E_goto_B_for_comparison	D	→		A_has_E_goto_B_for_comparison
+A_has_E_goto_B_for_comparison	E	→		A_has_E_goto_B_for_comparison
+A_has_E_goto_B_for_comparison	F	→		A_has_E_goto_B_for_comparison
+A_has_F_goto_B_for_comparison	0	→		A_has_F_goto_B_for_comparison
+A_has_F_goto_B_for_comparison	1	→		A_has_F_goto_B_for_comparison
+A_has_F_goto_B_for_comparison	2	→		A_has_F_goto_B_for_comparison
+A_has_F_goto_B_for_comparison	3	→		A_has_F_goto_B_for_comparison
+A_has_F_goto_B_for_comparison	4	→		A_has_F_goto_B_for_comparison
+A_has_F_goto_B_for_comparison	5	→		A_has_F_goto_B_for_comparison
+A_has_F_goto_B_for_comparison	6	→		A_has_F_goto_B_for_comparison
+A_has_F_goto_B_for_comparison	7	→		A_has_F_goto_B_for_comparison
+A_has_F_goto_B_for_comparison	8	→		A_has_F_goto_B_for_comparison
+A_has_F_goto_B_for_comparison	9	→		A_has_F_goto_B_for_comparison
+A_has_F_goto_B_for_comparison	A	→		A_has_F_goto_B_for_comparison
+A_has_F_goto_B_for_comparison	B	→		A_has_F_goto_B_for_comparison
+A_has_F_goto_B_for_comparison	C	→		A_has_F_goto_B_for_comparison
+A_has_F_goto_B_for_comparison	D	→		A_has_F_goto_B_for_comparison
+A_has_F_goto_B_for_comparison	E	→		A_has_F_goto_B_for_comparison
+A_has_F_goto_B_for_comparison	F	→		A_has_F_goto_B_for_comparison
 A_has_0_goto_B_for_comparison	,	→		A_has_0_compare_with_B
 A_has_1_goto_B_for_comparison	,	→		A_has_1_compare_with_B
 A_has_2_goto_B_for_comparison	,	→		A_has_2_compare_with_B
@@ -559,262 +559,262 @@ B_read_for_switch	C	←		B_has_C_goto_A_for_switch
 B_read_for_switch	D	←		B_has_D_goto_A_for_switch
 B_read_for_switch	E	←		B_has_E_goto_A_for_switch
 B_read_for_switch	F	←		B_has_F_goto_A_for_switch
-B_has_0_goto_A_for_switch	⓪	←		
-B_has_0_goto_A_for_switch	①	←		
-B_has_0_goto_A_for_switch	②	←		
-B_has_0_goto_A_for_switch	③	←		
-B_has_0_goto_A_for_switch	④	←		
-B_has_0_goto_A_for_switch	⑤	←		
-B_has_0_goto_A_for_switch	⑥	←		
-B_has_0_goto_A_for_switch	⑦	←		
-B_has_0_goto_A_for_switch	⑧	←		
-B_has_0_goto_A_for_switch	⑨	←		
-B_has_0_goto_A_for_switch	a	←		
-B_has_0_goto_A_for_switch	b	←		
-B_has_0_goto_A_for_switch	c	←		
-B_has_0_goto_A_for_switch	d	←		
-B_has_0_goto_A_for_switch	e	←		
-B_has_0_goto_A_for_switch	f	←		
-B_has_1_goto_A_for_switch	⓪	←		
-B_has_1_goto_A_for_switch	①	←		
-B_has_1_goto_A_for_switch	②	←		
-B_has_1_goto_A_for_switch	③	←		
-B_has_1_goto_A_for_switch	④	←		
-B_has_1_goto_A_for_switch	⑤	←		
-B_has_1_goto_A_for_switch	⑥	←		
-B_has_1_goto_A_for_switch	⑦	←		
-B_has_1_goto_A_for_switch	⑧	←		
-B_has_1_goto_A_for_switch	⑨	←		
-B_has_1_goto_A_for_switch	a	←		
-B_has_1_goto_A_for_switch	b	←		
-B_has_1_goto_A_for_switch	c	←		
-B_has_1_goto_A_for_switch	d	←		
-B_has_1_goto_A_for_switch	e	←		
-B_has_1_goto_A_for_switch	f	←		
-B_has_2_goto_A_for_switch	⓪	←		
-B_has_2_goto_A_for_switch	①	←		
-B_has_2_goto_A_for_switch	②	←		
-B_has_2_goto_A_for_switch	③	←		
-B_has_2_goto_A_for_switch	④	←		
-B_has_2_goto_A_for_switch	⑤	←		
-B_has_2_goto_A_for_switch	⑥	←		
-B_has_2_goto_A_for_switch	⑦	←		
-B_has_2_goto_A_for_switch	⑧	←		
-B_has_2_goto_A_for_switch	⑨	←		
-B_has_2_goto_A_for_switch	a	←		
-B_has_2_goto_A_for_switch	b	←		
-B_has_2_goto_A_for_switch	c	←		
-B_has_2_goto_A_for_switch	d	←		
-B_has_2_goto_A_for_switch	e	←		
-B_has_2_goto_A_for_switch	f	←		
-B_has_3_goto_A_for_switch	⓪	←		
-B_has_3_goto_A_for_switch	①	←		
-B_has_3_goto_A_for_switch	②	←		
-B_has_3_goto_A_for_switch	③	←		
-B_has_3_goto_A_for_switch	④	←		
-B_has_3_goto_A_for_switch	⑤	←		
-B_has_3_goto_A_for_switch	⑥	←		
-B_has_3_goto_A_for_switch	⑦	←		
-B_has_3_goto_A_for_switch	⑧	←		
-B_has_3_goto_A_for_switch	⑨	←		
-B_has_3_goto_A_for_switch	a	←		
-B_has_3_goto_A_for_switch	b	←		
-B_has_3_goto_A_for_switch	c	←		
-B_has_3_goto_A_for_switch	d	←		
-B_has_3_goto_A_for_switch	e	←		
-B_has_3_goto_A_for_switch	f	←		
-B_has_4_goto_A_for_switch	⓪	←		
-B_has_4_goto_A_for_switch	①	←		
-B_has_4_goto_A_for_switch	②	←		
-B_has_4_goto_A_for_switch	③	←		
-B_has_4_goto_A_for_switch	④	←		
-B_has_4_goto_A_for_switch	⑤	←		
-B_has_4_goto_A_for_switch	⑥	←		
-B_has_4_goto_A_for_switch	⑦	←		
-B_has_4_goto_A_for_switch	⑧	←		
-B_has_4_goto_A_for_switch	⑨	←		
-B_has_4_goto_A_for_switch	a	←		
-B_has_4_goto_A_for_switch	b	←		
-B_has_4_goto_A_for_switch	c	←		
-B_has_4_goto_A_for_switch	d	←		
-B_has_4_goto_A_for_switch	e	←		
-B_has_4_goto_A_for_switch	f	←		
-B_has_5_goto_A_for_switch	⓪	←		
-B_has_5_goto_A_for_switch	①	←		
-B_has_5_goto_A_for_switch	②	←		
-B_has_5_goto_A_for_switch	③	←		
-B_has_5_goto_A_for_switch	④	←		
-B_has_5_goto_A_for_switch	⑤	←		
-B_has_5_goto_A_for_switch	⑥	←		
-B_has_5_goto_A_for_switch	⑦	←		
-B_has_5_goto_A_for_switch	⑧	←		
-B_has_5_goto_A_for_switch	⑨	←		
-B_has_5_goto_A_for_switch	a	←		
-B_has_5_goto_A_for_switch	b	←		
-B_has_5_goto_A_for_switch	c	←		
-B_has_5_goto_A_for_switch	d	←		
-B_has_5_goto_A_for_switch	e	←		
-B_has_5_goto_A_for_switch	f	←		
-B_has_6_goto_A_for_switch	⓪	←		
-B_has_6_goto_A_for_switch	①	←		
-B_has_6_goto_A_for_switch	②	←		
-B_has_6_goto_A_for_switch	③	←		
-B_has_6_goto_A_for_switch	④	←		
-B_has_6_goto_A_for_switch	⑤	←		
-B_has_6_goto_A_for_switch	⑥	←		
-B_has_6_goto_A_for_switch	⑦	←		
-B_has_6_goto_A_for_switch	⑧	←		
-B_has_6_goto_A_for_switch	⑨	←		
-B_has_6_goto_A_for_switch	a	←		
-B_has_6_goto_A_for_switch	b	←		
-B_has_6_goto_A_for_switch	c	←		
-B_has_6_goto_A_for_switch	d	←		
-B_has_6_goto_A_for_switch	e	←		
-B_has_6_goto_A_for_switch	f	←		
-B_has_7_goto_A_for_switch	⓪	←		
-B_has_7_goto_A_for_switch	①	←		
-B_has_7_goto_A_for_switch	②	←		
-B_has_7_goto_A_for_switch	③	←		
-B_has_7_goto_A_for_switch	④	←		
-B_has_7_goto_A_for_switch	⑤	←		
-B_has_7_goto_A_for_switch	⑥	←		
-B_has_7_goto_A_for_switch	⑦	←		
-B_has_7_goto_A_for_switch	⑧	←		
-B_has_7_goto_A_for_switch	⑨	←		
-B_has_7_goto_A_for_switch	a	←		
-B_has_7_goto_A_for_switch	b	←		
-B_has_7_goto_A_for_switch	c	←		
-B_has_7_goto_A_for_switch	d	←		
-B_has_7_goto_A_for_switch	e	←		
-B_has_7_goto_A_for_switch	f	←		
-B_has_8_goto_A_for_switch	⓪	←		
-B_has_8_goto_A_for_switch	①	←		
-B_has_8_goto_A_for_switch	②	←		
-B_has_8_goto_A_for_switch	③	←		
-B_has_8_goto_A_for_switch	④	←		
-B_has_8_goto_A_for_switch	⑤	←		
-B_has_8_goto_A_for_switch	⑥	←		
-B_has_8_goto_A_for_switch	⑦	←		
-B_has_8_goto_A_for_switch	⑧	←		
-B_has_8_goto_A_for_switch	⑨	←		
-B_has_8_goto_A_for_switch	a	←		
-B_has_8_goto_A_for_switch	b	←		
-B_has_8_goto_A_for_switch	c	←		
-B_has_8_goto_A_for_switch	d	←		
-B_has_8_goto_A_for_switch	e	←		
-B_has_8_goto_A_for_switch	f	←		
-B_has_9_goto_A_for_switch	⓪	←		
-B_has_9_goto_A_for_switch	①	←		
-B_has_9_goto_A_for_switch	②	←		
-B_has_9_goto_A_for_switch	③	←		
-B_has_9_goto_A_for_switch	④	←		
-B_has_9_goto_A_for_switch	⑤	←		
-B_has_9_goto_A_for_switch	⑥	←		
-B_has_9_goto_A_for_switch	⑦	←		
-B_has_9_goto_A_for_switch	⑧	←		
-B_has_9_goto_A_for_switch	⑨	←		
-B_has_9_goto_A_for_switch	a	←		
-B_has_9_goto_A_for_switch	b	←		
-B_has_9_goto_A_for_switch	c	←		
-B_has_9_goto_A_for_switch	d	←		
-B_has_9_goto_A_for_switch	e	←		
-B_has_9_goto_A_for_switch	f	←		
-B_has_A_goto_A_for_switch	⓪	←		
-B_has_A_goto_A_for_switch	①	←		
-B_has_A_goto_A_for_switch	②	←		
-B_has_A_goto_A_for_switch	③	←		
-B_has_A_goto_A_for_switch	④	←		
-B_has_A_goto_A_for_switch	⑤	←		
-B_has_A_goto_A_for_switch	⑥	←		
-B_has_A_goto_A_for_switch	⑦	←		
-B_has_A_goto_A_for_switch	⑧	←		
-B_has_A_goto_A_for_switch	⑨	←		
-B_has_A_goto_A_for_switch	a	←		
-B_has_A_goto_A_for_switch	b	←		
-B_has_A_goto_A_for_switch	c	←		
-B_has_A_goto_A_for_switch	d	←		
-B_has_A_goto_A_for_switch	e	←		
-B_has_A_goto_A_for_switch	f	←		
-B_has_B_goto_A_for_switch	⓪	←		
-B_has_B_goto_A_for_switch	①	←		
-B_has_B_goto_A_for_switch	②	←		
-B_has_B_goto_A_for_switch	③	←		
-B_has_B_goto_A_for_switch	④	←		
-B_has_B_goto_A_for_switch	⑤	←		
-B_has_B_goto_A_for_switch	⑥	←		
-B_has_B_goto_A_for_switch	⑦	←		
-B_has_B_goto_A_for_switch	⑧	←		
-B_has_B_goto_A_for_switch	⑨	←		
-B_has_B_goto_A_for_switch	a	←		
-B_has_B_goto_A_for_switch	b	←		
-B_has_B_goto_A_for_switch	c	←		
-B_has_B_goto_A_for_switch	d	←		
-B_has_B_goto_A_for_switch	e	←		
-B_has_B_goto_A_for_switch	f	←		
-B_has_C_goto_A_for_switch	⓪	←		
-B_has_C_goto_A_for_switch	①	←		
-B_has_C_goto_A_for_switch	②	←		
-B_has_C_goto_A_for_switch	③	←		
-B_has_C_goto_A_for_switch	④	←		
-B_has_C_goto_A_for_switch	⑤	←		
-B_has_C_goto_A_for_switch	⑥	←		
-B_has_C_goto_A_for_switch	⑦	←		
-B_has_C_goto_A_for_switch	⑧	←		
-B_has_C_goto_A_for_switch	⑨	←		
-B_has_C_goto_A_for_switch	a	←		
-B_has_C_goto_A_for_switch	b	←		
-B_has_C_goto_A_for_switch	c	←		
-B_has_C_goto_A_for_switch	d	←		
-B_has_C_goto_A_for_switch	e	←		
-B_has_C_goto_A_for_switch	f	←		
-B_has_D_goto_A_for_switch	⓪	←		
-B_has_D_goto_A_for_switch	①	←		
-B_has_D_goto_A_for_switch	②	←		
-B_has_D_goto_A_for_switch	③	←		
-B_has_D_goto_A_for_switch	④	←		
-B_has_D_goto_A_for_switch	⑤	←		
-B_has_D_goto_A_for_switch	⑥	←		
-B_has_D_goto_A_for_switch	⑦	←		
-B_has_D_goto_A_for_switch	⑧	←		
-B_has_D_goto_A_for_switch	⑨	←		
-B_has_D_goto_A_for_switch	a	←		
-B_has_D_goto_A_for_switch	b	←		
-B_has_D_goto_A_for_switch	c	←		
-B_has_D_goto_A_for_switch	d	←		
-B_has_D_goto_A_for_switch	e	←		
-B_has_D_goto_A_for_switch	f	←		
-B_has_E_goto_A_for_switch	⓪	←		
-B_has_E_goto_A_for_switch	①	←		
-B_has_E_goto_A_for_switch	②	←		
-B_has_E_goto_A_for_switch	③	←		
-B_has_E_goto_A_for_switch	④	←		
-B_has_E_goto_A_for_switch	⑤	←		
-B_has_E_goto_A_for_switch	⑥	←		
-B_has_E_goto_A_for_switch	⑦	←		
-B_has_E_goto_A_for_switch	⑧	←		
-B_has_E_goto_A_for_switch	⑨	←		
-B_has_E_goto_A_for_switch	a	←		
-B_has_E_goto_A_for_switch	b	←		
-B_has_E_goto_A_for_switch	c	←		
-B_has_E_goto_A_for_switch	d	←		
-B_has_E_goto_A_for_switch	e	←		
-B_has_E_goto_A_for_switch	f	←		
-B_has_F_goto_A_for_switch	⓪	←		
-B_has_F_goto_A_for_switch	①	←		
-B_has_F_goto_A_for_switch	②	←		
-B_has_F_goto_A_for_switch	③	←		
-B_has_F_goto_A_for_switch	④	←		
-B_has_F_goto_A_for_switch	⑤	←		
-B_has_F_goto_A_for_switch	⑥	←		
-B_has_F_goto_A_for_switch	⑦	←		
-B_has_F_goto_A_for_switch	⑧	←		
-B_has_F_goto_A_for_switch	⑨	←		
-B_has_F_goto_A_for_switch	a	←		
-B_has_F_goto_A_for_switch	b	←		
-B_has_F_goto_A_for_switch	c	←		
-B_has_F_goto_A_for_switch	d	←		
-B_has_F_goto_A_for_switch	e	←		
-B_has_F_goto_A_for_switch	f	←		
+B_has_0_goto_A_for_switch	⓪	←		B_has_0_goto_A_for_switch
+B_has_0_goto_A_for_switch	①	←		B_has_0_goto_A_for_switch
+B_has_0_goto_A_for_switch	②	←		B_has_0_goto_A_for_switch
+B_has_0_goto_A_for_switch	③	←		B_has_0_goto_A_for_switch
+B_has_0_goto_A_for_switch	④	←		B_has_0_goto_A_for_switch
+B_has_0_goto_A_for_switch	⑤	←		B_has_0_goto_A_for_switch
+B_has_0_goto_A_for_switch	⑥	←		B_has_0_goto_A_for_switch
+B_has_0_goto_A_for_switch	⑦	←		B_has_0_goto_A_for_switch
+B_has_0_goto_A_for_switch	⑧	←		B_has_0_goto_A_for_switch
+B_has_0_goto_A_for_switch	⑨	←		B_has_0_goto_A_for_switch
+B_has_0_goto_A_for_switch	a	←		B_has_0_goto_A_for_switch
+B_has_0_goto_A_for_switch	b	←		B_has_0_goto_A_for_switch
+B_has_0_goto_A_for_switch	c	←		B_has_0_goto_A_for_switch
+B_has_0_goto_A_for_switch	d	←		B_has_0_goto_A_for_switch
+B_has_0_goto_A_for_switch	e	←		B_has_0_goto_A_for_switch
+B_has_0_goto_A_for_switch	f	←		B_has_0_goto_A_for_switch
+B_has_1_goto_A_for_switch	⓪	←		B_has_1_goto_A_for_switch
+B_has_1_goto_A_for_switch	①	←		B_has_1_goto_A_for_switch
+B_has_1_goto_A_for_switch	②	←		B_has_1_goto_A_for_switch
+B_has_1_goto_A_for_switch	③	←		B_has_1_goto_A_for_switch
+B_has_1_goto_A_for_switch	④	←		B_has_1_goto_A_for_switch
+B_has_1_goto_A_for_switch	⑤	←		B_has_1_goto_A_for_switch
+B_has_1_goto_A_for_switch	⑥	←		B_has_1_goto_A_for_switch
+B_has_1_goto_A_for_switch	⑦	←		B_has_1_goto_A_for_switch
+B_has_1_goto_A_for_switch	⑧	←		B_has_1_goto_A_for_switch
+B_has_1_goto_A_for_switch	⑨	←		B_has_1_goto_A_for_switch
+B_has_1_goto_A_for_switch	a	←		B_has_1_goto_A_for_switch
+B_has_1_goto_A_for_switch	b	←		B_has_1_goto_A_for_switch
+B_has_1_goto_A_for_switch	c	←		B_has_1_goto_A_for_switch
+B_has_1_goto_A_for_switch	d	←		B_has_1_goto_A_for_switch
+B_has_1_goto_A_for_switch	e	←		B_has_1_goto_A_for_switch
+B_has_1_goto_A_for_switch	f	←		B_has_1_goto_A_for_switch
+B_has_2_goto_A_for_switch	⓪	←		B_has_2_goto_A_for_switch
+B_has_2_goto_A_for_switch	①	←		B_has_2_goto_A_for_switch
+B_has_2_goto_A_for_switch	②	←		B_has_2_goto_A_for_switch
+B_has_2_goto_A_for_switch	③	←		B_has_2_goto_A_for_switch
+B_has_2_goto_A_for_switch	④	←		B_has_2_goto_A_for_switch
+B_has_2_goto_A_for_switch	⑤	←		B_has_2_goto_A_for_switch
+B_has_2_goto_A_for_switch	⑥	←		B_has_2_goto_A_for_switch
+B_has_2_goto_A_for_switch	⑦	←		B_has_2_goto_A_for_switch
+B_has_2_goto_A_for_switch	⑧	←		B_has_2_goto_A_for_switch
+B_has_2_goto_A_for_switch	⑨	←		B_has_2_goto_A_for_switch
+B_has_2_goto_A_for_switch	a	←		B_has_2_goto_A_for_switch
+B_has_2_goto_A_for_switch	b	←		B_has_2_goto_A_for_switch
+B_has_2_goto_A_for_switch	c	←		B_has_2_goto_A_for_switch
+B_has_2_goto_A_for_switch	d	←		B_has_2_goto_A_for_switch
+B_has_2_goto_A_for_switch	e	←		B_has_2_goto_A_for_switch
+B_has_2_goto_A_for_switch	f	←		B_has_2_goto_A_for_switch
+B_has_3_goto_A_for_switch	⓪	←		B_has_3_goto_A_for_switch
+B_has_3_goto_A_for_switch	①	←		B_has_3_goto_A_for_switch
+B_has_3_goto_A_for_switch	②	←		B_has_3_goto_A_for_switch
+B_has_3_goto_A_for_switch	③	←		B_has_3_goto_A_for_switch
+B_has_3_goto_A_for_switch	④	←		B_has_3_goto_A_for_switch
+B_has_3_goto_A_for_switch	⑤	←		B_has_3_goto_A_for_switch
+B_has_3_goto_A_for_switch	⑥	←		B_has_3_goto_A_for_switch
+B_has_3_goto_A_for_switch	⑦	←		B_has_3_goto_A_for_switch
+B_has_3_goto_A_for_switch	⑧	←		B_has_3_goto_A_for_switch
+B_has_3_goto_A_for_switch	⑨	←		B_has_3_goto_A_for_switch
+B_has_3_goto_A_for_switch	a	←		B_has_3_goto_A_for_switch
+B_has_3_goto_A_for_switch	b	←		B_has_3_goto_A_for_switch
+B_has_3_goto_A_for_switch	c	←		B_has_3_goto_A_for_switch
+B_has_3_goto_A_for_switch	d	←		B_has_3_goto_A_for_switch
+B_has_3_goto_A_for_switch	e	←		B_has_3_goto_A_for_switch
+B_has_3_goto_A_for_switch	f	←		B_has_3_goto_A_for_switch
+B_has_4_goto_A_for_switch	⓪	←		B_has_4_goto_A_for_switch
+B_has_4_goto_A_for_switch	①	←		B_has_4_goto_A_for_switch
+B_has_4_goto_A_for_switch	②	←		B_has_4_goto_A_for_switch
+B_has_4_goto_A_for_switch	③	←		B_has_4_goto_A_for_switch
+B_has_4_goto_A_for_switch	④	←		B_has_4_goto_A_for_switch
+B_has_4_goto_A_for_switch	⑤	←		B_has_4_goto_A_for_switch
+B_has_4_goto_A_for_switch	⑥	←		B_has_4_goto_A_for_switch
+B_has_4_goto_A_for_switch	⑦	←		B_has_4_goto_A_for_switch
+B_has_4_goto_A_for_switch	⑧	←		B_has_4_goto_A_for_switch
+B_has_4_goto_A_for_switch	⑨	←		B_has_4_goto_A_for_switch
+B_has_4_goto_A_for_switch	a	←		B_has_4_goto_A_for_switch
+B_has_4_goto_A_for_switch	b	←		B_has_4_goto_A_for_switch
+B_has_4_goto_A_for_switch	c	←		B_has_4_goto_A_for_switch
+B_has_4_goto_A_for_switch	d	←		B_has_4_goto_A_for_switch
+B_has_4_goto_A_for_switch	e	←		B_has_4_goto_A_for_switch
+B_has_4_goto_A_for_switch	f	←		B_has_4_goto_A_for_switch
+B_has_5_goto_A_for_switch	⓪	←		B_has_5_goto_A_for_switch
+B_has_5_goto_A_for_switch	①	←		B_has_5_goto_A_for_switch
+B_has_5_goto_A_for_switch	②	←		B_has_5_goto_A_for_switch
+B_has_5_goto_A_for_switch	③	←		B_has_5_goto_A_for_switch
+B_has_5_goto_A_for_switch	④	←		B_has_5_goto_A_for_switch
+B_has_5_goto_A_for_switch	⑤	←		B_has_5_goto_A_for_switch
+B_has_5_goto_A_for_switch	⑥	←		B_has_5_goto_A_for_switch
+B_has_5_goto_A_for_switch	⑦	←		B_has_5_goto_A_for_switch
+B_has_5_goto_A_for_switch	⑧	←		B_has_5_goto_A_for_switch
+B_has_5_goto_A_for_switch	⑨	←		B_has_5_goto_A_for_switch
+B_has_5_goto_A_for_switch	a	←		B_has_5_goto_A_for_switch
+B_has_5_goto_A_for_switch	b	←		B_has_5_goto_A_for_switch
+B_has_5_goto_A_for_switch	c	←		B_has_5_goto_A_for_switch
+B_has_5_goto_A_for_switch	d	←		B_has_5_goto_A_for_switch
+B_has_5_goto_A_for_switch	e	←		B_has_5_goto_A_for_switch
+B_has_5_goto_A_for_switch	f	←		B_has_5_goto_A_for_switch
+B_has_6_goto_A_for_switch	⓪	←		B_has_6_goto_A_for_switch
+B_has_6_goto_A_for_switch	①	←		B_has_6_goto_A_for_switch
+B_has_6_goto_A_for_switch	②	←		B_has_6_goto_A_for_switch
+B_has_6_goto_A_for_switch	③	←		B_has_6_goto_A_for_switch
+B_has_6_goto_A_for_switch	④	←		B_has_6_goto_A_for_switch
+B_has_6_goto_A_for_switch	⑤	←		B_has_6_goto_A_for_switch
+B_has_6_goto_A_for_switch	⑥	←		B_has_6_goto_A_for_switch
+B_has_6_goto_A_for_switch	⑦	←		B_has_6_goto_A_for_switch
+B_has_6_goto_A_for_switch	⑧	←		B_has_6_goto_A_for_switch
+B_has_6_goto_A_for_switch	⑨	←		B_has_6_goto_A_for_switch
+B_has_6_goto_A_for_switch	a	←		B_has_6_goto_A_for_switch
+B_has_6_goto_A_for_switch	b	←		B_has_6_goto_A_for_switch
+B_has_6_goto_A_for_switch	c	←		B_has_6_goto_A_for_switch
+B_has_6_goto_A_for_switch	d	←		B_has_6_goto_A_for_switch
+B_has_6_goto_A_for_switch	e	←		B_has_6_goto_A_for_switch
+B_has_6_goto_A_for_switch	f	←		B_has_6_goto_A_for_switch
+B_has_7_goto_A_for_switch	⓪	←		B_has_7_goto_A_for_switch
+B_has_7_goto_A_for_switch	①	←		B_has_7_goto_A_for_switch
+B_has_7_goto_A_for_switch	②	←		B_has_7_goto_A_for_switch
+B_has_7_goto_A_for_switch	③	←		B_has_7_goto_A_for_switch
+B_has_7_goto_A_for_switch	④	←		B_has_7_goto_A_for_switch
+B_has_7_goto_A_for_switch	⑤	←		B_has_7_goto_A_for_switch
+B_has_7_goto_A_for_switch	⑥	←		B_has_7_goto_A_for_switch
+B_has_7_goto_A_for_switch	⑦	←		B_has_7_goto_A_for_switch
+B_has_7_goto_A_for_switch	⑧	←		B_has_7_goto_A_for_switch
+B_has_7_goto_A_for_switch	⑨	←		B_has_7_goto_A_for_switch
+B_has_7_goto_A_for_switch	a	←		B_has_7_goto_A_for_switch
+B_has_7_goto_A_for_switch	b	←		B_has_7_goto_A_for_switch
+B_has_7_goto_A_for_switch	c	←		B_has_7_goto_A_for_switch
+B_has_7_goto_A_for_switch	d	←		B_has_7_goto_A_for_switch
+B_has_7_goto_A_for_switch	e	←		B_has_7_goto_A_for_switch
+B_has_7_goto_A_for_switch	f	←		B_has_7_goto_A_for_switch
+B_has_8_goto_A_for_switch	⓪	←		B_has_8_goto_A_for_switch
+B_has_8_goto_A_for_switch	①	←		B_has_8_goto_A_for_switch
+B_has_8_goto_A_for_switch	②	←		B_has_8_goto_A_for_switch
+B_has_8_goto_A_for_switch	③	←		B_has_8_goto_A_for_switch
+B_has_8_goto_A_for_switch	④	←		B_has_8_goto_A_for_switch
+B_has_8_goto_A_for_switch	⑤	←		B_has_8_goto_A_for_switch
+B_has_8_goto_A_for_switch	⑥	←		B_has_8_goto_A_for_switch
+B_has_8_goto_A_for_switch	⑦	←		B_has_8_goto_A_for_switch
+B_has_8_goto_A_for_switch	⑧	←		B_has_8_goto_A_for_switch
+B_has_8_goto_A_for_switch	⑨	←		B_has_8_goto_A_for_switch
+B_has_8_goto_A_for_switch	a	←		B_has_8_goto_A_for_switch
+B_has_8_goto_A_for_switch	b	←		B_has_8_goto_A_for_switch
+B_has_8_goto_A_for_switch	c	←		B_has_8_goto_A_for_switch
+B_has_8_goto_A_for_switch	d	←		B_has_8_goto_A_for_switch
+B_has_8_goto_A_for_switch	e	←		B_has_8_goto_A_for_switch
+B_has_8_goto_A_for_switch	f	←		B_has_8_goto_A_for_switch
+B_has_9_goto_A_for_switch	⓪	←		B_has_9_goto_A_for_switch
+B_has_9_goto_A_for_switch	①	←		B_has_9_goto_A_for_switch
+B_has_9_goto_A_for_switch	②	←		B_has_9_goto_A_for_switch
+B_has_9_goto_A_for_switch	③	←		B_has_9_goto_A_for_switch
+B_has_9_goto_A_for_switch	④	←		B_has_9_goto_A_for_switch
+B_has_9_goto_A_for_switch	⑤	←		B_has_9_goto_A_for_switch
+B_has_9_goto_A_for_switch	⑥	←		B_has_9_goto_A_for_switch
+B_has_9_goto_A_for_switch	⑦	←		B_has_9_goto_A_for_switch
+B_has_9_goto_A_for_switch	⑧	←		B_has_9_goto_A_for_switch
+B_has_9_goto_A_for_switch	⑨	←		B_has_9_goto_A_for_switch
+B_has_9_goto_A_for_switch	a	←		B_has_9_goto_A_for_switch
+B_has_9_goto_A_for_switch	b	←		B_has_9_goto_A_for_switch
+B_has_9_goto_A_for_switch	c	←		B_has_9_goto_A_for_switch
+B_has_9_goto_A_for_switch	d	←		B_has_9_goto_A_for_switch
+B_has_9_goto_A_for_switch	e	←		B_has_9_goto_A_for_switch
+B_has_9_goto_A_for_switch	f	←		B_has_9_goto_A_for_switch
+B_has_A_goto_A_for_switch	⓪	←		B_has_A_goto_A_for_switch
+B_has_A_goto_A_for_switch	①	←		B_has_A_goto_A_for_switch
+B_has_A_goto_A_for_switch	②	←		B_has_A_goto_A_for_switch
+B_has_A_goto_A_for_switch	③	←		B_has_A_goto_A_for_switch
+B_has_A_goto_A_for_switch	④	←		B_has_A_goto_A_for_switch
+B_has_A_goto_A_for_switch	⑤	←		B_has_A_goto_A_for_switch
+B_has_A_goto_A_for_switch	⑥	←		B_has_A_goto_A_for_switch
+B_has_A_goto_A_for_switch	⑦	←		B_has_A_goto_A_for_switch
+B_has_A_goto_A_for_switch	⑧	←		B_has_A_goto_A_for_switch
+B_has_A_goto_A_for_switch	⑨	←		B_has_A_goto_A_for_switch
+B_has_A_goto_A_for_switch	a	←		B_has_A_goto_A_for_switch
+B_has_A_goto_A_for_switch	b	←		B_has_A_goto_A_for_switch
+B_has_A_goto_A_for_switch	c	←		B_has_A_goto_A_for_switch
+B_has_A_goto_A_for_switch	d	←		B_has_A_goto_A_for_switch
+B_has_A_goto_A_for_switch	e	←		B_has_A_goto_A_for_switch
+B_has_A_goto_A_for_switch	f	←		B_has_A_goto_A_for_switch
+B_has_B_goto_A_for_switch	⓪	←		B_has_B_goto_A_for_switch
+B_has_B_goto_A_for_switch	①	←		B_has_B_goto_A_for_switch
+B_has_B_goto_A_for_switch	②	←		B_has_B_goto_A_for_switch
+B_has_B_goto_A_for_switch	③	←		B_has_B_goto_A_for_switch
+B_has_B_goto_A_for_switch	④	←		B_has_B_goto_A_for_switch
+B_has_B_goto_A_for_switch	⑤	←		B_has_B_goto_A_for_switch
+B_has_B_goto_A_for_switch	⑥	←		B_has_B_goto_A_for_switch
+B_has_B_goto_A_for_switch	⑦	←		B_has_B_goto_A_for_switch
+B_has_B_goto_A_for_switch	⑧	←		B_has_B_goto_A_for_switch
+B_has_B_goto_A_for_switch	⑨	←		B_has_B_goto_A_for_switch
+B_has_B_goto_A_for_switch	a	←		B_has_B_goto_A_for_switch
+B_has_B_goto_A_for_switch	b	←		B_has_B_goto_A_for_switch
+B_has_B_goto_A_for_switch	c	←		B_has_B_goto_A_for_switch
+B_has_B_goto_A_for_switch	d	←		B_has_B_goto_A_for_switch
+B_has_B_goto_A_for_switch	e	←		B_has_B_goto_A_for_switch
+B_has_B_goto_A_for_switch	f	←		B_has_B_goto_A_for_switch
+B_has_C_goto_A_for_switch	⓪	←		B_has_C_goto_A_for_switch
+B_has_C_goto_A_for_switch	①	←		B_has_C_goto_A_for_switch
+B_has_C_goto_A_for_switch	②	←		B_has_C_goto_A_for_switch
+B_has_C_goto_A_for_switch	③	←		B_has_C_goto_A_for_switch
+B_has_C_goto_A_for_switch	④	←		B_has_C_goto_A_for_switch
+B_has_C_goto_A_for_switch	⑤	←		B_has_C_goto_A_for_switch
+B_has_C_goto_A_for_switch	⑥	←		B_has_C_goto_A_for_switch
+B_has_C_goto_A_for_switch	⑦	←		B_has_C_goto_A_for_switch
+B_has_C_goto_A_for_switch	⑧	←		B_has_C_goto_A_for_switch
+B_has_C_goto_A_for_switch	⑨	←		B_has_C_goto_A_for_switch
+B_has_C_goto_A_for_switch	a	←		B_has_C_goto_A_for_switch
+B_has_C_goto_A_for_switch	b	←		B_has_C_goto_A_for_switch
+B_has_C_goto_A_for_switch	c	←		B_has_C_goto_A_for_switch
+B_has_C_goto_A_for_switch	d	←		B_has_C_goto_A_for_switch
+B_has_C_goto_A_for_switch	e	←		B_has_C_goto_A_for_switch
+B_has_C_goto_A_for_switch	f	←		B_has_C_goto_A_for_switch
+B_has_D_goto_A_for_switch	⓪	←		B_has_D_goto_A_for_switch
+B_has_D_goto_A_for_switch	①	←		B_has_D_goto_A_for_switch
+B_has_D_goto_A_for_switch	②	←		B_has_D_goto_A_for_switch
+B_has_D_goto_A_for_switch	③	←		B_has_D_goto_A_for_switch
+B_has_D_goto_A_for_switch	④	←		B_has_D_goto_A_for_switch
+B_has_D_goto_A_for_switch	⑤	←		B_has_D_goto_A_for_switch
+B_has_D_goto_A_for_switch	⑥	←		B_has_D_goto_A_for_switch
+B_has_D_goto_A_for_switch	⑦	←		B_has_D_goto_A_for_switch
+B_has_D_goto_A_for_switch	⑧	←		B_has_D_goto_A_for_switch
+B_has_D_goto_A_for_switch	⑨	←		B_has_D_goto_A_for_switch
+B_has_D_goto_A_for_switch	a	←		B_has_D_goto_A_for_switch
+B_has_D_goto_A_for_switch	b	←		B_has_D_goto_A_for_switch
+B_has_D_goto_A_for_switch	c	←		B_has_D_goto_A_for_switch
+B_has_D_goto_A_for_switch	d	←		B_has_D_goto_A_for_switch
+B_has_D_goto_A_for_switch	e	←		B_has_D_goto_A_for_switch
+B_has_D_goto_A_for_switch	f	←		B_has_D_goto_A_for_switch
+B_has_E_goto_A_for_switch	⓪	←		B_has_E_goto_A_for_switch
+B_has_E_goto_A_for_switch	①	←		B_has_E_goto_A_for_switch
+B_has_E_goto_A_for_switch	②	←		B_has_E_goto_A_for_switch
+B_has_E_goto_A_for_switch	③	←		B_has_E_goto_A_for_switch
+B_has_E_goto_A_for_switch	④	←		B_has_E_goto_A_for_switch
+B_has_E_goto_A_for_switch	⑤	←		B_has_E_goto_A_for_switch
+B_has_E_goto_A_for_switch	⑥	←		B_has_E_goto_A_for_switch
+B_has_E_goto_A_for_switch	⑦	←		B_has_E_goto_A_for_switch
+B_has_E_goto_A_for_switch	⑧	←		B_has_E_goto_A_for_switch
+B_has_E_goto_A_for_switch	⑨	←		B_has_E_goto_A_for_switch
+B_has_E_goto_A_for_switch	a	←		B_has_E_goto_A_for_switch
+B_has_E_goto_A_for_switch	b	←		B_has_E_goto_A_for_switch
+B_has_E_goto_A_for_switch	c	←		B_has_E_goto_A_for_switch
+B_has_E_goto_A_for_switch	d	←		B_has_E_goto_A_for_switch
+B_has_E_goto_A_for_switch	e	←		B_has_E_goto_A_for_switch
+B_has_E_goto_A_for_switch	f	←		B_has_E_goto_A_for_switch
+B_has_F_goto_A_for_switch	⓪	←		B_has_F_goto_A_for_switch
+B_has_F_goto_A_for_switch	①	←		B_has_F_goto_A_for_switch
+B_has_F_goto_A_for_switch	②	←		B_has_F_goto_A_for_switch
+B_has_F_goto_A_for_switch	③	←		B_has_F_goto_A_for_switch
+B_has_F_goto_A_for_switch	④	←		B_has_F_goto_A_for_switch
+B_has_F_goto_A_for_switch	⑤	←		B_has_F_goto_A_for_switch
+B_has_F_goto_A_for_switch	⑥	←		B_has_F_goto_A_for_switch
+B_has_F_goto_A_for_switch	⑦	←		B_has_F_goto_A_for_switch
+B_has_F_goto_A_for_switch	⑧	←		B_has_F_goto_A_for_switch
+B_has_F_goto_A_for_switch	⑨	←		B_has_F_goto_A_for_switch
+B_has_F_goto_A_for_switch	a	←		B_has_F_goto_A_for_switch
+B_has_F_goto_A_for_switch	b	←		B_has_F_goto_A_for_switch
+B_has_F_goto_A_for_switch	c	←		B_has_F_goto_A_for_switch
+B_has_F_goto_A_for_switch	d	←		B_has_F_goto_A_for_switch
+B_has_F_goto_A_for_switch	e	←		B_has_F_goto_A_for_switch
+B_has_F_goto_A_for_switch	f	←		B_has_F_goto_A_for_switch
 B_has_0_goto_A_for_switch	,	←		B_has_0_switch_with_A
 B_has_1_goto_A_for_switch	,	←		B_has_1_switch_with_A
 B_has_2_goto_A_for_switch	,	←		B_has_2_switch_with_A
@@ -831,262 +831,262 @@ B_has_C_goto_A_for_switch	,	←		B_has_C_switch_with_A
 B_has_D_goto_A_for_switch	,	←		B_has_D_switch_with_A
 B_has_E_goto_A_for_switch	,	←		B_has_E_switch_with_A
 B_has_F_goto_A_for_switch	,	←		B_has_F_switch_with_A
-B_has_0_switch_with_A	0	←		
-B_has_0_switch_with_A	1	←		
-B_has_0_switch_with_A	2	←		
-B_has_0_switch_with_A	3	←		
-B_has_0_switch_with_A	4	←		
-B_has_0_switch_with_A	5	←		
-B_has_0_switch_with_A	6	←		
-B_has_0_switch_with_A	7	←		
-B_has_0_switch_with_A	8	←		
-B_has_0_switch_with_A	9	←		
-B_has_0_switch_with_A	A	←		
-B_has_0_switch_with_A	B	←		
-B_has_0_switch_with_A	C	←		
-B_has_0_switch_with_A	D	←		
-B_has_0_switch_with_A	E	←		
-B_has_0_switch_with_A	F	←		
-B_has_1_switch_with_A	0	←		
-B_has_1_switch_with_A	1	←		
-B_has_1_switch_with_A	2	←		
-B_has_1_switch_with_A	3	←		
-B_has_1_switch_with_A	4	←		
-B_has_1_switch_with_A	5	←		
-B_has_1_switch_with_A	6	←		
-B_has_1_switch_with_A	7	←		
-B_has_1_switch_with_A	8	←		
-B_has_1_switch_with_A	9	←		
-B_has_1_switch_with_A	A	←		
-B_has_1_switch_with_A	B	←		
-B_has_1_switch_with_A	C	←		
-B_has_1_switch_with_A	D	←		
-B_has_1_switch_with_A	E	←		
-B_has_1_switch_with_A	F	←		
-B_has_2_switch_with_A	0	←		
-B_has_2_switch_with_A	1	←		
-B_has_2_switch_with_A	2	←		
-B_has_2_switch_with_A	3	←		
-B_has_2_switch_with_A	4	←		
-B_has_2_switch_with_A	5	←		
-B_has_2_switch_with_A	6	←		
-B_has_2_switch_with_A	7	←		
-B_has_2_switch_with_A	8	←		
-B_has_2_switch_with_A	9	←		
-B_has_2_switch_with_A	A	←		
-B_has_2_switch_with_A	B	←		
-B_has_2_switch_with_A	C	←		
-B_has_2_switch_with_A	D	←		
-B_has_2_switch_with_A	E	←		
-B_has_2_switch_with_A	F	←		
-B_has_3_switch_with_A	0	←		
-B_has_3_switch_with_A	1	←		
-B_has_3_switch_with_A	2	←		
-B_has_3_switch_with_A	3	←		
-B_has_3_switch_with_A	4	←		
-B_has_3_switch_with_A	5	←		
-B_has_3_switch_with_A	6	←		
-B_has_3_switch_with_A	7	←		
-B_has_3_switch_with_A	8	←		
-B_has_3_switch_with_A	9	←		
-B_has_3_switch_with_A	A	←		
-B_has_3_switch_with_A	B	←		
-B_has_3_switch_with_A	C	←		
-B_has_3_switch_with_A	D	←		
-B_has_3_switch_with_A	E	←		
-B_has_3_switch_with_A	F	←		
-B_has_4_switch_with_A	0	←		
-B_has_4_switch_with_A	1	←		
-B_has_4_switch_with_A	2	←		
-B_has_4_switch_with_A	3	←		
-B_has_4_switch_with_A	4	←		
-B_has_4_switch_with_A	5	←		
-B_has_4_switch_with_A	6	←		
-B_has_4_switch_with_A	7	←		
-B_has_4_switch_with_A	8	←		
-B_has_4_switch_with_A	9	←		
-B_has_4_switch_with_A	A	←		
-B_has_4_switch_with_A	B	←		
-B_has_4_switch_with_A	C	←		
-B_has_4_switch_with_A	D	←		
-B_has_4_switch_with_A	E	←		
-B_has_4_switch_with_A	F	←		
-B_has_5_switch_with_A	0	←		
-B_has_5_switch_with_A	1	←		
-B_has_5_switch_with_A	2	←		
-B_has_5_switch_with_A	3	←		
-B_has_5_switch_with_A	4	←		
-B_has_5_switch_with_A	5	←		
-B_has_5_switch_with_A	6	←		
-B_has_5_switch_with_A	7	←		
-B_has_5_switch_with_A	8	←		
-B_has_5_switch_with_A	9	←		
-B_has_5_switch_with_A	A	←		
-B_has_5_switch_with_A	B	←		
-B_has_5_switch_with_A	C	←		
-B_has_5_switch_with_A	D	←		
-B_has_5_switch_with_A	E	←		
-B_has_5_switch_with_A	F	←		
-B_has_6_switch_with_A	0	←		
-B_has_6_switch_with_A	1	←		
-B_has_6_switch_with_A	2	←		
-B_has_6_switch_with_A	3	←		
-B_has_6_switch_with_A	4	←		
-B_has_6_switch_with_A	5	←		
-B_has_6_switch_with_A	6	←		
-B_has_6_switch_with_A	7	←		
-B_has_6_switch_with_A	8	←		
-B_has_6_switch_with_A	9	←		
-B_has_6_switch_with_A	A	←		
-B_has_6_switch_with_A	B	←		
-B_has_6_switch_with_A	C	←		
-B_has_6_switch_with_A	D	←		
-B_has_6_switch_with_A	E	←		
-B_has_6_switch_with_A	F	←		
-B_has_7_switch_with_A	0	←		
-B_has_7_switch_with_A	1	←		
-B_has_7_switch_with_A	2	←		
-B_has_7_switch_with_A	3	←		
-B_has_7_switch_with_A	4	←		
-B_has_7_switch_with_A	5	←		
-B_has_7_switch_with_A	6	←		
-B_has_7_switch_with_A	7	←		
-B_has_7_switch_with_A	8	←		
-B_has_7_switch_with_A	9	←		
-B_has_7_switch_with_A	A	←		
-B_has_7_switch_with_A	B	←		
-B_has_7_switch_with_A	C	←		
-B_has_7_switch_with_A	D	←		
-B_has_7_switch_with_A	E	←		
-B_has_7_switch_with_A	F	←		
-B_has_8_switch_with_A	0	←		
-B_has_8_switch_with_A	1	←		
-B_has_8_switch_with_A	2	←		
-B_has_8_switch_with_A	3	←		
-B_has_8_switch_with_A	4	←		
-B_has_8_switch_with_A	5	←		
-B_has_8_switch_with_A	6	←		
-B_has_8_switch_with_A	7	←		
-B_has_8_switch_with_A	8	←		
-B_has_8_switch_with_A	9	←		
-B_has_8_switch_with_A	A	←		
-B_has_8_switch_with_A	B	←		
-B_has_8_switch_with_A	C	←		
-B_has_8_switch_with_A	D	←		
-B_has_8_switch_with_A	E	←		
-B_has_8_switch_with_A	F	←		
-B_has_9_switch_with_A	0	←		
-B_has_9_switch_with_A	1	←		
-B_has_9_switch_with_A	2	←		
-B_has_9_switch_with_A	3	←		
-B_has_9_switch_with_A	4	←		
-B_has_9_switch_with_A	5	←		
-B_has_9_switch_with_A	6	←		
-B_has_9_switch_with_A	7	←		
-B_has_9_switch_with_A	8	←		
-B_has_9_switch_with_A	9	←		
-B_has_9_switch_with_A	A	←		
-B_has_9_switch_with_A	B	←		
-B_has_9_switch_with_A	C	←		
-B_has_9_switch_with_A	D	←		
-B_has_9_switch_with_A	E	←		
-B_has_9_switch_with_A	F	←		
-B_has_A_switch_with_A	0	←		
-B_has_A_switch_with_A	1	←		
-B_has_A_switch_with_A	2	←		
-B_has_A_switch_with_A	3	←		
-B_has_A_switch_with_A	4	←		
-B_has_A_switch_with_A	5	←		
-B_has_A_switch_with_A	6	←		
-B_has_A_switch_with_A	7	←		
-B_has_A_switch_with_A	8	←		
-B_has_A_switch_with_A	9	←		
-B_has_A_switch_with_A	A	←		
-B_has_A_switch_with_A	B	←		
-B_has_A_switch_with_A	C	←		
-B_has_A_switch_with_A	D	←		
-B_has_A_switch_with_A	E	←		
-B_has_A_switch_with_A	F	←		
-B_has_B_switch_with_A	0	←		
-B_has_B_switch_with_A	1	←		
-B_has_B_switch_with_A	2	←		
-B_has_B_switch_with_A	3	←		
-B_has_B_switch_with_A	4	←		
-B_has_B_switch_with_A	5	←		
-B_has_B_switch_with_A	6	←		
-B_has_B_switch_with_A	7	←		
-B_has_B_switch_with_A	8	←		
-B_has_B_switch_with_A	9	←		
-B_has_B_switch_with_A	A	←		
-B_has_B_switch_with_A	B	←		
-B_has_B_switch_with_A	C	←		
-B_has_B_switch_with_A	D	←		
-B_has_B_switch_with_A	E	←		
-B_has_B_switch_with_A	F	←		
-B_has_C_switch_with_A	0	←		
-B_has_C_switch_with_A	1	←		
-B_has_C_switch_with_A	2	←		
-B_has_C_switch_with_A	3	←		
-B_has_C_switch_with_A	4	←		
-B_has_C_switch_with_A	5	←		
-B_has_C_switch_with_A	6	←		
-B_has_C_switch_with_A	7	←		
-B_has_C_switch_with_A	8	←		
-B_has_C_switch_with_A	9	←		
-B_has_C_switch_with_A	A	←		
-B_has_C_switch_with_A	B	←		
-B_has_C_switch_with_A	C	←		
-B_has_C_switch_with_A	D	←		
-B_has_C_switch_with_A	E	←		
-B_has_C_switch_with_A	F	←		
-B_has_D_switch_with_A	0	←		
-B_has_D_switch_with_A	1	←		
-B_has_D_switch_with_A	2	←		
-B_has_D_switch_with_A	3	←		
-B_has_D_switch_with_A	4	←		
-B_has_D_switch_with_A	5	←		
-B_has_D_switch_with_A	6	←		
-B_has_D_switch_with_A	7	←		
-B_has_D_switch_with_A	8	←		
-B_has_D_switch_with_A	9	←		
-B_has_D_switch_with_A	A	←		
-B_has_D_switch_with_A	B	←		
-B_has_D_switch_with_A	C	←		
-B_has_D_switch_with_A	D	←		
-B_has_D_switch_with_A	E	←		
-B_has_D_switch_with_A	F	←		
-B_has_E_switch_with_A	0	←		
-B_has_E_switch_with_A	1	←		
-B_has_E_switch_with_A	2	←		
-B_has_E_switch_with_A	3	←		
-B_has_E_switch_with_A	4	←		
-B_has_E_switch_with_A	5	←		
-B_has_E_switch_with_A	6	←		
-B_has_E_switch_with_A	7	←		
-B_has_E_switch_with_A	8	←		
-B_has_E_switch_with_A	9	←		
-B_has_E_switch_with_A	A	←		
-B_has_E_switch_with_A	B	←		
-B_has_E_switch_with_A	C	←		
-B_has_E_switch_with_A	D	←		
-B_has_E_switch_with_A	E	←		
-B_has_E_switch_with_A	F	←		
-B_has_F_switch_with_A	0	←		
-B_has_F_switch_with_A	1	←		
-B_has_F_switch_with_A	2	←		
-B_has_F_switch_with_A	3	←		
-B_has_F_switch_with_A	4	←		
-B_has_F_switch_with_A	5	←		
-B_has_F_switch_with_A	6	←		
-B_has_F_switch_with_A	7	←		
-B_has_F_switch_with_A	8	←		
-B_has_F_switch_with_A	9	←		
-B_has_F_switch_with_A	A	←		
-B_has_F_switch_with_A	B	←		
-B_has_F_switch_with_A	C	←		
-B_has_F_switch_with_A	D	←		
-B_has_F_switch_with_A	E	←		
-B_has_F_switch_with_A	F	←		
+B_has_0_switch_with_A	0	←		B_has_0_switch_with_A
+B_has_0_switch_with_A	1	←		B_has_0_switch_with_A
+B_has_0_switch_with_A	2	←		B_has_0_switch_with_A
+B_has_0_switch_with_A	3	←		B_has_0_switch_with_A
+B_has_0_switch_with_A	4	←		B_has_0_switch_with_A
+B_has_0_switch_with_A	5	←		B_has_0_switch_with_A
+B_has_0_switch_with_A	6	←		B_has_0_switch_with_A
+B_has_0_switch_with_A	7	←		B_has_0_switch_with_A
+B_has_0_switch_with_A	8	←		B_has_0_switch_with_A
+B_has_0_switch_with_A	9	←		B_has_0_switch_with_A
+B_has_0_switch_with_A	A	←		B_has_0_switch_with_A
+B_has_0_switch_with_A	B	←		B_has_0_switch_with_A
+B_has_0_switch_with_A	C	←		B_has_0_switch_with_A
+B_has_0_switch_with_A	D	←		B_has_0_switch_with_A
+B_has_0_switch_with_A	E	←		B_has_0_switch_with_A
+B_has_0_switch_with_A	F	←		B_has_0_switch_with_A
+B_has_1_switch_with_A	0	←		B_has_1_switch_with_A
+B_has_1_switch_with_A	1	←		B_has_1_switch_with_A
+B_has_1_switch_with_A	2	←		B_has_1_switch_with_A
+B_has_1_switch_with_A	3	←		B_has_1_switch_with_A
+B_has_1_switch_with_A	4	←		B_has_1_switch_with_A
+B_has_1_switch_with_A	5	←		B_has_1_switch_with_A
+B_has_1_switch_with_A	6	←		B_has_1_switch_with_A
+B_has_1_switch_with_A	7	←		B_has_1_switch_with_A
+B_has_1_switch_with_A	8	←		B_has_1_switch_with_A
+B_has_1_switch_with_A	9	←		B_has_1_switch_with_A
+B_has_1_switch_with_A	A	←		B_has_1_switch_with_A
+B_has_1_switch_with_A	B	←		B_has_1_switch_with_A
+B_has_1_switch_with_A	C	←		B_has_1_switch_with_A
+B_has_1_switch_with_A	D	←		B_has_1_switch_with_A
+B_has_1_switch_with_A	E	←		B_has_1_switch_with_A
+B_has_1_switch_with_A	F	←		B_has_1_switch_with_A
+B_has_2_switch_with_A	0	←		B_has_2_switch_with_A
+B_has_2_switch_with_A	1	←		B_has_2_switch_with_A
+B_has_2_switch_with_A	2	←		B_has_2_switch_with_A
+B_has_2_switch_with_A	3	←		B_has_2_switch_with_A
+B_has_2_switch_with_A	4	←		B_has_2_switch_with_A
+B_has_2_switch_with_A	5	←		B_has_2_switch_with_A
+B_has_2_switch_with_A	6	←		B_has_2_switch_with_A
+B_has_2_switch_with_A	7	←		B_has_2_switch_with_A
+B_has_2_switch_with_A	8	←		B_has_2_switch_with_A
+B_has_2_switch_with_A	9	←		B_has_2_switch_with_A
+B_has_2_switch_with_A	A	←		B_has_2_switch_with_A
+B_has_2_switch_with_A	B	←		B_has_2_switch_with_A
+B_has_2_switch_with_A	C	←		B_has_2_switch_with_A
+B_has_2_switch_with_A	D	←		B_has_2_switch_with_A
+B_has_2_switch_with_A	E	←		B_has_2_switch_with_A
+B_has_2_switch_with_A	F	←		B_has_2_switch_with_A
+B_has_3_switch_with_A	0	←		B_has_3_switch_with_A
+B_has_3_switch_with_A	1	←		B_has_3_switch_with_A
+B_has_3_switch_with_A	2	←		B_has_3_switch_with_A
+B_has_3_switch_with_A	3	←		B_has_3_switch_with_A
+B_has_3_switch_with_A	4	←		B_has_3_switch_with_A
+B_has_3_switch_with_A	5	←		B_has_3_switch_with_A
+B_has_3_switch_with_A	6	←		B_has_3_switch_with_A
+B_has_3_switch_with_A	7	←		B_has_3_switch_with_A
+B_has_3_switch_with_A	8	←		B_has_3_switch_with_A
+B_has_3_switch_with_A	9	←		B_has_3_switch_with_A
+B_has_3_switch_with_A	A	←		B_has_3_switch_with_A
+B_has_3_switch_with_A	B	←		B_has_3_switch_with_A
+B_has_3_switch_with_A	C	←		B_has_3_switch_with_A
+B_has_3_switch_with_A	D	←		B_has_3_switch_with_A
+B_has_3_switch_with_A	E	←		B_has_3_switch_with_A
+B_has_3_switch_with_A	F	←		B_has_3_switch_with_A
+B_has_4_switch_with_A	0	←		B_has_4_switch_with_A
+B_has_4_switch_with_A	1	←		B_has_4_switch_with_A
+B_has_4_switch_with_A	2	←		B_has_4_switch_with_A
+B_has_4_switch_with_A	3	←		B_has_4_switch_with_A
+B_has_4_switch_with_A	4	←		B_has_4_switch_with_A
+B_has_4_switch_with_A	5	←		B_has_4_switch_with_A
+B_has_4_switch_with_A	6	←		B_has_4_switch_with_A
+B_has_4_switch_with_A	7	←		B_has_4_switch_with_A
+B_has_4_switch_with_A	8	←		B_has_4_switch_with_A
+B_has_4_switch_with_A	9	←		B_has_4_switch_with_A
+B_has_4_switch_with_A	A	←		B_has_4_switch_with_A
+B_has_4_switch_with_A	B	←		B_has_4_switch_with_A
+B_has_4_switch_with_A	C	←		B_has_4_switch_with_A
+B_has_4_switch_with_A	D	←		B_has_4_switch_with_A
+B_has_4_switch_with_A	E	←		B_has_4_switch_with_A
+B_has_4_switch_with_A	F	←		B_has_4_switch_with_A
+B_has_5_switch_with_A	0	←		B_has_5_switch_with_A
+B_has_5_switch_with_A	1	←		B_has_5_switch_with_A
+B_has_5_switch_with_A	2	←		B_has_5_switch_with_A
+B_has_5_switch_with_A	3	←		B_has_5_switch_with_A
+B_has_5_switch_with_A	4	←		B_has_5_switch_with_A
+B_has_5_switch_with_A	5	←		B_has_5_switch_with_A
+B_has_5_switch_with_A	6	←		B_has_5_switch_with_A
+B_has_5_switch_with_A	7	←		B_has_5_switch_with_A
+B_has_5_switch_with_A	8	←		B_has_5_switch_with_A
+B_has_5_switch_with_A	9	←		B_has_5_switch_with_A
+B_has_5_switch_with_A	A	←		B_has_5_switch_with_A
+B_has_5_switch_with_A	B	←		B_has_5_switch_with_A
+B_has_5_switch_with_A	C	←		B_has_5_switch_with_A
+B_has_5_switch_with_A	D	←		B_has_5_switch_with_A
+B_has_5_switch_with_A	E	←		B_has_5_switch_with_A
+B_has_5_switch_with_A	F	←		B_has_5_switch_with_A
+B_has_6_switch_with_A	0	←		B_has_6_switch_with_A
+B_has_6_switch_with_A	1	←		B_has_6_switch_with_A
+B_has_6_switch_with_A	2	←		B_has_6_switch_with_A
+B_has_6_switch_with_A	3	←		B_has_6_switch_with_A
+B_has_6_switch_with_A	4	←		B_has_6_switch_with_A
+B_has_6_switch_with_A	5	←		B_has_6_switch_with_A
+B_has_6_switch_with_A	6	←		B_has_6_switch_with_A
+B_has_6_switch_with_A	7	←		B_has_6_switch_with_A
+B_has_6_switch_with_A	8	←		B_has_6_switch_with_A
+B_has_6_switch_with_A	9	←		B_has_6_switch_with_A
+B_has_6_switch_with_A	A	←		B_has_6_switch_with_A
+B_has_6_switch_with_A	B	←		B_has_6_switch_with_A
+B_has_6_switch_with_A	C	←		B_has_6_switch_with_A
+B_has_6_switch_with_A	D	←		B_has_6_switch_with_A
+B_has_6_switch_with_A	E	←		B_has_6_switch_with_A
+B_has_6_switch_with_A	F	←		B_has_6_switch_with_A
+B_has_7_switch_with_A	0	←		B_has_7_switch_with_A
+B_has_7_switch_with_A	1	←		B_has_7_switch_with_A
+B_has_7_switch_with_A	2	←		B_has_7_switch_with_A
+B_has_7_switch_with_A	3	←		B_has_7_switch_with_A
+B_has_7_switch_with_A	4	←		B_has_7_switch_with_A
+B_has_7_switch_with_A	5	←		B_has_7_switch_with_A
+B_has_7_switch_with_A	6	←		B_has_7_switch_with_A
+B_has_7_switch_with_A	7	←		B_has_7_switch_with_A
+B_has_7_switch_with_A	8	←		B_has_7_switch_with_A
+B_has_7_switch_with_A	9	←		B_has_7_switch_with_A
+B_has_7_switch_with_A	A	←		B_has_7_switch_with_A
+B_has_7_switch_with_A	B	←		B_has_7_switch_with_A
+B_has_7_switch_with_A	C	←		B_has_7_switch_with_A
+B_has_7_switch_with_A	D	←		B_has_7_switch_with_A
+B_has_7_switch_with_A	E	←		B_has_7_switch_with_A
+B_has_7_switch_with_A	F	←		B_has_7_switch_with_A
+B_has_8_switch_with_A	0	←		B_has_8_switch_with_A
+B_has_8_switch_with_A	1	←		B_has_8_switch_with_A
+B_has_8_switch_with_A	2	←		B_has_8_switch_with_A
+B_has_8_switch_with_A	3	←		B_has_8_switch_with_A
+B_has_8_switch_with_A	4	←		B_has_8_switch_with_A
+B_has_8_switch_with_A	5	←		B_has_8_switch_with_A
+B_has_8_switch_with_A	6	←		B_has_8_switch_with_A
+B_has_8_switch_with_A	7	←		B_has_8_switch_with_A
+B_has_8_switch_with_A	8	←		B_has_8_switch_with_A
+B_has_8_switch_with_A	9	←		B_has_8_switch_with_A
+B_has_8_switch_with_A	A	←		B_has_8_switch_with_A
+B_has_8_switch_with_A	B	←		B_has_8_switch_with_A
+B_has_8_switch_with_A	C	←		B_has_8_switch_with_A
+B_has_8_switch_with_A	D	←		B_has_8_switch_with_A
+B_has_8_switch_with_A	E	←		B_has_8_switch_with_A
+B_has_8_switch_with_A	F	←		B_has_8_switch_with_A
+B_has_9_switch_with_A	0	←		B_has_9_switch_with_A
+B_has_9_switch_with_A	1	←		B_has_9_switch_with_A
+B_has_9_switch_with_A	2	←		B_has_9_switch_with_A
+B_has_9_switch_with_A	3	←		B_has_9_switch_with_A
+B_has_9_switch_with_A	4	←		B_has_9_switch_with_A
+B_has_9_switch_with_A	5	←		B_has_9_switch_with_A
+B_has_9_switch_with_A	6	←		B_has_9_switch_with_A
+B_has_9_switch_with_A	7	←		B_has_9_switch_with_A
+B_has_9_switch_with_A	8	←		B_has_9_switch_with_A
+B_has_9_switch_with_A	9	←		B_has_9_switch_with_A
+B_has_9_switch_with_A	A	←		B_has_9_switch_with_A
+B_has_9_switch_with_A	B	←		B_has_9_switch_with_A
+B_has_9_switch_with_A	C	←		B_has_9_switch_with_A
+B_has_9_switch_with_A	D	←		B_has_9_switch_with_A
+B_has_9_switch_with_A	E	←		B_has_9_switch_with_A
+B_has_9_switch_with_A	F	←		B_has_9_switch_with_A
+B_has_A_switch_with_A	0	←		B_has_A_switch_with_A
+B_has_A_switch_with_A	1	←		B_has_A_switch_with_A
+B_has_A_switch_with_A	2	←		B_has_A_switch_with_A
+B_has_A_switch_with_A	3	←		B_has_A_switch_with_A
+B_has_A_switch_with_A	4	←		B_has_A_switch_with_A
+B_has_A_switch_with_A	5	←		B_has_A_switch_with_A
+B_has_A_switch_with_A	6	←		B_has_A_switch_with_A
+B_has_A_switch_with_A	7	←		B_has_A_switch_with_A
+B_has_A_switch_with_A	8	←		B_has_A_switch_with_A
+B_has_A_switch_with_A	9	←		B_has_A_switch_with_A
+B_has_A_switch_with_A	A	←		B_has_A_switch_with_A
+B_has_A_switch_with_A	B	←		B_has_A_switch_with_A
+B_has_A_switch_with_A	C	←		B_has_A_switch_with_A
+B_has_A_switch_with_A	D	←		B_has_A_switch_with_A
+B_has_A_switch_with_A	E	←		B_has_A_switch_with_A
+B_has_A_switch_with_A	F	←		B_has_A_switch_with_A
+B_has_B_switch_with_A	0	←		B_has_B_switch_with_A
+B_has_B_switch_with_A	1	←		B_has_B_switch_with_A
+B_has_B_switch_with_A	2	←		B_has_B_switch_with_A
+B_has_B_switch_with_A	3	←		B_has_B_switch_with_A
+B_has_B_switch_with_A	4	←		B_has_B_switch_with_A
+B_has_B_switch_with_A	5	←		B_has_B_switch_with_A
+B_has_B_switch_with_A	6	←		B_has_B_switch_with_A
+B_has_B_switch_with_A	7	←		B_has_B_switch_with_A
+B_has_B_switch_with_A	8	←		B_has_B_switch_with_A
+B_has_B_switch_with_A	9	←		B_has_B_switch_with_A
+B_has_B_switch_with_A	A	←		B_has_B_switch_with_A
+B_has_B_switch_with_A	B	←		B_has_B_switch_with_A
+B_has_B_switch_with_A	C	←		B_has_B_switch_with_A
+B_has_B_switch_with_A	D	←		B_has_B_switch_with_A
+B_has_B_switch_with_A	E	←		B_has_B_switch_with_A
+B_has_B_switch_with_A	F	←		B_has_B_switch_with_A
+B_has_C_switch_with_A	0	←		B_has_C_switch_with_A
+B_has_C_switch_with_A	1	←		B_has_C_switch_with_A
+B_has_C_switch_with_A	2	←		B_has_C_switch_with_A
+B_has_C_switch_with_A	3	←		B_has_C_switch_with_A
+B_has_C_switch_with_A	4	←		B_has_C_switch_with_A
+B_has_C_switch_with_A	5	←		B_has_C_switch_with_A
+B_has_C_switch_with_A	6	←		B_has_C_switch_with_A
+B_has_C_switch_with_A	7	←		B_has_C_switch_with_A
+B_has_C_switch_with_A	8	←		B_has_C_switch_with_A
+B_has_C_switch_with_A	9	←		B_has_C_switch_with_A
+B_has_C_switch_with_A	A	←		B_has_C_switch_with_A
+B_has_C_switch_with_A	B	←		B_has_C_switch_with_A
+B_has_C_switch_with_A	C	←		B_has_C_switch_with_A
+B_has_C_switch_with_A	D	←		B_has_C_switch_with_A
+B_has_C_switch_with_A	E	←		B_has_C_switch_with_A
+B_has_C_switch_with_A	F	←		B_has_C_switch_with_A
+B_has_D_switch_with_A	0	←		B_has_D_switch_with_A
+B_has_D_switch_with_A	1	←		B_has_D_switch_with_A
+B_has_D_switch_with_A	2	←		B_has_D_switch_with_A
+B_has_D_switch_with_A	3	←		B_has_D_switch_with_A
+B_has_D_switch_with_A	4	←		B_has_D_switch_with_A
+B_has_D_switch_with_A	5	←		B_has_D_switch_with_A
+B_has_D_switch_with_A	6	←		B_has_D_switch_with_A
+B_has_D_switch_with_A	7	←		B_has_D_switch_with_A
+B_has_D_switch_with_A	8	←		B_has_D_switch_with_A
+B_has_D_switch_with_A	9	←		B_has_D_switch_with_A
+B_has_D_switch_with_A	A	←		B_has_D_switch_with_A
+B_has_D_switch_with_A	B	←		B_has_D_switch_with_A
+B_has_D_switch_with_A	C	←		B_has_D_switch_with_A
+B_has_D_switch_with_A	D	←		B_has_D_switch_with_A
+B_has_D_switch_with_A	E	←		B_has_D_switch_with_A
+B_has_D_switch_with_A	F	←		B_has_D_switch_with_A
+B_has_E_switch_with_A	0	←		B_has_E_switch_with_A
+B_has_E_switch_with_A	1	←		B_has_E_switch_with_A
+B_has_E_switch_with_A	2	←		B_has_E_switch_with_A
+B_has_E_switch_with_A	3	←		B_has_E_switch_with_A
+B_has_E_switch_with_A	4	←		B_has_E_switch_with_A
+B_has_E_switch_with_A	5	←		B_has_E_switch_with_A
+B_has_E_switch_with_A	6	←		B_has_E_switch_with_A
+B_has_E_switch_with_A	7	←		B_has_E_switch_with_A
+B_has_E_switch_with_A	8	←		B_has_E_switch_with_A
+B_has_E_switch_with_A	9	←		B_has_E_switch_with_A
+B_has_E_switch_with_A	A	←		B_has_E_switch_with_A
+B_has_E_switch_with_A	B	←		B_has_E_switch_with_A
+B_has_E_switch_with_A	C	←		B_has_E_switch_with_A
+B_has_E_switch_with_A	D	←		B_has_E_switch_with_A
+B_has_E_switch_with_A	E	←		B_has_E_switch_with_A
+B_has_E_switch_with_A	F	←		B_has_E_switch_with_A
+B_has_F_switch_with_A	0	←		B_has_F_switch_with_A
+B_has_F_switch_with_A	1	←		B_has_F_switch_with_A
+B_has_F_switch_with_A	2	←		B_has_F_switch_with_A
+B_has_F_switch_with_A	3	←		B_has_F_switch_with_A
+B_has_F_switch_with_A	4	←		B_has_F_switch_with_A
+B_has_F_switch_with_A	5	←		B_has_F_switch_with_A
+B_has_F_switch_with_A	6	←		B_has_F_switch_with_A
+B_has_F_switch_with_A	7	←		B_has_F_switch_with_A
+B_has_F_switch_with_A	8	←		B_has_F_switch_with_A
+B_has_F_switch_with_A	9	←		B_has_F_switch_with_A
+B_has_F_switch_with_A	A	←		B_has_F_switch_with_A
+B_has_F_switch_with_A	B	←		B_has_F_switch_with_A
+B_has_F_switch_with_A	C	←		B_has_F_switch_with_A
+B_has_F_switch_with_A	D	←		B_has_F_switch_with_A
+B_has_F_switch_with_A	E	←		B_has_F_switch_with_A
+B_has_F_switch_with_A	F	←		B_has_F_switch_with_A
 B_has_0_switch_with_A	[	→		B_has_0_switch_with_A_here
 B_has_1_switch_with_A	[	→		B_has_1_switch_with_A_here
 B_has_2_switch_with_A	[	→		B_has_2_switch_with_A_here
@@ -1631,262 +1631,262 @@ B_has_F_switch_with_A_here	C	→	f	A_has_C_goto_B_for_switch
 B_has_F_switch_with_A_here	D	→	f	A_has_D_goto_B_for_switch
 B_has_F_switch_with_A_here	E	→	f	A_has_E_goto_B_for_switch
 B_has_F_switch_with_A_here	F	→	f	A_has_F_goto_B_for_switch
-A_has_0_goto_B_for_switch	0	→		
-A_has_0_goto_B_for_switch	1	→		
-A_has_0_goto_B_for_switch	2	→		
-A_has_0_goto_B_for_switch	3	→		
-A_has_0_goto_B_for_switch	4	→		
-A_has_0_goto_B_for_switch	5	→		
-A_has_0_goto_B_for_switch	6	→		
-A_has_0_goto_B_for_switch	7	→		
-A_has_0_goto_B_for_switch	8	→		
-A_has_0_goto_B_for_switch	9	→		
-A_has_0_goto_B_for_switch	A	→		
-A_has_0_goto_B_for_switch	B	→		
-A_has_0_goto_B_for_switch	C	→		
-A_has_0_goto_B_for_switch	D	→		
-A_has_0_goto_B_for_switch	E	→		
-A_has_0_goto_B_for_switch	F	→		
-A_has_1_goto_B_for_switch	0	→		
-A_has_1_goto_B_for_switch	1	→		
-A_has_1_goto_B_for_switch	2	→		
-A_has_1_goto_B_for_switch	3	→		
-A_has_1_goto_B_for_switch	4	→		
-A_has_1_goto_B_for_switch	5	→		
-A_has_1_goto_B_for_switch	6	→		
-A_has_1_goto_B_for_switch	7	→		
-A_has_1_goto_B_for_switch	8	→		
-A_has_1_goto_B_for_switch	9	→		
-A_has_1_goto_B_for_switch	A	→		
-A_has_1_goto_B_for_switch	B	→		
-A_has_1_goto_B_for_switch	C	→		
-A_has_1_goto_B_for_switch	D	→		
-A_has_1_goto_B_for_switch	E	→		
-A_has_1_goto_B_for_switch	F	→		
-A_has_2_goto_B_for_switch	0	→		
-A_has_2_goto_B_for_switch	1	→		
-A_has_2_goto_B_for_switch	2	→		
-A_has_2_goto_B_for_switch	3	→		
-A_has_2_goto_B_for_switch	4	→		
-A_has_2_goto_B_for_switch	5	→		
-A_has_2_goto_B_for_switch	6	→		
-A_has_2_goto_B_for_switch	7	→		
-A_has_2_goto_B_for_switch	8	→		
-A_has_2_goto_B_for_switch	9	→		
-A_has_2_goto_B_for_switch	A	→		
-A_has_2_goto_B_for_switch	B	→		
-A_has_2_goto_B_for_switch	C	→		
-A_has_2_goto_B_for_switch	D	→		
-A_has_2_goto_B_for_switch	E	→		
-A_has_2_goto_B_for_switch	F	→		
-A_has_3_goto_B_for_switch	0	→		
-A_has_3_goto_B_for_switch	1	→		
-A_has_3_goto_B_for_switch	2	→		
-A_has_3_goto_B_for_switch	3	→		
-A_has_3_goto_B_for_switch	4	→		
-A_has_3_goto_B_for_switch	5	→		
-A_has_3_goto_B_for_switch	6	→		
-A_has_3_goto_B_for_switch	7	→		
-A_has_3_goto_B_for_switch	8	→		
-A_has_3_goto_B_for_switch	9	→		
-A_has_3_goto_B_for_switch	A	→		
-A_has_3_goto_B_for_switch	B	→		
-A_has_3_goto_B_for_switch	C	→		
-A_has_3_goto_B_for_switch	D	→		
-A_has_3_goto_B_for_switch	E	→		
-A_has_3_goto_B_for_switch	F	→		
-A_has_4_goto_B_for_switch	0	→		
-A_has_4_goto_B_for_switch	1	→		
-A_has_4_goto_B_for_switch	2	→		
-A_has_4_goto_B_for_switch	3	→		
-A_has_4_goto_B_for_switch	4	→		
-A_has_4_goto_B_for_switch	5	→		
-A_has_4_goto_B_for_switch	6	→		
-A_has_4_goto_B_for_switch	7	→		
-A_has_4_goto_B_for_switch	8	→		
-A_has_4_goto_B_for_switch	9	→		
-A_has_4_goto_B_for_switch	A	→		
-A_has_4_goto_B_for_switch	B	→		
-A_has_4_goto_B_for_switch	C	→		
-A_has_4_goto_B_for_switch	D	→		
-A_has_4_goto_B_for_switch	E	→		
-A_has_4_goto_B_for_switch	F	→		
-A_has_5_goto_B_for_switch	0	→		
-A_has_5_goto_B_for_switch	1	→		
-A_has_5_goto_B_for_switch	2	→		
-A_has_5_goto_B_for_switch	3	→		
-A_has_5_goto_B_for_switch	4	→		
-A_has_5_goto_B_for_switch	5	→		
-A_has_5_goto_B_for_switch	6	→		
-A_has_5_goto_B_for_switch	7	→		
-A_has_5_goto_B_for_switch	8	→		
-A_has_5_goto_B_for_switch	9	→		
-A_has_5_goto_B_for_switch	A	→		
-A_has_5_goto_B_for_switch	B	→		
-A_has_5_goto_B_for_switch	C	→		
-A_has_5_goto_B_for_switch	D	→		
-A_has_5_goto_B_for_switch	E	→		
-A_has_5_goto_B_for_switch	F	→		
-A_has_6_goto_B_for_switch	0	→		
-A_has_6_goto_B_for_switch	1	→		
-A_has_6_goto_B_for_switch	2	→		
-A_has_6_goto_B_for_switch	3	→		
-A_has_6_goto_B_for_switch	4	→		
-A_has_6_goto_B_for_switch	5	→		
-A_has_6_goto_B_for_switch	6	→		
-A_has_6_goto_B_for_switch	7	→		
-A_has_6_goto_B_for_switch	8	→		
-A_has_6_goto_B_for_switch	9	→		
-A_has_6_goto_B_for_switch	A	→		
-A_has_6_goto_B_for_switch	B	→		
-A_has_6_goto_B_for_switch	C	→		
-A_has_6_goto_B_for_switch	D	→		
-A_has_6_goto_B_for_switch	E	→		
-A_has_6_goto_B_for_switch	F	→		
-A_has_7_goto_B_for_switch	0	→		
-A_has_7_goto_B_for_switch	1	→		
-A_has_7_goto_B_for_switch	2	→		
-A_has_7_goto_B_for_switch	3	→		
-A_has_7_goto_B_for_switch	4	→		
-A_has_7_goto_B_for_switch	5	→		
-A_has_7_goto_B_for_switch	6	→		
-A_has_7_goto_B_for_switch	7	→		
-A_has_7_goto_B_for_switch	8	→		
-A_has_7_goto_B_for_switch	9	→		
-A_has_7_goto_B_for_switch	A	→		
-A_has_7_goto_B_for_switch	B	→		
-A_has_7_goto_B_for_switch	C	→		
-A_has_7_goto_B_for_switch	D	→		
-A_has_7_goto_B_for_switch	E	→		
-A_has_7_goto_B_for_switch	F	→		
-A_has_8_goto_B_for_switch	0	→		
-A_has_8_goto_B_for_switch	1	→		
-A_has_8_goto_B_for_switch	2	→		
-A_has_8_goto_B_for_switch	3	→		
-A_has_8_goto_B_for_switch	4	→		
-A_has_8_goto_B_for_switch	5	→		
-A_has_8_goto_B_for_switch	6	→		
-A_has_8_goto_B_for_switch	7	→		
-A_has_8_goto_B_for_switch	8	→		
-A_has_8_goto_B_for_switch	9	→		
-A_has_8_goto_B_for_switch	A	→		
-A_has_8_goto_B_for_switch	B	→		
-A_has_8_goto_B_for_switch	C	→		
-A_has_8_goto_B_for_switch	D	→		
-A_has_8_goto_B_for_switch	E	→		
-A_has_8_goto_B_for_switch	F	→		
-A_has_9_goto_B_for_switch	0	→		
-A_has_9_goto_B_for_switch	1	→		
-A_has_9_goto_B_for_switch	2	→		
-A_has_9_goto_B_for_switch	3	→		
-A_has_9_goto_B_for_switch	4	→		
-A_has_9_goto_B_for_switch	5	→		
-A_has_9_goto_B_for_switch	6	→		
-A_has_9_goto_B_for_switch	7	→		
-A_has_9_goto_B_for_switch	8	→		
-A_has_9_goto_B_for_switch	9	→		
-A_has_9_goto_B_for_switch	A	→		
-A_has_9_goto_B_for_switch	B	→		
-A_has_9_goto_B_for_switch	C	→		
-A_has_9_goto_B_for_switch	D	→		
-A_has_9_goto_B_for_switch	E	→		
-A_has_9_goto_B_for_switch	F	→		
-A_has_A_goto_B_for_switch	0	→		
-A_has_A_goto_B_for_switch	1	→		
-A_has_A_goto_B_for_switch	2	→		
-A_has_A_goto_B_for_switch	3	→		
-A_has_A_goto_B_for_switch	4	→		
-A_has_A_goto_B_for_switch	5	→		
-A_has_A_goto_B_for_switch	6	→		
-A_has_A_goto_B_for_switch	7	→		
-A_has_A_goto_B_for_switch	8	→		
-A_has_A_goto_B_for_switch	9	→		
-A_has_A_goto_B_for_switch	A	→		
-A_has_A_goto_B_for_switch	B	→		
-A_has_A_goto_B_for_switch	C	→		
-A_has_A_goto_B_for_switch	D	→		
-A_has_A_goto_B_for_switch	E	→		
-A_has_A_goto_B_for_switch	F	→		
-A_has_B_goto_B_for_switch	0	→		
-A_has_B_goto_B_for_switch	1	→		
-A_has_B_goto_B_for_switch	2	→		
-A_has_B_goto_B_for_switch	3	→		
-A_has_B_goto_B_for_switch	4	→		
-A_has_B_goto_B_for_switch	5	→		
-A_has_B_goto_B_for_switch	6	→		
-A_has_B_goto_B_for_switch	7	→		
-A_has_B_goto_B_for_switch	8	→		
-A_has_B_goto_B_for_switch	9	→		
-A_has_B_goto_B_for_switch	A	→		
-A_has_B_goto_B_for_switch	B	→		
-A_has_B_goto_B_for_switch	C	→		
-A_has_B_goto_B_for_switch	D	→		
-A_has_B_goto_B_for_switch	E	→		
-A_has_B_goto_B_for_switch	F	→		
-A_has_C_goto_B_for_switch	0	→		
-A_has_C_goto_B_for_switch	1	→		
-A_has_C_goto_B_for_switch	2	→		
-A_has_C_goto_B_for_switch	3	→		
-A_has_C_goto_B_for_switch	4	→		
-A_has_C_goto_B_for_switch	5	→		
-A_has_C_goto_B_for_switch	6	→		
-A_has_C_goto_B_for_switch	7	→		
-A_has_C_goto_B_for_switch	8	→		
-A_has_C_goto_B_for_switch	9	→		
-A_has_C_goto_B_for_switch	A	→		
-A_has_C_goto_B_for_switch	B	→		
-A_has_C_goto_B_for_switch	C	→		
-A_has_C_goto_B_for_switch	D	→		
-A_has_C_goto_B_for_switch	E	→		
-A_has_C_goto_B_for_switch	F	→		
-A_has_D_goto_B_for_switch	0	→		
-A_has_D_goto_B_for_switch	1	→		
-A_has_D_goto_B_for_switch	2	→		
-A_has_D_goto_B_for_switch	3	→		
-A_has_D_goto_B_for_switch	4	→		
-A_has_D_goto_B_for_switch	5	→		
-A_has_D_goto_B_for_switch	6	→		
-A_has_D_goto_B_for_switch	7	→		
-A_has_D_goto_B_for_switch	8	→		
-A_has_D_goto_B_for_switch	9	→		
-A_has_D_goto_B_for_switch	A	→		
-A_has_D_goto_B_for_switch	B	→		
-A_has_D_goto_B_for_switch	C	→		
-A_has_D_goto_B_for_switch	D	→		
-A_has_D_goto_B_for_switch	E	→		
-A_has_D_goto_B_for_switch	F	→		
-A_has_E_goto_B_for_switch	0	→		
-A_has_E_goto_B_for_switch	1	→		
-A_has_E_goto_B_for_switch	2	→		
-A_has_E_goto_B_for_switch	3	→		
-A_has_E_goto_B_for_switch	4	→		
-A_has_E_goto_B_for_switch	5	→		
-A_has_E_goto_B_for_switch	6	→		
-A_has_E_goto_B_for_switch	7	→		
-A_has_E_goto_B_for_switch	8	→		
-A_has_E_goto_B_for_switch	9	→		
-A_has_E_goto_B_for_switch	A	→		
-A_has_E_goto_B_for_switch	B	→		
-A_has_E_goto_B_for_switch	C	→		
-A_has_E_goto_B_for_switch	D	→		
-A_has_E_goto_B_for_switch	E	→		
-A_has_E_goto_B_for_switch	F	→		
-A_has_F_goto_B_for_switch	0	→		
-A_has_F_goto_B_for_switch	1	→		
-A_has_F_goto_B_for_switch	2	→		
-A_has_F_goto_B_for_switch	3	→		
-A_has_F_goto_B_for_switch	4	→		
-A_has_F_goto_B_for_switch	5	→		
-A_has_F_goto_B_for_switch	6	→		
-A_has_F_goto_B_for_switch	7	→		
-A_has_F_goto_B_for_switch	8	→		
-A_has_F_goto_B_for_switch	9	→		
-A_has_F_goto_B_for_switch	A	→		
-A_has_F_goto_B_for_switch	B	→		
-A_has_F_goto_B_for_switch	C	→		
-A_has_F_goto_B_for_switch	D	→		
-A_has_F_goto_B_for_switch	E	→		
-A_has_F_goto_B_for_switch	F	→		
+A_has_0_goto_B_for_switch	0	→		A_has_0_goto_B_for_switch
+A_has_0_goto_B_for_switch	1	→		A_has_0_goto_B_for_switch
+A_has_0_goto_B_for_switch	2	→		A_has_0_goto_B_for_switch
+A_has_0_goto_B_for_switch	3	→		A_has_0_goto_B_for_switch
+A_has_0_goto_B_for_switch	4	→		A_has_0_goto_B_for_switch
+A_has_0_goto_B_for_switch	5	→		A_has_0_goto_B_for_switch
+A_has_0_goto_B_for_switch	6	→		A_has_0_goto_B_for_switch
+A_has_0_goto_B_for_switch	7	→		A_has_0_goto_B_for_switch
+A_has_0_goto_B_for_switch	8	→		A_has_0_goto_B_for_switch
+A_has_0_goto_B_for_switch	9	→		A_has_0_goto_B_for_switch
+A_has_0_goto_B_for_switch	A	→		A_has_0_goto_B_for_switch
+A_has_0_goto_B_for_switch	B	→		A_has_0_goto_B_for_switch
+A_has_0_goto_B_for_switch	C	→		A_has_0_goto_B_for_switch
+A_has_0_goto_B_for_switch	D	→		A_has_0_goto_B_for_switch
+A_has_0_goto_B_for_switch	E	→		A_has_0_goto_B_for_switch
+A_has_0_goto_B_for_switch	F	→		A_has_0_goto_B_for_switch
+A_has_1_goto_B_for_switch	0	→		A_has_1_goto_B_for_switch
+A_has_1_goto_B_for_switch	1	→		A_has_1_goto_B_for_switch
+A_has_1_goto_B_for_switch	2	→		A_has_1_goto_B_for_switch
+A_has_1_goto_B_for_switch	3	→		A_has_1_goto_B_for_switch
+A_has_1_goto_B_for_switch	4	→		A_has_1_goto_B_for_switch
+A_has_1_goto_B_for_switch	5	→		A_has_1_goto_B_for_switch
+A_has_1_goto_B_for_switch	6	→		A_has_1_goto_B_for_switch
+A_has_1_goto_B_for_switch	7	→		A_has_1_goto_B_for_switch
+A_has_1_goto_B_for_switch	8	→		A_has_1_goto_B_for_switch
+A_has_1_goto_B_for_switch	9	→		A_has_1_goto_B_for_switch
+A_has_1_goto_B_for_switch	A	→		A_has_1_goto_B_for_switch
+A_has_1_goto_B_for_switch	B	→		A_has_1_goto_B_for_switch
+A_has_1_goto_B_for_switch	C	→		A_has_1_goto_B_for_switch
+A_has_1_goto_B_for_switch	D	→		A_has_1_goto_B_for_switch
+A_has_1_goto_B_for_switch	E	→		A_has_1_goto_B_for_switch
+A_has_1_goto_B_for_switch	F	→		A_has_1_goto_B_for_switch
+A_has_2_goto_B_for_switch	0	→		A_has_2_goto_B_for_switch
+A_has_2_goto_B_for_switch	1	→		A_has_2_goto_B_for_switch
+A_has_2_goto_B_for_switch	2	→		A_has_2_goto_B_for_switch
+A_has_2_goto_B_for_switch	3	→		A_has_2_goto_B_for_switch
+A_has_2_goto_B_for_switch	4	→		A_has_2_goto_B_for_switch
+A_has_2_goto_B_for_switch	5	→		A_has_2_goto_B_for_switch
+A_has_2_goto_B_for_switch	6	→		A_has_2_goto_B_for_switch
+A_has_2_goto_B_for_switch	7	→		A_has_2_goto_B_for_switch
+A_has_2_goto_B_for_switch	8	→		A_has_2_goto_B_for_switch
+A_has_2_goto_B_for_switch	9	→		A_has_2_goto_B_for_switch
+A_has_2_goto_B_for_switch	A	→		A_has_2_goto_B_for_switch
+A_has_2_goto_B_for_switch	B	→		A_has_2_goto_B_for_switch
+A_has_2_goto_B_for_switch	C	→		A_has_2_goto_B_for_switch
+A_has_2_goto_B_for_switch	D	→		A_has_2_goto_B_for_switch
+A_has_2_goto_B_for_switch	E	→		A_has_2_goto_B_for_switch
+A_has_2_goto_B_for_switch	F	→		A_has_2_goto_B_for_switch
+A_has_3_goto_B_for_switch	0	→		A_has_3_goto_B_for_switch
+A_has_3_goto_B_for_switch	1	→		A_has_3_goto_B_for_switch
+A_has_3_goto_B_for_switch	2	→		A_has_3_goto_B_for_switch
+A_has_3_goto_B_for_switch	3	→		A_has_3_goto_B_for_switch
+A_has_3_goto_B_for_switch	4	→		A_has_3_goto_B_for_switch
+A_has_3_goto_B_for_switch	5	→		A_has_3_goto_B_for_switch
+A_has_3_goto_B_for_switch	6	→		A_has_3_goto_B_for_switch
+A_has_3_goto_B_for_switch	7	→		A_has_3_goto_B_for_switch
+A_has_3_goto_B_for_switch	8	→		A_has_3_goto_B_for_switch
+A_has_3_goto_B_for_switch	9	→		A_has_3_goto_B_for_switch
+A_has_3_goto_B_for_switch	A	→		A_has_3_goto_B_for_switch
+A_has_3_goto_B_for_switch	B	→		A_has_3_goto_B_for_switch
+A_has_3_goto_B_for_switch	C	→		A_has_3_goto_B_for_switch
+A_has_3_goto_B_for_switch	D	→		A_has_3_goto_B_for_switch
+A_has_3_goto_B_for_switch	E	→		A_has_3_goto_B_for_switch
+A_has_3_goto_B_for_switch	F	→		A_has_3_goto_B_for_switch
+A_has_4_goto_B_for_switch	0	→		A_has_4_goto_B_for_switch
+A_has_4_goto_B_for_switch	1	→		A_has_4_goto_B_for_switch
+A_has_4_goto_B_for_switch	2	→		A_has_4_goto_B_for_switch
+A_has_4_goto_B_for_switch	3	→		A_has_4_goto_B_for_switch
+A_has_4_goto_B_for_switch	4	→		A_has_4_goto_B_for_switch
+A_has_4_goto_B_for_switch	5	→		A_has_4_goto_B_for_switch
+A_has_4_goto_B_for_switch	6	→		A_has_4_goto_B_for_switch
+A_has_4_goto_B_for_switch	7	→		A_has_4_goto_B_for_switch
+A_has_4_goto_B_for_switch	8	→		A_has_4_goto_B_for_switch
+A_has_4_goto_B_for_switch	9	→		A_has_4_goto_B_for_switch
+A_has_4_goto_B_for_switch	A	→		A_has_4_goto_B_for_switch
+A_has_4_goto_B_for_switch	B	→		A_has_4_goto_B_for_switch
+A_has_4_goto_B_for_switch	C	→		A_has_4_goto_B_for_switch
+A_has_4_goto_B_for_switch	D	→		A_has_4_goto_B_for_switch
+A_has_4_goto_B_for_switch	E	→		A_has_4_goto_B_for_switch
+A_has_4_goto_B_for_switch	F	→		A_has_4_goto_B_for_switch
+A_has_5_goto_B_for_switch	0	→		A_has_5_goto_B_for_switch
+A_has_5_goto_B_for_switch	1	→		A_has_5_goto_B_for_switch
+A_has_5_goto_B_for_switch	2	→		A_has_5_goto_B_for_switch
+A_has_5_goto_B_for_switch	3	→		A_has_5_goto_B_for_switch
+A_has_5_goto_B_for_switch	4	→		A_has_5_goto_B_for_switch
+A_has_5_goto_B_for_switch	5	→		A_has_5_goto_B_for_switch
+A_has_5_goto_B_for_switch	6	→		A_has_5_goto_B_for_switch
+A_has_5_goto_B_for_switch	7	→		A_has_5_goto_B_for_switch
+A_has_5_goto_B_for_switch	8	→		A_has_5_goto_B_for_switch
+A_has_5_goto_B_for_switch	9	→		A_has_5_goto_B_for_switch
+A_has_5_goto_B_for_switch	A	→		A_has_5_goto_B_for_switch
+A_has_5_goto_B_for_switch	B	→		A_has_5_goto_B_for_switch
+A_has_5_goto_B_for_switch	C	→		A_has_5_goto_B_for_switch
+A_has_5_goto_B_for_switch	D	→		A_has_5_goto_B_for_switch
+A_has_5_goto_B_for_switch	E	→		A_has_5_goto_B_for_switch
+A_has_5_goto_B_for_switch	F	→		A_has_5_goto_B_for_switch
+A_has_6_goto_B_for_switch	0	→		A_has_6_goto_B_for_switch
+A_has_6_goto_B_for_switch	1	→		A_has_6_goto_B_for_switch
+A_has_6_goto_B_for_switch	2	→		A_has_6_goto_B_for_switch
+A_has_6_goto_B_for_switch	3	→		A_has_6_goto_B_for_switch
+A_has_6_goto_B_for_switch	4	→		A_has_6_goto_B_for_switch
+A_has_6_goto_B_for_switch	5	→		A_has_6_goto_B_for_switch
+A_has_6_goto_B_for_switch	6	→		A_has_6_goto_B_for_switch
+A_has_6_goto_B_for_switch	7	→		A_has_6_goto_B_for_switch
+A_has_6_goto_B_for_switch	8	→		A_has_6_goto_B_for_switch
+A_has_6_goto_B_for_switch	9	→		A_has_6_goto_B_for_switch
+A_has_6_goto_B_for_switch	A	→		A_has_6_goto_B_for_switch
+A_has_6_goto_B_for_switch	B	→		A_has_6_goto_B_for_switch
+A_has_6_goto_B_for_switch	C	→		A_has_6_goto_B_for_switch
+A_has_6_goto_B_for_switch	D	→		A_has_6_goto_B_for_switch
+A_has_6_goto_B_for_switch	E	→		A_has_6_goto_B_for_switch
+A_has_6_goto_B_for_switch	F	→		A_has_6_goto_B_for_switch
+A_has_7_goto_B_for_switch	0	→		A_has_7_goto_B_for_switch
+A_has_7_goto_B_for_switch	1	→		A_has_7_goto_B_for_switch
+A_has_7_goto_B_for_switch	2	→		A_has_7_goto_B_for_switch
+A_has_7_goto_B_for_switch	3	→		A_has_7_goto_B_for_switch
+A_has_7_goto_B_for_switch	4	→		A_has_7_goto_B_for_switch
+A_has_7_goto_B_for_switch	5	→		A_has_7_goto_B_for_switch
+A_has_7_goto_B_for_switch	6	→		A_has_7_goto_B_for_switch
+A_has_7_goto_B_for_switch	7	→		A_has_7_goto_B_for_switch
+A_has_7_goto_B_for_switch	8	→		A_has_7_goto_B_for_switch
+A_has_7_goto_B_for_switch	9	→		A_has_7_goto_B_for_switch
+A_has_7_goto_B_for_switch	A	→		A_has_7_goto_B_for_switch
+A_has_7_goto_B_for_switch	B	→		A_has_7_goto_B_for_switch
+A_has_7_goto_B_for_switch	C	→		A_has_7_goto_B_for_switch
+A_has_7_goto_B_for_switch	D	→		A_has_7_goto_B_for_switch
+A_has_7_goto_B_for_switch	E	→		A_has_7_goto_B_for_switch
+A_has_7_goto_B_for_switch	F	→		A_has_7_goto_B_for_switch
+A_has_8_goto_B_for_switch	0	→		A_has_8_goto_B_for_switch
+A_has_8_goto_B_for_switch	1	→		A_has_8_goto_B_for_switch
+A_has_8_goto_B_for_switch	2	→		A_has_8_goto_B_for_switch
+A_has_8_goto_B_for_switch	3	→		A_has_8_goto_B_for_switch
+A_has_8_goto_B_for_switch	4	→		A_has_8_goto_B_for_switch
+A_has_8_goto_B_for_switch	5	→		A_has_8_goto_B_for_switch
+A_has_8_goto_B_for_switch	6	→		A_has_8_goto_B_for_switch
+A_has_8_goto_B_for_switch	7	→		A_has_8_goto_B_for_switch
+A_has_8_goto_B_for_switch	8	→		A_has_8_goto_B_for_switch
+A_has_8_goto_B_for_switch	9	→		A_has_8_goto_B_for_switch
+A_has_8_goto_B_for_switch	A	→		A_has_8_goto_B_for_switch
+A_has_8_goto_B_for_switch	B	→		A_has_8_goto_B_for_switch
+A_has_8_goto_B_for_switch	C	→		A_has_8_goto_B_for_switch
+A_has_8_goto_B_for_switch	D	→		A_has_8_goto_B_for_switch
+A_has_8_goto_B_for_switch	E	→		A_has_8_goto_B_for_switch
+A_has_8_goto_B_for_switch	F	→		A_has_8_goto_B_for_switch
+A_has_9_goto_B_for_switch	0	→		A_has_9_goto_B_for_switch
+A_has_9_goto_B_for_switch	1	→		A_has_9_goto_B_for_switch
+A_has_9_goto_B_for_switch	2	→		A_has_9_goto_B_for_switch
+A_has_9_goto_B_for_switch	3	→		A_has_9_goto_B_for_switch
+A_has_9_goto_B_for_switch	4	→		A_has_9_goto_B_for_switch
+A_has_9_goto_B_for_switch	5	→		A_has_9_goto_B_for_switch
+A_has_9_goto_B_for_switch	6	→		A_has_9_goto_B_for_switch
+A_has_9_goto_B_for_switch	7	→		A_has_9_goto_B_for_switch
+A_has_9_goto_B_for_switch	8	→		A_has_9_goto_B_for_switch
+A_has_9_goto_B_for_switch	9	→		A_has_9_goto_B_for_switch
+A_has_9_goto_B_for_switch	A	→		A_has_9_goto_B_for_switch
+A_has_9_goto_B_for_switch	B	→		A_has_9_goto_B_for_switch
+A_has_9_goto_B_for_switch	C	→		A_has_9_goto_B_for_switch
+A_has_9_goto_B_for_switch	D	→		A_has_9_goto_B_for_switch
+A_has_9_goto_B_for_switch	E	→		A_has_9_goto_B_for_switch
+A_has_9_goto_B_for_switch	F	→		A_has_9_goto_B_for_switch
+A_has_A_goto_B_for_switch	0	→		A_has_A_goto_B_for_switch
+A_has_A_goto_B_for_switch	1	→		A_has_A_goto_B_for_switch
+A_has_A_goto_B_for_switch	2	→		A_has_A_goto_B_for_switch
+A_has_A_goto_B_for_switch	3	→		A_has_A_goto_B_for_switch
+A_has_A_goto_B_for_switch	4	→		A_has_A_goto_B_for_switch
+A_has_A_goto_B_for_switch	5	→		A_has_A_goto_B_for_switch
+A_has_A_goto_B_for_switch	6	→		A_has_A_goto_B_for_switch
+A_has_A_goto_B_for_switch	7	→		A_has_A_goto_B_for_switch
+A_has_A_goto_B_for_switch	8	→		A_has_A_goto_B_for_switch
+A_has_A_goto_B_for_switch	9	→		A_has_A_goto_B_for_switch
+A_has_A_goto_B_for_switch	A	→		A_has_A_goto_B_for_switch
+A_has_A_goto_B_for_switch	B	→		A_has_A_goto_B_for_switch
+A_has_A_goto_B_for_switch	C	→		A_has_A_goto_B_for_switch
+A_has_A_goto_B_for_switch	D	→		A_has_A_goto_B_for_switch
+A_has_A_goto_B_for_switch	E	→		A_has_A_goto_B_for_switch
+A_has_A_goto_B_for_switch	F	→		A_has_A_goto_B_for_switch
+A_has_B_goto_B_for_switch	0	→		A_has_B_goto_B_for_switch
+A_has_B_goto_B_for_switch	1	→		A_has_B_goto_B_for_switch
+A_has_B_goto_B_for_switch	2	→		A_has_B_goto_B_for_switch
+A_has_B_goto_B_for_switch	3	→		A_has_B_goto_B_for_switch
+A_has_B_goto_B_for_switch	4	→		A_has_B_goto_B_for_switch
+A_has_B_goto_B_for_switch	5	→		A_has_B_goto_B_for_switch
+A_has_B_goto_B_for_switch	6	→		A_has_B_goto_B_for_switch
+A_has_B_goto_B_for_switch	7	→		A_has_B_goto_B_for_switch
+A_has_B_goto_B_for_switch	8	→		A_has_B_goto_B_for_switch
+A_has_B_goto_B_for_switch	9	→		A_has_B_goto_B_for_switch
+A_has_B_goto_B_for_switch	A	→		A_has_B_goto_B_for_switch
+A_has_B_goto_B_for_switch	B	→		A_has_B_goto_B_for_switch
+A_has_B_goto_B_for_switch	C	→		A_has_B_goto_B_for_switch
+A_has_B_goto_B_for_switch	D	→		A_has_B_goto_B_for_switch
+A_has_B_goto_B_for_switch	E	→		A_has_B_goto_B_for_switch
+A_has_B_goto_B_for_switch	F	→		A_has_B_goto_B_for_switch
+A_has_C_goto_B_for_switch	0	→		A_has_C_goto_B_for_switch
+A_has_C_goto_B_for_switch	1	→		A_has_C_goto_B_for_switch
+A_has_C_goto_B_for_switch	2	→		A_has_C_goto_B_for_switch
+A_has_C_goto_B_for_switch	3	→		A_has_C_goto_B_for_switch
+A_has_C_goto_B_for_switch	4	→		A_has_C_goto_B_for_switch
+A_has_C_goto_B_for_switch	5	→		A_has_C_goto_B_for_switch
+A_has_C_goto_B_for_switch	6	→		A_has_C_goto_B_for_switch
+A_has_C_goto_B_for_switch	7	→		A_has_C_goto_B_for_switch
+A_has_C_goto_B_for_switch	8	→		A_has_C_goto_B_for_switch
+A_has_C_goto_B_for_switch	9	→		A_has_C_goto_B_for_switch
+A_has_C_goto_B_for_switch	A	→		A_has_C_goto_B_for_switch
+A_has_C_goto_B_for_switch	B	→		A_has_C_goto_B_for_switch
+A_has_C_goto_B_for_switch	C	→		A_has_C_goto_B_for_switch
+A_has_C_goto_B_for_switch	D	→		A_has_C_goto_B_for_switch
+A_has_C_goto_B_for_switch	E	→		A_has_C_goto_B_for_switch
+A_has_C_goto_B_for_switch	F	→		A_has_C_goto_B_for_switch
+A_has_D_goto_B_for_switch	0	→		A_has_D_goto_B_for_switch
+A_has_D_goto_B_for_switch	1	→		A_has_D_goto_B_for_switch
+A_has_D_goto_B_for_switch	2	→		A_has_D_goto_B_for_switch
+A_has_D_goto_B_for_switch	3	→		A_has_D_goto_B_for_switch
+A_has_D_goto_B_for_switch	4	→		A_has_D_goto_B_for_switch
+A_has_D_goto_B_for_switch	5	→		A_has_D_goto_B_for_switch
+A_has_D_goto_B_for_switch	6	→		A_has_D_goto_B_for_switch
+A_has_D_goto_B_for_switch	7	→		A_has_D_goto_B_for_switch
+A_has_D_goto_B_for_switch	8	→		A_has_D_goto_B_for_switch
+A_has_D_goto_B_for_switch	9	→		A_has_D_goto_B_for_switch
+A_has_D_goto_B_for_switch	A	→		A_has_D_goto_B_for_switch
+A_has_D_goto_B_for_switch	B	→		A_has_D_goto_B_for_switch
+A_has_D_goto_B_for_switch	C	→		A_has_D_goto_B_for_switch
+A_has_D_goto_B_for_switch	D	→		A_has_D_goto_B_for_switch
+A_has_D_goto_B_for_switch	E	→		A_has_D_goto_B_for_switch
+A_has_D_goto_B_for_switch	F	→		A_has_D_goto_B_for_switch
+A_has_E_goto_B_for_switch	0	→		A_has_E_goto_B_for_switch
+A_has_E_goto_B_for_switch	1	→		A_has_E_goto_B_for_switch
+A_has_E_goto_B_for_switch	2	→		A_has_E_goto_B_for_switch
+A_has_E_goto_B_for_switch	3	→		A_has_E_goto_B_for_switch
+A_has_E_goto_B_for_switch	4	→		A_has_E_goto_B_for_switch
+A_has_E_goto_B_for_switch	5	→		A_has_E_goto_B_for_switch
+A_has_E_goto_B_for_switch	6	→		A_has_E_goto_B_for_switch
+A_has_E_goto_B_for_switch	7	→		A_has_E_goto_B_for_switch
+A_has_E_goto_B_for_switch	8	→		A_has_E_goto_B_for_switch
+A_has_E_goto_B_for_switch	9	→		A_has_E_goto_B_for_switch
+A_has_E_goto_B_for_switch	A	→		A_has_E_goto_B_for_switch
+A_has_E_goto_B_for_switch	B	→		A_has_E_goto_B_for_switch
+A_has_E_goto_B_for_switch	C	→		A_has_E_goto_B_for_switch
+A_has_E_goto_B_for_switch	D	→		A_has_E_goto_B_for_switch
+A_has_E_goto_B_for_switch	E	→		A_has_E_goto_B_for_switch
+A_has_E_goto_B_for_switch	F	→		A_has_E_goto_B_for_switch
+A_has_F_goto_B_for_switch	0	→		A_has_F_goto_B_for_switch
+A_has_F_goto_B_for_switch	1	→		A_has_F_goto_B_for_switch
+A_has_F_goto_B_for_switch	2	→		A_has_F_goto_B_for_switch
+A_has_F_goto_B_for_switch	3	→		A_has_F_goto_B_for_switch
+A_has_F_goto_B_for_switch	4	→		A_has_F_goto_B_for_switch
+A_has_F_goto_B_for_switch	5	→		A_has_F_goto_B_for_switch
+A_has_F_goto_B_for_switch	6	→		A_has_F_goto_B_for_switch
+A_has_F_goto_B_for_switch	7	→		A_has_F_goto_B_for_switch
+A_has_F_goto_B_for_switch	8	→		A_has_F_goto_B_for_switch
+A_has_F_goto_B_for_switch	9	→		A_has_F_goto_B_for_switch
+A_has_F_goto_B_for_switch	A	→		A_has_F_goto_B_for_switch
+A_has_F_goto_B_for_switch	B	→		A_has_F_goto_B_for_switch
+A_has_F_goto_B_for_switch	C	→		A_has_F_goto_B_for_switch
+A_has_F_goto_B_for_switch	D	→		A_has_F_goto_B_for_switch
+A_has_F_goto_B_for_switch	E	→		A_has_F_goto_B_for_switch
+A_has_F_goto_B_for_switch	F	→		A_has_F_goto_B_for_switch
 A_has_0_goto_B_for_switch	,	→		A_has_0_switch_with_B
 A_has_1_goto_B_for_switch	,	→		A_has_1_switch_with_B
 A_has_2_goto_B_for_switch	,	→		A_has_2_switch_with_B
@@ -1903,262 +1903,262 @@ A_has_C_goto_B_for_switch	,	→		A_has_C_switch_with_B
 A_has_D_goto_B_for_switch	,	→		A_has_D_switch_with_B
 A_has_E_goto_B_for_switch	,	→		A_has_E_switch_with_B
 A_has_F_goto_B_for_switch	,	→		A_has_F_switch_with_B
-A_has_0_switch_with_B	⓪	→		
-A_has_0_switch_with_B	①	→		
-A_has_0_switch_with_B	②	→		
-A_has_0_switch_with_B	③	→		
-A_has_0_switch_with_B	④	→		
-A_has_0_switch_with_B	⑤	→		
-A_has_0_switch_with_B	⑥	→		
-A_has_0_switch_with_B	⑦	→		
-A_has_0_switch_with_B	⑧	→		
-A_has_0_switch_with_B	⑨	→		
-A_has_0_switch_with_B	a	→		
-A_has_0_switch_with_B	b	→		
-A_has_0_switch_with_B	c	→		
-A_has_0_switch_with_B	d	→		
-A_has_0_switch_with_B	e	→		
-A_has_0_switch_with_B	f	→		
-A_has_1_switch_with_B	⓪	→		
-A_has_1_switch_with_B	①	→		
-A_has_1_switch_with_B	②	→		
-A_has_1_switch_with_B	③	→		
-A_has_1_switch_with_B	④	→		
-A_has_1_switch_with_B	⑤	→		
-A_has_1_switch_with_B	⑥	→		
-A_has_1_switch_with_B	⑦	→		
-A_has_1_switch_with_B	⑧	→		
-A_has_1_switch_with_B	⑨	→		
-A_has_1_switch_with_B	a	→		
-A_has_1_switch_with_B	b	→		
-A_has_1_switch_with_B	c	→		
-A_has_1_switch_with_B	d	→		
-A_has_1_switch_with_B	e	→		
-A_has_1_switch_with_B	f	→		
-A_has_2_switch_with_B	⓪	→		
-A_has_2_switch_with_B	①	→		
-A_has_2_switch_with_B	②	→		
-A_has_2_switch_with_B	③	→		
-A_has_2_switch_with_B	④	→		
-A_has_2_switch_with_B	⑤	→		
-A_has_2_switch_with_B	⑥	→		
-A_has_2_switch_with_B	⑦	→		
-A_has_2_switch_with_B	⑧	→		
-A_has_2_switch_with_B	⑨	→		
-A_has_2_switch_with_B	a	→		
-A_has_2_switch_with_B	b	→		
-A_has_2_switch_with_B	c	→		
-A_has_2_switch_with_B	d	→		
-A_has_2_switch_with_B	e	→		
-A_has_2_switch_with_B	f	→		
-A_has_3_switch_with_B	⓪	→		
-A_has_3_switch_with_B	①	→		
-A_has_3_switch_with_B	②	→		
-A_has_3_switch_with_B	③	→		
-A_has_3_switch_with_B	④	→		
-A_has_3_switch_with_B	⑤	→		
-A_has_3_switch_with_B	⑥	→		
-A_has_3_switch_with_B	⑦	→		
-A_has_3_switch_with_B	⑧	→		
-A_has_3_switch_with_B	⑨	→		
-A_has_3_switch_with_B	a	→		
-A_has_3_switch_with_B	b	→		
-A_has_3_switch_with_B	c	→		
-A_has_3_switch_with_B	d	→		
-A_has_3_switch_with_B	e	→		
-A_has_3_switch_with_B	f	→		
-A_has_4_switch_with_B	⓪	→		
-A_has_4_switch_with_B	①	→		
-A_has_4_switch_with_B	②	→		
-A_has_4_switch_with_B	③	→		
-A_has_4_switch_with_B	④	→		
-A_has_4_switch_with_B	⑤	→		
-A_has_4_switch_with_B	⑥	→		
-A_has_4_switch_with_B	⑦	→		
-A_has_4_switch_with_B	⑧	→		
-A_has_4_switch_with_B	⑨	→		
-A_has_4_switch_with_B	a	→		
-A_has_4_switch_with_B	b	→		
-A_has_4_switch_with_B	c	→		
-A_has_4_switch_with_B	d	→		
-A_has_4_switch_with_B	e	→		
-A_has_4_switch_with_B	f	→		
-A_has_5_switch_with_B	⓪	→		
-A_has_5_switch_with_B	①	→		
-A_has_5_switch_with_B	②	→		
-A_has_5_switch_with_B	③	→		
-A_has_5_switch_with_B	④	→		
-A_has_5_switch_with_B	⑤	→		
-A_has_5_switch_with_B	⑥	→		
-A_has_5_switch_with_B	⑦	→		
-A_has_5_switch_with_B	⑧	→		
-A_has_5_switch_with_B	⑨	→		
-A_has_5_switch_with_B	a	→		
-A_has_5_switch_with_B	b	→		
-A_has_5_switch_with_B	c	→		
-A_has_5_switch_with_B	d	→		
-A_has_5_switch_with_B	e	→		
-A_has_5_switch_with_B	f	→		
-A_has_6_switch_with_B	⓪	→		
-A_has_6_switch_with_B	①	→		
-A_has_6_switch_with_B	②	→		
-A_has_6_switch_with_B	③	→		
-A_has_6_switch_with_B	④	→		
-A_has_6_switch_with_B	⑤	→		
-A_has_6_switch_with_B	⑥	→		
-A_has_6_switch_with_B	⑦	→		
-A_has_6_switch_with_B	⑧	→		
-A_has_6_switch_with_B	⑨	→		
-A_has_6_switch_with_B	a	→		
-A_has_6_switch_with_B	b	→		
-A_has_6_switch_with_B	c	→		
-A_has_6_switch_with_B	d	→		
-A_has_6_switch_with_B	e	→		
-A_has_6_switch_with_B	f	→		
-A_has_7_switch_with_B	⓪	→		
-A_has_7_switch_with_B	①	→		
-A_has_7_switch_with_B	②	→		
-A_has_7_switch_with_B	③	→		
-A_has_7_switch_with_B	④	→		
-A_has_7_switch_with_B	⑤	→		
-A_has_7_switch_with_B	⑥	→		
-A_has_7_switch_with_B	⑦	→		
-A_has_7_switch_with_B	⑧	→		
-A_has_7_switch_with_B	⑨	→		
-A_has_7_switch_with_B	a	→		
-A_has_7_switch_with_B	b	→		
-A_has_7_switch_with_B	c	→		
-A_has_7_switch_with_B	d	→		
-A_has_7_switch_with_B	e	→		
-A_has_7_switch_with_B	f	→		
-A_has_8_switch_with_B	⓪	→		
-A_has_8_switch_with_B	①	→		
-A_has_8_switch_with_B	②	→		
-A_has_8_switch_with_B	③	→		
-A_has_8_switch_with_B	④	→		
-A_has_8_switch_with_B	⑤	→		
-A_has_8_switch_with_B	⑥	→		
-A_has_8_switch_with_B	⑦	→		
-A_has_8_switch_with_B	⑧	→		
-A_has_8_switch_with_B	⑨	→		
-A_has_8_switch_with_B	a	→		
-A_has_8_switch_with_B	b	→		
-A_has_8_switch_with_B	c	→		
-A_has_8_switch_with_B	d	→		
-A_has_8_switch_with_B	e	→		
-A_has_8_switch_with_B	f	→		
-A_has_9_switch_with_B	⓪	→		
-A_has_9_switch_with_B	①	→		
-A_has_9_switch_with_B	②	→		
-A_has_9_switch_with_B	③	→		
-A_has_9_switch_with_B	④	→		
-A_has_9_switch_with_B	⑤	→		
-A_has_9_switch_with_B	⑥	→		
-A_has_9_switch_with_B	⑦	→		
-A_has_9_switch_with_B	⑧	→		
-A_has_9_switch_with_B	⑨	→		
-A_has_9_switch_with_B	a	→		
-A_has_9_switch_with_B	b	→		
-A_has_9_switch_with_B	c	→		
-A_has_9_switch_with_B	d	→		
-A_has_9_switch_with_B	e	→		
-A_has_9_switch_with_B	f	→		
-A_has_A_switch_with_B	⓪	→		
-A_has_A_switch_with_B	①	→		
-A_has_A_switch_with_B	②	→		
-A_has_A_switch_with_B	③	→		
-A_has_A_switch_with_B	④	→		
-A_has_A_switch_with_B	⑤	→		
-A_has_A_switch_with_B	⑥	→		
-A_has_A_switch_with_B	⑦	→		
-A_has_A_switch_with_B	⑧	→		
-A_has_A_switch_with_B	⑨	→		
-A_has_A_switch_with_B	a	→		
-A_has_A_switch_with_B	b	→		
-A_has_A_switch_with_B	c	→		
-A_has_A_switch_with_B	d	→		
-A_has_A_switch_with_B	e	→		
-A_has_A_switch_with_B	f	→		
-A_has_B_switch_with_B	⓪	→		
-A_has_B_switch_with_B	①	→		
-A_has_B_switch_with_B	②	→		
-A_has_B_switch_with_B	③	→		
-A_has_B_switch_with_B	④	→		
-A_has_B_switch_with_B	⑤	→		
-A_has_B_switch_with_B	⑥	→		
-A_has_B_switch_with_B	⑦	→		
-A_has_B_switch_with_B	⑧	→		
-A_has_B_switch_with_B	⑨	→		
-A_has_B_switch_with_B	a	→		
-A_has_B_switch_with_B	b	→		
-A_has_B_switch_with_B	c	→		
-A_has_B_switch_with_B	d	→		
-A_has_B_switch_with_B	e	→		
-A_has_B_switch_with_B	f	→		
-A_has_C_switch_with_B	⓪	→		
-A_has_C_switch_with_B	①	→		
-A_has_C_switch_with_B	②	→		
-A_has_C_switch_with_B	③	→		
-A_has_C_switch_with_B	④	→		
-A_has_C_switch_with_B	⑤	→		
-A_has_C_switch_with_B	⑥	→		
-A_has_C_switch_with_B	⑦	→		
-A_has_C_switch_with_B	⑧	→		
-A_has_C_switch_with_B	⑨	→		
-A_has_C_switch_with_B	a	→		
-A_has_C_switch_with_B	b	→		
-A_has_C_switch_with_B	c	→		
-A_has_C_switch_with_B	d	→		
-A_has_C_switch_with_B	e	→		
-A_has_C_switch_with_B	f	→		
-A_has_D_switch_with_B	⓪	→		
-A_has_D_switch_with_B	①	→		
-A_has_D_switch_with_B	②	→		
-A_has_D_switch_with_B	③	→		
-A_has_D_switch_with_B	④	→		
-A_has_D_switch_with_B	⑤	→		
-A_has_D_switch_with_B	⑥	→		
-A_has_D_switch_with_B	⑦	→		
-A_has_D_switch_with_B	⑧	→		
-A_has_D_switch_with_B	⑨	→		
-A_has_D_switch_with_B	a	→		
-A_has_D_switch_with_B	b	→		
-A_has_D_switch_with_B	c	→		
-A_has_D_switch_with_B	d	→		
-A_has_D_switch_with_B	e	→		
-A_has_D_switch_with_B	f	→		
-A_has_E_switch_with_B	⓪	→		
-A_has_E_switch_with_B	①	→		
-A_has_E_switch_with_B	②	→		
-A_has_E_switch_with_B	③	→		
-A_has_E_switch_with_B	④	→		
-A_has_E_switch_with_B	⑤	→		
-A_has_E_switch_with_B	⑥	→		
-A_has_E_switch_with_B	⑦	→		
-A_has_E_switch_with_B	⑧	→		
-A_has_E_switch_with_B	⑨	→		
-A_has_E_switch_with_B	a	→		
-A_has_E_switch_with_B	b	→		
-A_has_E_switch_with_B	c	→		
-A_has_E_switch_with_B	d	→		
-A_has_E_switch_with_B	e	→		
-A_has_E_switch_with_B	f	→		
-A_has_F_switch_with_B	⓪	→		
-A_has_F_switch_with_B	①	→		
-A_has_F_switch_with_B	②	→		
-A_has_F_switch_with_B	③	→		
-A_has_F_switch_with_B	④	→		
-A_has_F_switch_with_B	⑤	→		
-A_has_F_switch_with_B	⑥	→		
-A_has_F_switch_with_B	⑦	→		
-A_has_F_switch_with_B	⑧	→		
-A_has_F_switch_with_B	⑨	→		
-A_has_F_switch_with_B	a	→		
-A_has_F_switch_with_B	b	→		
-A_has_F_switch_with_B	c	→		
-A_has_F_switch_with_B	d	→		
-A_has_F_switch_with_B	e	→		
-A_has_F_switch_with_B	f	→		
+A_has_0_switch_with_B	⓪	→		A_has_0_switch_with_B
+A_has_0_switch_with_B	①	→		A_has_0_switch_with_B
+A_has_0_switch_with_B	②	→		A_has_0_switch_with_B
+A_has_0_switch_with_B	③	→		A_has_0_switch_with_B
+A_has_0_switch_with_B	④	→		A_has_0_switch_with_B
+A_has_0_switch_with_B	⑤	→		A_has_0_switch_with_B
+A_has_0_switch_with_B	⑥	→		A_has_0_switch_with_B
+A_has_0_switch_with_B	⑦	→		A_has_0_switch_with_B
+A_has_0_switch_with_B	⑧	→		A_has_0_switch_with_B
+A_has_0_switch_with_B	⑨	→		A_has_0_switch_with_B
+A_has_0_switch_with_B	a	→		A_has_0_switch_with_B
+A_has_0_switch_with_B	b	→		A_has_0_switch_with_B
+A_has_0_switch_with_B	c	→		A_has_0_switch_with_B
+A_has_0_switch_with_B	d	→		A_has_0_switch_with_B
+A_has_0_switch_with_B	e	→		A_has_0_switch_with_B
+A_has_0_switch_with_B	f	→		A_has_0_switch_with_B
+A_has_1_switch_with_B	⓪	→		A_has_1_switch_with_B
+A_has_1_switch_with_B	①	→		A_has_1_switch_with_B
+A_has_1_switch_with_B	②	→		A_has_1_switch_with_B
+A_has_1_switch_with_B	③	→		A_has_1_switch_with_B
+A_has_1_switch_with_B	④	→		A_has_1_switch_with_B
+A_has_1_switch_with_B	⑤	→		A_has_1_switch_with_B
+A_has_1_switch_with_B	⑥	→		A_has_1_switch_with_B
+A_has_1_switch_with_B	⑦	→		A_has_1_switch_with_B
+A_has_1_switch_with_B	⑧	→		A_has_1_switch_with_B
+A_has_1_switch_with_B	⑨	→		A_has_1_switch_with_B
+A_has_1_switch_with_B	a	→		A_has_1_switch_with_B
+A_has_1_switch_with_B	b	→		A_has_1_switch_with_B
+A_has_1_switch_with_B	c	→		A_has_1_switch_with_B
+A_has_1_switch_with_B	d	→		A_has_1_switch_with_B
+A_has_1_switch_with_B	e	→		A_has_1_switch_with_B
+A_has_1_switch_with_B	f	→		A_has_1_switch_with_B
+A_has_2_switch_with_B	⓪	→		A_has_2_switch_with_B
+A_has_2_switch_with_B	①	→		A_has_2_switch_with_B
+A_has_2_switch_with_B	②	→		A_has_2_switch_with_B
+A_has_2_switch_with_B	③	→		A_has_2_switch_with_B
+A_has_2_switch_with_B	④	→		A_has_2_switch_with_B
+A_has_2_switch_with_B	⑤	→		A_has_2_switch_with_B
+A_has_2_switch_with_B	⑥	→		A_has_2_switch_with_B
+A_has_2_switch_with_B	⑦	→		A_has_2_switch_with_B
+A_has_2_switch_with_B	⑧	→		A_has_2_switch_with_B
+A_has_2_switch_with_B	⑨	→		A_has_2_switch_with_B
+A_has_2_switch_with_B	a	→		A_has_2_switch_with_B
+A_has_2_switch_with_B	b	→		A_has_2_switch_with_B
+A_has_2_switch_with_B	c	→		A_has_2_switch_with_B
+A_has_2_switch_with_B	d	→		A_has_2_switch_with_B
+A_has_2_switch_with_B	e	→		A_has_2_switch_with_B
+A_has_2_switch_with_B	f	→		A_has_2_switch_with_B
+A_has_3_switch_with_B	⓪	→		A_has_3_switch_with_B
+A_has_3_switch_with_B	①	→		A_has_3_switch_with_B
+A_has_3_switch_with_B	②	→		A_has_3_switch_with_B
+A_has_3_switch_with_B	③	→		A_has_3_switch_with_B
+A_has_3_switch_with_B	④	→		A_has_3_switch_with_B
+A_has_3_switch_with_B	⑤	→		A_has_3_switch_with_B
+A_has_3_switch_with_B	⑥	→		A_has_3_switch_with_B
+A_has_3_switch_with_B	⑦	→		A_has_3_switch_with_B
+A_has_3_switch_with_B	⑧	→		A_has_3_switch_with_B
+A_has_3_switch_with_B	⑨	→		A_has_3_switch_with_B
+A_has_3_switch_with_B	a	→		A_has_3_switch_with_B
+A_has_3_switch_with_B	b	→		A_has_3_switch_with_B
+A_has_3_switch_with_B	c	→		A_has_3_switch_with_B
+A_has_3_switch_with_B	d	→		A_has_3_switch_with_B
+A_has_3_switch_with_B	e	→		A_has_3_switch_with_B
+A_has_3_switch_with_B	f	→		A_has_3_switch_with_B
+A_has_4_switch_with_B	⓪	→		A_has_4_switch_with_B
+A_has_4_switch_with_B	①	→		A_has_4_switch_with_B
+A_has_4_switch_with_B	②	→		A_has_4_switch_with_B
+A_has_4_switch_with_B	③	→		A_has_4_switch_with_B
+A_has_4_switch_with_B	④	→		A_has_4_switch_with_B
+A_has_4_switch_with_B	⑤	→		A_has_4_switch_with_B
+A_has_4_switch_with_B	⑥	→		A_has_4_switch_with_B
+A_has_4_switch_with_B	⑦	→		A_has_4_switch_with_B
+A_has_4_switch_with_B	⑧	→		A_has_4_switch_with_B
+A_has_4_switch_with_B	⑨	→		A_has_4_switch_with_B
+A_has_4_switch_with_B	a	→		A_has_4_switch_with_B
+A_has_4_switch_with_B	b	→		A_has_4_switch_with_B
+A_has_4_switch_with_B	c	→		A_has_4_switch_with_B
+A_has_4_switch_with_B	d	→		A_has_4_switch_with_B
+A_has_4_switch_with_B	e	→		A_has_4_switch_with_B
+A_has_4_switch_with_B	f	→		A_has_4_switch_with_B
+A_has_5_switch_with_B	⓪	→		A_has_5_switch_with_B
+A_has_5_switch_with_B	①	→		A_has_5_switch_with_B
+A_has_5_switch_with_B	②	→		A_has_5_switch_with_B
+A_has_5_switch_with_B	③	→		A_has_5_switch_with_B
+A_has_5_switch_with_B	④	→		A_has_5_switch_with_B
+A_has_5_switch_with_B	⑤	→		A_has_5_switch_with_B
+A_has_5_switch_with_B	⑥	→		A_has_5_switch_with_B
+A_has_5_switch_with_B	⑦	→		A_has_5_switch_with_B
+A_has_5_switch_with_B	⑧	→		A_has_5_switch_with_B
+A_has_5_switch_with_B	⑨	→		A_has_5_switch_with_B
+A_has_5_switch_with_B	a	→		A_has_5_switch_with_B
+A_has_5_switch_with_B	b	→		A_has_5_switch_with_B
+A_has_5_switch_with_B	c	→		A_has_5_switch_with_B
+A_has_5_switch_with_B	d	→		A_has_5_switch_with_B
+A_has_5_switch_with_B	e	→		A_has_5_switch_with_B
+A_has_5_switch_with_B	f	→		A_has_5_switch_with_B
+A_has_6_switch_with_B	⓪	→		A_has_6_switch_with_B
+A_has_6_switch_with_B	①	→		A_has_6_switch_with_B
+A_has_6_switch_with_B	②	→		A_has_6_switch_with_B
+A_has_6_switch_with_B	③	→		A_has_6_switch_with_B
+A_has_6_switch_with_B	④	→		A_has_6_switch_with_B
+A_has_6_switch_with_B	⑤	→		A_has_6_switch_with_B
+A_has_6_switch_with_B	⑥	→		A_has_6_switch_with_B
+A_has_6_switch_with_B	⑦	→		A_has_6_switch_with_B
+A_has_6_switch_with_B	⑧	→		A_has_6_switch_with_B
+A_has_6_switch_with_B	⑨	→		A_has_6_switch_with_B
+A_has_6_switch_with_B	a	→		A_has_6_switch_with_B
+A_has_6_switch_with_B	b	→		A_has_6_switch_with_B
+A_has_6_switch_with_B	c	→		A_has_6_switch_with_B
+A_has_6_switch_with_B	d	→		A_has_6_switch_with_B
+A_has_6_switch_with_B	e	→		A_has_6_switch_with_B
+A_has_6_switch_with_B	f	→		A_has_6_switch_with_B
+A_has_7_switch_with_B	⓪	→		A_has_7_switch_with_B
+A_has_7_switch_with_B	①	→		A_has_7_switch_with_B
+A_has_7_switch_with_B	②	→		A_has_7_switch_with_B
+A_has_7_switch_with_B	③	→		A_has_7_switch_with_B
+A_has_7_switch_with_B	④	→		A_has_7_switch_with_B
+A_has_7_switch_with_B	⑤	→		A_has_7_switch_with_B
+A_has_7_switch_with_B	⑥	→		A_has_7_switch_with_B
+A_has_7_switch_with_B	⑦	→		A_has_7_switch_with_B
+A_has_7_switch_with_B	⑧	→		A_has_7_switch_with_B
+A_has_7_switch_with_B	⑨	→		A_has_7_switch_with_B
+A_has_7_switch_with_B	a	→		A_has_7_switch_with_B
+A_has_7_switch_with_B	b	→		A_has_7_switch_with_B
+A_has_7_switch_with_B	c	→		A_has_7_switch_with_B
+A_has_7_switch_with_B	d	→		A_has_7_switch_with_B
+A_has_7_switch_with_B	e	→		A_has_7_switch_with_B
+A_has_7_switch_with_B	f	→		A_has_7_switch_with_B
+A_has_8_switch_with_B	⓪	→		A_has_8_switch_with_B
+A_has_8_switch_with_B	①	→		A_has_8_switch_with_B
+A_has_8_switch_with_B	②	→		A_has_8_switch_with_B
+A_has_8_switch_with_B	③	→		A_has_8_switch_with_B
+A_has_8_switch_with_B	④	→		A_has_8_switch_with_B
+A_has_8_switch_with_B	⑤	→		A_has_8_switch_with_B
+A_has_8_switch_with_B	⑥	→		A_has_8_switch_with_B
+A_has_8_switch_with_B	⑦	→		A_has_8_switch_with_B
+A_has_8_switch_with_B	⑧	→		A_has_8_switch_with_B
+A_has_8_switch_with_B	⑨	→		A_has_8_switch_with_B
+A_has_8_switch_with_B	a	→		A_has_8_switch_with_B
+A_has_8_switch_with_B	b	→		A_has_8_switch_with_B
+A_has_8_switch_with_B	c	→		A_has_8_switch_with_B
+A_has_8_switch_with_B	d	→		A_has_8_switch_with_B
+A_has_8_switch_with_B	e	→		A_has_8_switch_with_B
+A_has_8_switch_with_B	f	→		A_has_8_switch_with_B
+A_has_9_switch_with_B	⓪	→		A_has_9_switch_with_B
+A_has_9_switch_with_B	①	→		A_has_9_switch_with_B
+A_has_9_switch_with_B	②	→		A_has_9_switch_with_B
+A_has_9_switch_with_B	③	→		A_has_9_switch_with_B
+A_has_9_switch_with_B	④	→		A_has_9_switch_with_B
+A_has_9_switch_with_B	⑤	→		A_has_9_switch_with_B
+A_has_9_switch_with_B	⑥	→		A_has_9_switch_with_B
+A_has_9_switch_with_B	⑦	→		A_has_9_switch_with_B
+A_has_9_switch_with_B	⑧	→		A_has_9_switch_with_B
+A_has_9_switch_with_B	⑨	→		A_has_9_switch_with_B
+A_has_9_switch_with_B	a	→		A_has_9_switch_with_B
+A_has_9_switch_with_B	b	→		A_has_9_switch_with_B
+A_has_9_switch_with_B	c	→		A_has_9_switch_with_B
+A_has_9_switch_with_B	d	→		A_has_9_switch_with_B
+A_has_9_switch_with_B	e	→		A_has_9_switch_with_B
+A_has_9_switch_with_B	f	→		A_has_9_switch_with_B
+A_has_A_switch_with_B	⓪	→		A_has_A_switch_with_B
+A_has_A_switch_with_B	①	→		A_has_A_switch_with_B
+A_has_A_switch_with_B	②	→		A_has_A_switch_with_B
+A_has_A_switch_with_B	③	→		A_has_A_switch_with_B
+A_has_A_switch_with_B	④	→		A_has_A_switch_with_B
+A_has_A_switch_with_B	⑤	→		A_has_A_switch_with_B
+A_has_A_switch_with_B	⑥	→		A_has_A_switch_with_B
+A_has_A_switch_with_B	⑦	→		A_has_A_switch_with_B
+A_has_A_switch_with_B	⑧	→		A_has_A_switch_with_B
+A_has_A_switch_with_B	⑨	→		A_has_A_switch_with_B
+A_has_A_switch_with_B	a	→		A_has_A_switch_with_B
+A_has_A_switch_with_B	b	→		A_has_A_switch_with_B
+A_has_A_switch_with_B	c	→		A_has_A_switch_with_B
+A_has_A_switch_with_B	d	→		A_has_A_switch_with_B
+A_has_A_switch_with_B	e	→		A_has_A_switch_with_B
+A_has_A_switch_with_B	f	→		A_has_A_switch_with_B
+A_has_B_switch_with_B	⓪	→		A_has_B_switch_with_B
+A_has_B_switch_with_B	①	→		A_has_B_switch_with_B
+A_has_B_switch_with_B	②	→		A_has_B_switch_with_B
+A_has_B_switch_with_B	③	→		A_has_B_switch_with_B
+A_has_B_switch_with_B	④	→		A_has_B_switch_with_B
+A_has_B_switch_with_B	⑤	→		A_has_B_switch_with_B
+A_has_B_switch_with_B	⑥	→		A_has_B_switch_with_B
+A_has_B_switch_with_B	⑦	→		A_has_B_switch_with_B
+A_has_B_switch_with_B	⑧	→		A_has_B_switch_with_B
+A_has_B_switch_with_B	⑨	→		A_has_B_switch_with_B
+A_has_B_switch_with_B	a	→		A_has_B_switch_with_B
+A_has_B_switch_with_B	b	→		A_has_B_switch_with_B
+A_has_B_switch_with_B	c	→		A_has_B_switch_with_B
+A_has_B_switch_with_B	d	→		A_has_B_switch_with_B
+A_has_B_switch_with_B	e	→		A_has_B_switch_with_B
+A_has_B_switch_with_B	f	→		A_has_B_switch_with_B
+A_has_C_switch_with_B	⓪	→		A_has_C_switch_with_B
+A_has_C_switch_with_B	①	→		A_has_C_switch_with_B
+A_has_C_switch_with_B	②	→		A_has_C_switch_with_B
+A_has_C_switch_with_B	③	→		A_has_C_switch_with_B
+A_has_C_switch_with_B	④	→		A_has_C_switch_with_B
+A_has_C_switch_with_B	⑤	→		A_has_C_switch_with_B
+A_has_C_switch_with_B	⑥	→		A_has_C_switch_with_B
+A_has_C_switch_with_B	⑦	→		A_has_C_switch_with_B
+A_has_C_switch_with_B	⑧	→		A_has_C_switch_with_B
+A_has_C_switch_with_B	⑨	→		A_has_C_switch_with_B
+A_has_C_switch_with_B	a	→		A_has_C_switch_with_B
+A_has_C_switch_with_B	b	→		A_has_C_switch_with_B
+A_has_C_switch_with_B	c	→		A_has_C_switch_with_B
+A_has_C_switch_with_B	d	→		A_has_C_switch_with_B
+A_has_C_switch_with_B	e	→		A_has_C_switch_with_B
+A_has_C_switch_with_B	f	→		A_has_C_switch_with_B
+A_has_D_switch_with_B	⓪	→		A_has_D_switch_with_B
+A_has_D_switch_with_B	①	→		A_has_D_switch_with_B
+A_has_D_switch_with_B	②	→		A_has_D_switch_with_B
+A_has_D_switch_with_B	③	→		A_has_D_switch_with_B
+A_has_D_switch_with_B	④	→		A_has_D_switch_with_B
+A_has_D_switch_with_B	⑤	→		A_has_D_switch_with_B
+A_has_D_switch_with_B	⑥	→		A_has_D_switch_with_B
+A_has_D_switch_with_B	⑦	→		A_has_D_switch_with_B
+A_has_D_switch_with_B	⑧	→		A_has_D_switch_with_B
+A_has_D_switch_with_B	⑨	→		A_has_D_switch_with_B
+A_has_D_switch_with_B	a	→		A_has_D_switch_with_B
+A_has_D_switch_with_B	b	→		A_has_D_switch_with_B
+A_has_D_switch_with_B	c	→		A_has_D_switch_with_B
+A_has_D_switch_with_B	d	→		A_has_D_switch_with_B
+A_has_D_switch_with_B	e	→		A_has_D_switch_with_B
+A_has_D_switch_with_B	f	→		A_has_D_switch_with_B
+A_has_E_switch_with_B	⓪	→		A_has_E_switch_with_B
+A_has_E_switch_with_B	①	→		A_has_E_switch_with_B
+A_has_E_switch_with_B	②	→		A_has_E_switch_with_B
+A_has_E_switch_with_B	③	→		A_has_E_switch_with_B
+A_has_E_switch_with_B	④	→		A_has_E_switch_with_B
+A_has_E_switch_with_B	⑤	→		A_has_E_switch_with_B
+A_has_E_switch_with_B	⑥	→		A_has_E_switch_with_B
+A_has_E_switch_with_B	⑦	→		A_has_E_switch_with_B
+A_has_E_switch_with_B	⑧	→		A_has_E_switch_with_B
+A_has_E_switch_with_B	⑨	→		A_has_E_switch_with_B
+A_has_E_switch_with_B	a	→		A_has_E_switch_with_B
+A_has_E_switch_with_B	b	→		A_has_E_switch_with_B
+A_has_E_switch_with_B	c	→		A_has_E_switch_with_B
+A_has_E_switch_with_B	d	→		A_has_E_switch_with_B
+A_has_E_switch_with_B	e	→		A_has_E_switch_with_B
+A_has_E_switch_with_B	f	→		A_has_E_switch_with_B
+A_has_F_switch_with_B	⓪	→		A_has_F_switch_with_B
+A_has_F_switch_with_B	①	→		A_has_F_switch_with_B
+A_has_F_switch_with_B	②	→		A_has_F_switch_with_B
+A_has_F_switch_with_B	③	→		A_has_F_switch_with_B
+A_has_F_switch_with_B	④	→		A_has_F_switch_with_B
+A_has_F_switch_with_B	⑤	→		A_has_F_switch_with_B
+A_has_F_switch_with_B	⑥	→		A_has_F_switch_with_B
+A_has_F_switch_with_B	⑦	→		A_has_F_switch_with_B
+A_has_F_switch_with_B	⑧	→		A_has_F_switch_with_B
+A_has_F_switch_with_B	⑨	→		A_has_F_switch_with_B
+A_has_F_switch_with_B	a	→		A_has_F_switch_with_B
+A_has_F_switch_with_B	b	→		A_has_F_switch_with_B
+A_has_F_switch_with_B	c	→		A_has_F_switch_with_B
+A_has_F_switch_with_B	d	→		A_has_F_switch_with_B
+A_has_F_switch_with_B	e	→		A_has_F_switch_with_B
+A_has_F_switch_with_B	f	→		A_has_F_switch_with_B
 A_has_0_switch_with_B	0	→	⓪	B_has_0_goto_A_for_switch
 A_has_0_switch_with_B	1	→	⓪	B_has_0_goto_A_for_switch
 A_has_0_switch_with_B	2	→	⓪	B_has_0_goto_A_for_switch
@@ -2415,107 +2415,107 @@ A_has_F_switch_with_B	C	→	f	B_has_F_goto_A_for_switch
 A_has_F_switch_with_B	D	→	f	B_has_F_goto_A_for_switch
 A_has_F_switch_with_B	E	→	f	B_has_F_goto_A_for_switch
 A_has_F_switch_with_B	F	→	f	B_has_F_goto_A_for_switch
-B_rightleft_clean	⓪	←	0	
-B_rightleft_clean	①	←	1	
-B_rightleft_clean	②	←	2	
-B_rightleft_clean	③	←	3	
-B_rightleft_clean	④	←	4	
-B_rightleft_clean	⑤	←	5	
-B_rightleft_clean	⑥	←	6	
-B_rightleft_clean	⑦	←	7	
-B_rightleft_clean	⑧	←	8	
-B_rightleft_clean	⑨	←	9	
-B_rightleft_clean	a	←	A	
-B_rightleft_clean	b	←	B	
-B_rightleft_clean	c	←	C	
-B_rightleft_clean	d	←	D	
-B_rightleft_clean	e	←	E	
-B_rightleft_clean	f	←	F	
+B_rightleft_clean	⓪	←	0	B_rightleft_clean
+B_rightleft_clean	①	←	1	B_rightleft_clean
+B_rightleft_clean	②	←	2	B_rightleft_clean
+B_rightleft_clean	③	←	3	B_rightleft_clean
+B_rightleft_clean	④	←	4	B_rightleft_clean
+B_rightleft_clean	⑤	←	5	B_rightleft_clean
+B_rightleft_clean	⑥	←	6	B_rightleft_clean
+B_rightleft_clean	⑦	←	7	B_rightleft_clean
+B_rightleft_clean	⑧	←	8	B_rightleft_clean
+B_rightleft_clean	⑨	←	9	B_rightleft_clean
+B_rightleft_clean	a	←	A	B_rightleft_clean
+B_rightleft_clean	b	←	B	B_rightleft_clean
+B_rightleft_clean	c	←	C	B_rightleft_clean
+B_rightleft_clean	d	←	D	B_rightleft_clean
+B_rightleft_clean	e	←	E	B_rightleft_clean
+B_rightleft_clean	f	←	F	B_rightleft_clean
 B_rightleft_clean	,	←	F	A_rightleft_clean
-A_rightleft_clean	0	←		
-A_rightleft_clean	1	←		
-A_rightleft_clean	2	←		
-A_rightleft_clean	3	←		
-A_rightleft_clean	4	←		
-A_rightleft_clean	5	←		
-A_rightleft_clean	6	←		
-A_rightleft_clean	7	←		
-A_rightleft_clean	8	←		
-A_rightleft_clean	9	←		
-A_rightleft_clean	A	←		
-A_rightleft_clean	B	←		
-A_rightleft_clean	C	←		
-A_rightleft_clean	D	←		
-A_rightleft_clean	E	←		
-A_rightleft_clean	F	←		
-A_rightleft_clean	⓪	←	0	
-A_rightleft_clean	①	←	1	
-A_rightleft_clean	②	←	2	
-A_rightleft_clean	③	←	3	
-A_rightleft_clean	④	←	4	
-A_rightleft_clean	⑤	←	5	
-A_rightleft_clean	⑥	←	6	
-A_rightleft_clean	⑦	←	7	
-A_rightleft_clean	⑧	←	8	
-A_rightleft_clean	⑨	←	9	
-A_rightleft_clean	a	←	A	
-A_rightleft_clean	b	←	B	
-A_rightleft_clean	c	←	C	
-A_rightleft_clean	d	←	D	
-A_rightleft_clean	e	←	E	
-A_rightleft_clean	f	←	F	
+A_rightleft_clean	0	←		A_rightleft_clean
+A_rightleft_clean	1	←		A_rightleft_clean
+A_rightleft_clean	2	←		A_rightleft_clean
+A_rightleft_clean	3	←		A_rightleft_clean
+A_rightleft_clean	4	←		A_rightleft_clean
+A_rightleft_clean	5	←		A_rightleft_clean
+A_rightleft_clean	6	←		A_rightleft_clean
+A_rightleft_clean	7	←		A_rightleft_clean
+A_rightleft_clean	8	←		A_rightleft_clean
+A_rightleft_clean	9	←		A_rightleft_clean
+A_rightleft_clean	A	←		A_rightleft_clean
+A_rightleft_clean	B	←		A_rightleft_clean
+A_rightleft_clean	C	←		A_rightleft_clean
+A_rightleft_clean	D	←		A_rightleft_clean
+A_rightleft_clean	E	←		A_rightleft_clean
+A_rightleft_clean	F	←		A_rightleft_clean
+A_rightleft_clean	⓪	←	0	A_rightleft_clean
+A_rightleft_clean	①	←	1	A_rightleft_clean
+A_rightleft_clean	②	←	2	A_rightleft_clean
+A_rightleft_clean	③	←	3	A_rightleft_clean
+A_rightleft_clean	④	←	4	A_rightleft_clean
+A_rightleft_clean	⑤	←	5	A_rightleft_clean
+A_rightleft_clean	⑥	←	6	A_rightleft_clean
+A_rightleft_clean	⑦	←	7	A_rightleft_clean
+A_rightleft_clean	⑧	←	8	A_rightleft_clean
+A_rightleft_clean	⑨	←	9	A_rightleft_clean
+A_rightleft_clean	a	←	A	A_rightleft_clean
+A_rightleft_clean	b	←	B	A_rightleft_clean
+A_rightleft_clean	c	←	C	A_rightleft_clean
+A_rightleft_clean	d	←	D	A_rightleft_clean
+A_rightleft_clean	e	←	E	A_rightleft_clean
+A_rightleft_clean	f	←	F	A_rightleft_clean
 A_rightleft_clean	[	→	F	A_goto_B_for_new_comparison
 A_rightleft_clean	,	→	F	A_goto_B_for_new_comparison
-A_goto_B_for_new_comparison	0	→		
-A_goto_B_for_new_comparison	1	→		
-A_goto_B_for_new_comparison	2	→		
-A_goto_B_for_new_comparison	3	→		
-A_goto_B_for_new_comparison	4	→		
-A_goto_B_for_new_comparison	5	→		
-A_goto_B_for_new_comparison	6	→		
-A_goto_B_for_new_comparison	7	→		
-A_goto_B_for_new_comparison	8	→		
-A_goto_B_for_new_comparison	9	→		
-A_goto_B_for_new_comparison	A	→		
-A_goto_B_for_new_comparison	B	→		
-A_goto_B_for_new_comparison	C	→		
-A_goto_B_for_new_comparison	D	→		
-A_goto_B_for_new_comparison	E	→		
-A_goto_B_for_new_comparison	F	→		
-A_goto_B_for_new_comparison	,	→		
-B_goto_A_for_comparison	⓪	←		
-B_goto_A_for_comparison	①	←		
-B_goto_A_for_comparison	②	←		
-B_goto_A_for_comparison	③	←		
-B_goto_A_for_comparison	④	←		
-B_goto_A_for_comparison	⑤	←		
-B_goto_A_for_comparison	⑥	←		
-B_goto_A_for_comparison	⑦	←		
-B_goto_A_for_comparison	⑧	←		
-B_goto_A_for_comparison	⑨	←		
-B_goto_A_for_comparison	a	←		
-B_goto_A_for_comparison	b	←		
-B_goto_A_for_comparison	c	←		
-B_goto_A_for_comparison	d	←		
-B_goto_A_for_comparison	e	←		
-B_goto_A_for_comparison	f	←		
+A_goto_B_for_new_comparison	0	→		A_goto_B_for_new_comparison
+A_goto_B_for_new_comparison	1	→		A_goto_B_for_new_comparison
+A_goto_B_for_new_comparison	2	→		A_goto_B_for_new_comparison
+A_goto_B_for_new_comparison	3	→		A_goto_B_for_new_comparison
+A_goto_B_for_new_comparison	4	→		A_goto_B_for_new_comparison
+A_goto_B_for_new_comparison	5	→		A_goto_B_for_new_comparison
+A_goto_B_for_new_comparison	6	→		A_goto_B_for_new_comparison
+A_goto_B_for_new_comparison	7	→		A_goto_B_for_new_comparison
+A_goto_B_for_new_comparison	8	→		A_goto_B_for_new_comparison
+A_goto_B_for_new_comparison	9	→		A_goto_B_for_new_comparison
+A_goto_B_for_new_comparison	A	→		A_goto_B_for_new_comparison
+A_goto_B_for_new_comparison	B	→		A_goto_B_for_new_comparison
+A_goto_B_for_new_comparison	C	→		A_goto_B_for_new_comparison
+A_goto_B_for_new_comparison	D	→		A_goto_B_for_new_comparison
+A_goto_B_for_new_comparison	E	→		A_goto_B_for_new_comparison
+A_goto_B_for_new_comparison	F	→		A_goto_B_for_new_comparison
+A_goto_B_for_new_comparison	,	→		A_goto_B_for_new_comparison
+B_goto_A_for_comparison	⓪	←		B_goto_A_for_comparison
+B_goto_A_for_comparison	①	←		B_goto_A_for_comparison
+B_goto_A_for_comparison	②	←		B_goto_A_for_comparison
+B_goto_A_for_comparison	③	←		B_goto_A_for_comparison
+B_goto_A_for_comparison	④	←		B_goto_A_for_comparison
+B_goto_A_for_comparison	⑤	←		B_goto_A_for_comparison
+B_goto_A_for_comparison	⑥	←		B_goto_A_for_comparison
+B_goto_A_for_comparison	⑦	←		B_goto_A_for_comparison
+B_goto_A_for_comparison	⑧	←		B_goto_A_for_comparison
+B_goto_A_for_comparison	⑨	←		B_goto_A_for_comparison
+B_goto_A_for_comparison	a	←		B_goto_A_for_comparison
+B_goto_A_for_comparison	b	←		B_goto_A_for_comparison
+B_goto_A_for_comparison	c	←		B_goto_A_for_comparison
+B_goto_A_for_comparison	d	←		B_goto_A_for_comparison
+B_goto_A_for_comparison	e	←		B_goto_A_for_comparison
+B_goto_A_for_comparison	f	←		B_goto_A_for_comparison
 B_goto_A_for_comparison	,	←		A_goto_leftmost_symbol_for_comparison
-A_goto_leftmost_symbol_for_comparison	0	←		
-A_goto_leftmost_symbol_for_comparison	1	←		
-A_goto_leftmost_symbol_for_comparison	2	←		
-A_goto_leftmost_symbol_for_comparison	3	←		
-A_goto_leftmost_symbol_for_comparison	4	←		
-A_goto_leftmost_symbol_for_comparison	5	←		
-A_goto_leftmost_symbol_for_comparison	6	←		
-A_goto_leftmost_symbol_for_comparison	7	←		
-A_goto_leftmost_symbol_for_comparison	8	←		
-A_goto_leftmost_symbol_for_comparison	9	←		
-A_goto_leftmost_symbol_for_comparison	A	←		
-A_goto_leftmost_symbol_for_comparison	B	←		
-A_goto_leftmost_symbol_for_comparison	C	←		
-A_goto_leftmost_symbol_for_comparison	D	←		
-A_goto_leftmost_symbol_for_comparison	E	←		
-A_goto_leftmost_symbol_for_comparison	F	←		
+A_goto_leftmost_symbol_for_comparison	0	←		A_goto_leftmost_symbol_for_comparison
+A_goto_leftmost_symbol_for_comparison	1	←		A_goto_leftmost_symbol_for_comparison
+A_goto_leftmost_symbol_for_comparison	2	←		A_goto_leftmost_symbol_for_comparison
+A_goto_leftmost_symbol_for_comparison	3	←		A_goto_leftmost_symbol_for_comparison
+A_goto_leftmost_symbol_for_comparison	4	←		A_goto_leftmost_symbol_for_comparison
+A_goto_leftmost_symbol_for_comparison	5	←		A_goto_leftmost_symbol_for_comparison
+A_goto_leftmost_symbol_for_comparison	6	←		A_goto_leftmost_symbol_for_comparison
+A_goto_leftmost_symbol_for_comparison	7	←		A_goto_leftmost_symbol_for_comparison
+A_goto_leftmost_symbol_for_comparison	8	←		A_goto_leftmost_symbol_for_comparison
+A_goto_leftmost_symbol_for_comparison	9	←		A_goto_leftmost_symbol_for_comparison
+A_goto_leftmost_symbol_for_comparison	A	←		A_goto_leftmost_symbol_for_comparison
+A_goto_leftmost_symbol_for_comparison	B	←		A_goto_leftmost_symbol_for_comparison
+A_goto_leftmost_symbol_for_comparison	C	←		A_goto_leftmost_symbol_for_comparison
+A_goto_leftmost_symbol_for_comparison	D	←		A_goto_leftmost_symbol_for_comparison
+A_goto_leftmost_symbol_for_comparison	E	←		A_goto_leftmost_symbol_for_comparison
+A_goto_leftmost_symbol_for_comparison	F	←		A_goto_leftmost_symbol_for_comparison
 A_goto_leftmost_symbol_for_comparison	⓪	→		A_read_for_comparison
 A_goto_leftmost_symbol_for_comparison	①	→		A_read_for_comparison
 A_goto_leftmost_symbol_for_comparison	②	→		A_read_for_comparison
@@ -2533,22 +2533,22 @@ A_goto_leftmost_symbol_for_comparison	d	→		A_read_for_comparison
 A_goto_leftmost_symbol_for_comparison	e	→		A_read_for_comparison
 A_goto_leftmost_symbol_for_comparison	f	→		A_read_for_comparison
 A_read_for_comparison	,	→		A_goto_leftmost_symbol_for_cleaning
-A_goto_leftmost_symbol_for_cleaning	⓪	←		
-A_goto_leftmost_symbol_for_cleaning	①	←		
-A_goto_leftmost_symbol_for_cleaning	②	←		
-A_goto_leftmost_symbol_for_cleaning	③	←		
-A_goto_leftmost_symbol_for_cleaning	④	←		
-A_goto_leftmost_symbol_for_cleaning	⑤	←		
-A_goto_leftmost_symbol_for_cleaning	⑥	←		
-A_goto_leftmost_symbol_for_cleaning	⑦	←		
-A_goto_leftmost_symbol_for_cleaning	⑧	←		
-A_goto_leftmost_symbol_for_cleaning	⑨	←		
-A_goto_leftmost_symbol_for_cleaning	a	←		
-A_goto_leftmost_symbol_for_cleaning	b	←		
-A_goto_leftmost_symbol_for_cleaning	c	←		
-A_goto_leftmost_symbol_for_cleaning	d	←		
-A_goto_leftmost_symbol_for_cleaning	e	←		
-A_goto_leftmost_symbol_for_cleaning	f	←		
+A_goto_leftmost_symbol_for_cleaning	⓪	←		A_goto_leftmost_symbol_for_cleaning
+A_goto_leftmost_symbol_for_cleaning	①	←		A_goto_leftmost_symbol_for_cleaning
+A_goto_leftmost_symbol_for_cleaning	②	←		A_goto_leftmost_symbol_for_cleaning
+A_goto_leftmost_symbol_for_cleaning	③	←		A_goto_leftmost_symbol_for_cleaning
+A_goto_leftmost_symbol_for_cleaning	④	←		A_goto_leftmost_symbol_for_cleaning
+A_goto_leftmost_symbol_for_cleaning	⑤	←		A_goto_leftmost_symbol_for_cleaning
+A_goto_leftmost_symbol_for_cleaning	⑥	←		A_goto_leftmost_symbol_for_cleaning
+A_goto_leftmost_symbol_for_cleaning	⑦	←		A_goto_leftmost_symbol_for_cleaning
+A_goto_leftmost_symbol_for_cleaning	⑧	←		A_goto_leftmost_symbol_for_cleaning
+A_goto_leftmost_symbol_for_cleaning	⑨	←		A_goto_leftmost_symbol_for_cleaning
+A_goto_leftmost_symbol_for_cleaning	a	←		A_goto_leftmost_symbol_for_cleaning
+A_goto_leftmost_symbol_for_cleaning	b	←		A_goto_leftmost_symbol_for_cleaning
+A_goto_leftmost_symbol_for_cleaning	c	←		A_goto_leftmost_symbol_for_cleaning
+A_goto_leftmost_symbol_for_cleaning	d	←		A_goto_leftmost_symbol_for_cleaning
+A_goto_leftmost_symbol_for_cleaning	e	←		A_goto_leftmost_symbol_for_cleaning
+A_goto_leftmost_symbol_for_cleaning	f	←		A_goto_leftmost_symbol_for_cleaning
 A_goto_leftmost_symbol_for_cleaning	[	→		A_leftright_clean
 A_leftright_clean	⓪	→	0	A_leftright_clean
 A_leftright_clean	①	→	1	A_leftright_clean
@@ -2618,73 +2618,73 @@ A_has_C_goto_B_for_comparison	/	←		A_goto_left_wall_for_marking
 A_has_D_goto_B_for_comparison	/	←		A_goto_left_wall_for_marking
 A_has_E_goto_B_for_comparison	/	←		A_goto_left_wall_for_marking
 A_has_F_goto_B_for_comparison	/	←		A_goto_left_wall_for_marking
-A_goto_left_wall_for_marking	0	←		
-A_goto_left_wall_for_marking	1	←		
-A_goto_left_wall_for_marking	2	←		
-A_goto_left_wall_for_marking	3	←		
-A_goto_left_wall_for_marking	4	←		
-A_goto_left_wall_for_marking	5	←		
-A_goto_left_wall_for_marking	6	←		
-A_goto_left_wall_for_marking	7	←		
-A_goto_left_wall_for_marking	8	←		
-A_goto_left_wall_for_marking	9	←		
-A_goto_left_wall_for_marking	A	←		
-A_goto_left_wall_for_marking	B	←		
-A_goto_left_wall_for_marking	C	←		
-A_goto_left_wall_for_marking	D	←		
-A_goto_left_wall_for_marking	E	←		
-A_goto_left_wall_for_marking	F	←		
-A_goto_left_wall_for_marking	⓪	←	0	
-A_goto_left_wall_for_marking	①	←	1	
-A_goto_left_wall_for_marking	②	←	2	
-A_goto_left_wall_for_marking	③	←	3	
-A_goto_left_wall_for_marking	④	←	4	
-A_goto_left_wall_for_marking	⑤	←	5	
-A_goto_left_wall_for_marking	⑥	←	6	
-A_goto_left_wall_for_marking	⑦	←	7	
-A_goto_left_wall_for_marking	⑧	←	8	
-A_goto_left_wall_for_marking	⑨	←	9	
-A_goto_left_wall_for_marking	a	←	A	
-A_goto_left_wall_for_marking	b	←	B	
-A_goto_left_wall_for_marking	c	←	C	
-A_goto_left_wall_for_marking	d	←	D	
-A_goto_left_wall_for_marking	e	←	E	
-A_goto_left_wall_for_marking	f	←	F	
+A_goto_left_wall_for_marking	0	←		A_goto_left_wall_for_marking
+A_goto_left_wall_for_marking	1	←		A_goto_left_wall_for_marking
+A_goto_left_wall_for_marking	2	←		A_goto_left_wall_for_marking
+A_goto_left_wall_for_marking	3	←		A_goto_left_wall_for_marking
+A_goto_left_wall_for_marking	4	←		A_goto_left_wall_for_marking
+A_goto_left_wall_for_marking	5	←		A_goto_left_wall_for_marking
+A_goto_left_wall_for_marking	6	←		A_goto_left_wall_for_marking
+A_goto_left_wall_for_marking	7	←		A_goto_left_wall_for_marking
+A_goto_left_wall_for_marking	8	←		A_goto_left_wall_for_marking
+A_goto_left_wall_for_marking	9	←		A_goto_left_wall_for_marking
+A_goto_left_wall_for_marking	A	←		A_goto_left_wall_for_marking
+A_goto_left_wall_for_marking	B	←		A_goto_left_wall_for_marking
+A_goto_left_wall_for_marking	C	←		A_goto_left_wall_for_marking
+A_goto_left_wall_for_marking	D	←		A_goto_left_wall_for_marking
+A_goto_left_wall_for_marking	E	←		A_goto_left_wall_for_marking
+A_goto_left_wall_for_marking	F	←		A_goto_left_wall_for_marking
+A_goto_left_wall_for_marking	⓪	←	0	A_goto_left_wall_for_marking
+A_goto_left_wall_for_marking	①	←	1	A_goto_left_wall_for_marking
+A_goto_left_wall_for_marking	②	←	2	A_goto_left_wall_for_marking
+A_goto_left_wall_for_marking	③	←	3	A_goto_left_wall_for_marking
+A_goto_left_wall_for_marking	④	←	4	A_goto_left_wall_for_marking
+A_goto_left_wall_for_marking	⑤	←	5	A_goto_left_wall_for_marking
+A_goto_left_wall_for_marking	⑥	←	6	A_goto_left_wall_for_marking
+A_goto_left_wall_for_marking	⑦	←	7	A_goto_left_wall_for_marking
+A_goto_left_wall_for_marking	⑧	←	8	A_goto_left_wall_for_marking
+A_goto_left_wall_for_marking	⑨	←	9	A_goto_left_wall_for_marking
+A_goto_left_wall_for_marking	a	←	A	A_goto_left_wall_for_marking
+A_goto_left_wall_for_marking	b	←	B	A_goto_left_wall_for_marking
+A_goto_left_wall_for_marking	c	←	C	A_goto_left_wall_for_marking
+A_goto_left_wall_for_marking	d	←	D	A_goto_left_wall_for_marking
+A_goto_left_wall_for_marking	e	←	E	A_goto_left_wall_for_marking
+A_goto_left_wall_for_marking	f	←	F	A_goto_left_wall_for_marking
 A_goto_left_wall_for_marking	,	←	/	rightleft_low_clean
-rightleft_low_clean	⓪	←	0	
-rightleft_low_clean	①	←	1	
-rightleft_low_clean	②	←	2	
-rightleft_low_clean	③	←	3	
-rightleft_low_clean	④	←	4	
-rightleft_low_clean	⑤	←	5	
-rightleft_low_clean	⑥	←	6	
-rightleft_low_clean	⑦	←	7	
-rightleft_low_clean	⑧	←	8	
-rightleft_low_clean	⑨	←	9	
-rightleft_low_clean	a	←	A	
-rightleft_low_clean	b	←	B	
-rightleft_low_clean	c	←	C	
-rightleft_low_clean	d	←	D	
-rightleft_low_clean	e	←	E	
-rightleft_low_clean	f	←	F	
+rightleft_low_clean	⓪	←	0	rightleft_low_clean
+rightleft_low_clean	①	←	1	rightleft_low_clean
+rightleft_low_clean	②	←	2	rightleft_low_clean
+rightleft_low_clean	③	←	3	rightleft_low_clean
+rightleft_low_clean	④	←	4	rightleft_low_clean
+rightleft_low_clean	⑤	←	5	rightleft_low_clean
+rightleft_low_clean	⑥	←	6	rightleft_low_clean
+rightleft_low_clean	⑦	←	7	rightleft_low_clean
+rightleft_low_clean	⑧	←	8	rightleft_low_clean
+rightleft_low_clean	⑨	←	9	rightleft_low_clean
+rightleft_low_clean	a	←	A	rightleft_low_clean
+rightleft_low_clean	b	←	B	rightleft_low_clean
+rightleft_low_clean	c	←	C	rightleft_low_clean
+rightleft_low_clean	d	←	D	rightleft_low_clean
+rightleft_low_clean	e	←	E	rightleft_low_clean
+rightleft_low_clean	f	←	F	rightleft_low_clean
 rightleft_low_clean	,	←		
 rightleft_low_clean	[	→		A_read_for_comparison
 A_goto_left_wall_for_marking	[	→		leftright_full_clean
-leftright_full_clean	⓪	→	0	
-leftright_full_clean	①	→	1	
-leftright_full_clean	②	→	2	
-leftright_full_clean	③	→	3	
-leftright_full_clean	④	→	4	
-leftright_full_clean	⑤	→	5	
-leftright_full_clean	⑥	→	6	
-leftright_full_clean	⑦	→	7	
-leftright_full_clean	⑧	→	8	
-leftright_full_clean	⑨	→	9	
-leftright_full_clean	a	→	A	
-leftright_full_clean	b	→	B	
-leftright_full_clean	c	→	C	
-leftright_full_clean	d	→	D	
-leftright_full_clean	e	→	E	
-leftright_full_clean	f	→	F	
-leftright_full_clean	/	→	,	
+leftright_full_clean	⓪	→	0	leftright_full_clean
+leftright_full_clean	①	→	1	leftright_full_clean
+leftright_full_clean	②	→	2	leftright_full_clean
+leftright_full_clean	③	→	3	leftright_full_clean
+leftright_full_clean	④	→	4	leftright_full_clean
+leftright_full_clean	⑤	→	5	leftright_full_clean
+leftright_full_clean	⑥	→	6	leftright_full_clean
+leftright_full_clean	⑦	→	7	leftright_full_clean
+leftright_full_clean	⑧	→	8	leftright_full_clean
+leftright_full_clean	⑨	→	9	leftright_full_clean
+leftright_full_clean	a	→	A	leftright_full_clean
+leftright_full_clean	b	→	B	leftright_full_clean
+leftright_full_clean	c	→	C	leftright_full_clean
+leftright_full_clean	d	→	D	leftright_full_clean
+leftright_full_clean	e	→	E	leftright_full_clean
+leftright_full_clean	f	→	F	leftright_full_clean
+leftright_full_clean	/	→	,	leftright_full_clean
 leftright_full_clean	]	→		A_goto_tape_start_for_ending
