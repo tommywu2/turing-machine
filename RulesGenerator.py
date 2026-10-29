@@ -147,7 +147,7 @@ for s0 in alphabet:
 rules.write_rule(f"A_leftright_clean", ",", "→", "", f"B_leftright_clean")
 rules.write_rule(f"A_leftright_clean", ";", "→", "", f"B_leftright_clean")
 for s0 in alphabet:
-    rules.write_rule(f"B_leftright_clean", alphabet[s0], "→", s0, f"B_leftright_clean")
+    rules.write_rule(f"B_leftright_clean", alphabet[s0], "→", s0, f"B_leftright_clean") #clean is just for the temporary characters in a hex word when used in a comparison
 rules.write_rule(f"B_leftright_clean", ",", "←", "", f"A_goto_leftmost_symbol_for_comparison")
 rules.write_rule(f"B_leftright_clean", ";", "←", "", f"A_goto_leftmost_symbol_for_comparison")
 
@@ -177,33 +177,33 @@ for s0 in alphabet:
     rules.write_rule(f"A_goto_left_wall_for_marking", s0, "←", "", f"A_goto_left_wall_for_marking")
 for s0 in alphabet:
     rules.write_rule(f"A_goto_left_wall_for_marking", alphabet[s0], "←", s0, f"A_goto_left_wall_for_marking")
-rules.write_rule(f"A_goto_left_wall_for_marking", ",", "←", "/", f"rightleft_low_clean")
-rules.write_rule(f"A_goto_left_wall_for_marking", ";", "←", "/", f"rightleft_low_clean_swap_happened")
+rules.write_rule(f"A_goto_left_wall_for_marking", ",", "←", "/", f"rightleft_pass_clean")
+rules.write_rule(f"A_goto_left_wall_for_marking", ";", "←", "/", f"rightleft_pass_clean_swap_happened")
+
+for s0 in alphabet: #pass clean, removes temporary symbols that are unneed for the next pass (so no wall symbols are removed)
+    rules.write_rule(f"rightleft_pass_clean", alphabet[s0], "←", s0, f"rightleft_pass_clean")
+for s0 in alphabet:
+    rules.write_rule(f"rightleft_pass_clean", s0, "←", "", f"rightleft_pass_clean")
+rules.write_rule(f"rightleft_pass_clean", ",", "←", "", f"rightleft_pass_clean")
+rules.write_rule(f"rightleft_pass_clean", "[", "→", "", f"leftright_deep_clean") #if no swap happened then the tape is already sorted so no need for more steps
+rules.write_rule(f"rightleft_pass_clean", ";", "←", ",", f"rightleft_pass_clean_swap_happened")
 
 for s0 in alphabet:
-    rules.write_rule(f"rightleft_low_clean", alphabet[s0], "←", s0, f"rightleft_low_clean")
+    rules.write_rule(f"rightleft_pass_clean_swap_happened", alphabet[s0], "←", s0, f"rightleft_pass_clean_swap_happened")
 for s0 in alphabet:
-    rules.write_rule(f"rightleft_low_clean", s0, "←", "", f"rightleft_low_clean")
-rules.write_rule(f"rightleft_low_clean", ",", "←", "", f"rightleft_low_clean")
-rules.write_rule(f"rightleft_low_clean", "[", "→", "", f"leftright_full_clean") #if no swap happened then the tape is already sorted so no need for more steps
-rules.write_rule(f"rightleft_low_clean", ";", "←", ",", f"rightleft_low_clean_swap_happened")
-
-for s0 in alphabet:
-    rules.write_rule(f"rightleft_low_clean_swap_happened", alphabet[s0], "←", s0, f"rightleft_low_clean_swap_happened")
-for s0 in alphabet:
-    rules.write_rule(f"rightleft_low_clean_swap_happened", s0, "←", "", f"rightleft_low_clean_swap_happened")
-rules.write_rule(f"rightleft_low_clean_swap_happened", ",", "←", "", f"rightleft_low_clean_swap_happened")
-rules.write_rule(f"rightleft_low_clean_swap_happened", "[", "→", "", f"A_read_for_comparison")
-rules.write_rule(f"rightleft_low_clean_swap_happened", ";", "←", ",", f"rightleft_low_clean_swap_happened")
+    rules.write_rule(f"rightleft_pass_clean_swap_happened", s0, "←", "", f"rightleft_pass_clean_swap_happened")
+rules.write_rule(f"rightleft_pass_clean_swap_happened", ",", "←", "", f"rightleft_pass_clean_swap_happened")
+rules.write_rule(f"rightleft_pass_clean_swap_happened", "[", "→", "", f"A_read_for_comparison")
+rules.write_rule(f"rightleft_pass_clean_swap_happened", ";", "←", ",", f"rightleft_pass_clean_swap_happened")
 
 #when there is no left wall to mark (i.e. the full comparison is done).
-rules.write_rule(f"A_goto_left_wall_for_marking", "[", "→", "", f"leftright_full_clean")
+rules.write_rule(f"A_goto_left_wall_for_marking", "[", "→", "", f"leftright_deep_clean") #deep clean, removes ALL temporary symbols to finish the sort
 for s0 in alphabet:
-    rules.write_rule(f"leftright_full_clean", alphabet[s0], "→", s0, f"leftright_full_clean")
+    rules.write_rule(f"leftright_deep_clean", alphabet[s0], "→", s0, f"leftright_deep_clean")
 for s0 in alphabet:
-    rules.write_rule(f"leftright_full_clean", s0, "→", "", f"leftright_full_clean")
-rules.write_rule(f"leftright_full_clean", "/", "→", ",", f"leftright_full_clean")
+    rules.write_rule(f"leftright_deep_clean", s0, "→", "", f"leftright_deep_clean")
+rules.write_rule(f"leftright_deep_clean", "/", "→", ",", f"leftright_deep_clean")
 
-rules.write_rule(f"leftright_full_clean", ",", "→", "", f"leftright_full_clean")
+rules.write_rule(f"leftright_deep_clean", ",", "→", "", f"leftright_deep_clean")
 
-rules.write_rule(f"leftright_full_clean", "]", "←", "", f"A_goto_tape_start_for_ending")
+rules.write_rule(f"leftright_deep_clean", "]", "←", "", f"A_goto_tape_start_for_ending")
